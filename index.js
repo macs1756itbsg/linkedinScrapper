@@ -81,7 +81,7 @@ const core = async (user) => {
     console.error("❌ CAPTCHA detected. Stopping script.");
 
     await browser.close();
-    process.exit(1); // 🔥 повна зупинка
+    process.exit(1);
   }
 
 
