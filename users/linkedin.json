@@ -1,16 +1,6 @@
 [
   {
-    "id": 12781439,
-    "application_id": 790,
-    "name": "Alex Eveleigh",
-    "first_name": "Alex",
-    "last_name": "Eveleigh",
-    "headline": "StrongPoint - VusionGroup",
-    "summary": null,
-    "job_title": "StrongPoint",
-    "company_name": "VusionGroup"
-  },
-  {
+    "linkedinAccount": "https://es.linkedin.com/in/%C3%A0lex-font-iba%C3%B1ez-2149bb1a0",
     "id": 9537386,
     "application_id": 790,
     "name": "Alex Font Ibañez",
@@ -22,6 +12,7 @@
     "company_name": "PAL Robotics S.L."
   },
   {
+    "linkedinAccount": "https://br.linkedin.com/in/alexafraga",
     "id": 15824673,
     "application_id": 790,
     "name": "ALEX FRAGA",
@@ -33,6 +24,7 @@
     "company_name": "V.S.O.P COMERCIO DE ALIMENTOS E BEBIDAS"
   },
   {
+    "linkedinAccount": "https://www.linkedin.com/in/alex-frederick-8081a2b1",
     "id": 12546367,
     "application_id": 790,
     "name": "Alex Frederick",
@@ -88,6 +80,7 @@
     "company_name": "Zello"
   },
   {
+    "linkedinAccount": "https://www.linkedin.com/in/neilalexgibson",
     "id": 15765903,
     "application_id": 790,
     "name": "Alex Gibson",
@@ -110,6 +103,7 @@
     "company_name": "Samsung Electronics America"
   },
   {
+    "linkedinAccount": "https://uk.linkedin.com/in/alexgillespie",
     "id": 12772843,
     "application_id": 790,
     "name": "Alex Gillespie",
@@ -141,50 +135,5 @@
     "summary": null,
     "job_title": "CFO",
     "company_name": "UNIQLO USA"
-  },
-  {
-    "id": 13961716,
-    "application_id": 790,
-    "name": "Alex Goncalves",
-    "first_name": "Alex",
-    "last_name": "Goncalves",
-    "headline": "OPERATIONS MANAGER CORPORATE - Ancar Ivanhoe Administradora de Shopping Center LT",
-    "summary": null,
-    "job_title": "OPERATIONS MANAGER CORPORATE",
-    "company_name": "Ancar Ivanhoe Administradora de Shopping Center LT"
-  },
-  {
-    "id": 12450675,
-    "application_id": 790,
-    "name": "Alex Gongye",
-    "first_name": "Alex",
-    "last_name": "Gongye",
-    "headline": "Solution Engineer - SUNMI Technology",
-    "summary": null,
-    "job_title": "Solution Engineer",
-    "company_name": "SUNMI Technology"
-  },
-  {
-    "id": 12109404,
-    "application_id": 790,
-    "name": "Alex Gorman",
-    "first_name": "Alex",
-    "last_name": "Gorman",
-    "headline": "VP, eCommerce & Digital Experience - Scholastic Inc",
-    "summary": null,
-    "job_title": "VP, eCommerce & Digital Experience",
-    "company_name": "Scholastic Inc"
-  },
-  {
-    "linkedinAccount": "https://www.linkedin.com/in/alex-gray-7b3324b",
-    "id": 9964141,
-    "application_id": 790,
-    "name": "Alex Gray",
-    "first_name": "Alex",
-    "last_name": "Gray",
-    "headline": "Sr Manager Method Improvements - Ross Stores, Inc.",
-    "summary": null,
-    "job_title": "Sr Manager Method Improvements",
-    "company_name": "Ross Stores, Inc."
   }
 ]

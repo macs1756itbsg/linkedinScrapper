@@ -126,8 +126,8 @@ const readUsers = () => {
 }
 
 function getRandomNumber() {
-  const min = 100_000;
-  const max = 600_000;
+  const min = 10_000;
+  const max = 60_000;
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
@@ -190,23 +190,21 @@ async function setDynamicUserAgent(page) {
 // set client 
 
 
-const core = async (user) => {
+const core = async (user, dir, w, h) => {
   const searchRequest = `${user.first_name} ${user.last_name} ${user.company_name}`;
   const query = encodeURIComponent(searchRequest);
-
-  const dir = `./profiles/${crypto.randomUUID()}`;
 
   const url = `https://www.google.com/search?q=${query}`;
 
   const browser = await puppeteer.launch({
-    headless: false,
+    headless: 'new',
     userDataDir: dir,
     args: [
       "--no-sandbox",
       "--disable-setuid-sandbox",
       "--disable-blink-features=AutomationControlled",
       "--lang=en-US,en",
-      "--window-size=1440,900",
+      `--window-size=${w},${h}`,
       `--proxy-server=http://${proxy}`
     ],
   });
@@ -216,7 +214,7 @@ const core = async (user) => {
 
 
   //init page
-  
+
   const page = await browser.newPage();
   const client = await page.target().createCDPSession();
 
@@ -273,8 +271,8 @@ const core = async (user) => {
   });
 
   await page.setViewport({
-    width: 1440,
-    height: 900,
+    width: w,
+    height: h,
     deviceScaleFactor: 2,
   });
 
@@ -288,26 +286,6 @@ const core = async (user) => {
     };
   });
 
-
-
-  // await setDynamicUserAgent(page);
-
-  // const viewport = randomViewport();
-
-  // await page.setViewport({
-  //   width: viewport.width,
-  //   height: viewport.height,
-  //   deviceScaleFactor: 1,
-  // });
-
-  //await page.goto("https://www.wikipedia.org", { waitUntil: "domcontentloaded" });
-
-  // await new Promise((resolver) => {
-  //   setTimeout(() => {
-  //     resolver('')
-  //   }, 4000 + Math.random() * 3000)
-  // })
-
   await page.goto(url, {
     waitUntil: "networkidle2",
     timeout: 60000,
@@ -318,7 +296,8 @@ const core = async (user) => {
   if (hasCaptcha) {
     console.error("❌ CAPTCHA detected. Stopping script.");
 
-    // await browser.close();
+    await browser.close();
+    return
     // fs.rmSync(dir, { recursive: true, force: true });
     // process.exit(1);
 
@@ -343,8 +322,9 @@ const core = async (user) => {
       .filter(href => href.includes("linkedin.com"));
   });
 
-  //  await browser.close();
-  //  fs.rmSync(dir, { recursive: true, force: true });
+  await browser.close();
+  fs.rmSync(dir, { recursive: true, force: true });
+  addToScrapped(user.id)
   return linkedinLinks[0];
 };
 
@@ -362,13 +342,13 @@ for (const user of users) {
     console.log('Already scrapped');
     continue
   }
-
-  const linkedinAccount = await core(user)
+  const { width, height } = randomViewport()
+  const dir = `./profiles/${crypto.randomUUID()}`;
+  const linkedinAccount = await core(user, dir, width, height)
 
   addNewUserWithLinkedin([{ linkedinAccount, ...user }])
 
   console.log('count', count);
-  addToScrapped(user.id)
   await new Promise(resolve => setTimeout(() => { resolve('') }, getRandomNumber()))
   count += 1
 
