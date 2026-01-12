@@ -1,5 +1,6 @@
 import fs from "fs"
 import puppeteer from "puppeteer";
+//import { solve } from "recaptcha-solver";
 
 const readUsers = () => {
   return JSON.parse(fs.readFileSync('./users/index.json', 'utf8'))
@@ -72,18 +73,20 @@ const core = async (user) => {
     timeout: 60000,
   });
 
-  // Чекаємо результати пошуку
-  await page.waitForSelector("a");
-
   const hasCaptcha = await page.$("#captcha-form");
 
   if (hasCaptcha) {
     console.error("❌ CAPTCHA detected. Stopping script.");
 
+    //await solve(page);
+
+    //  console.log('captcha solved');
+
     await browser.close();
     process.exit(1);
   }
 
+  await page.waitForSelector("a");
 
 
   const linkedinLinks = await page.evaluate(() => {
