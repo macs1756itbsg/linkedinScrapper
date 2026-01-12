@@ -1,6 +1,18 @@
 import fs from "fs"
 import puppeteer from "puppeteer";
+import crypto from "crypto";
 //import { solve } from "recaptcha-solver";
+
+
+function randomViewport() {
+  const widths = [1280, 1366, 1440, 1536, 1600, 1680, 1920];
+  const heights = [720, 768, 800, 900, 1024, 1080];
+
+  const width = widths[Math.floor(Math.random() * widths.length)];
+  const height = heights[Math.floor(Math.random() * heights.length)];
+
+  return { width, height };
+}
 
 
 //  https://proxyscrape.com
@@ -114,8 +126,8 @@ const readUsers = () => {
 }
 
 function getRandomNumber() {
-  const min = 10000;
-  const max = 60000;
+  const min = 100_000;
+  const max = 600_000;
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
@@ -149,32 +161,152 @@ const addNewUserWithLinkedin = (newUsers) => {
   console.log(`Saved ${newUsers.length} new users. Total: ${all.length}`);
 };
 
-const dir = `./profiles/${crypto.randomUUID()}`;
+
+
+//set client 
+
+function randomUserAgent() {
+  const chromeVersions = ["119.0.0.0", "120.0.0.0", "121.0.0.0"];
+  const platforms = [
+    "Windows NT 10.0; Win64; x64",
+    "Macintosh; Intel Mac OS X 10_15_7",
+    "X11; Linux x86_64",
+  ];
+
+  const platform = platforms[Math.floor(Math.random() * platforms.length)];
+  const version = chromeVersions[Math.floor(Math.random() * chromeVersions.length)];
+
+  return `Mozilla/5.0 (${platform}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/${version} Safari/537.36`;
+}
+
+async function setDynamicUserAgent(page) {
+  const client = await page.target().createCDPSession();
+
+  await client.send("Network.setUserAgentOverride", {
+    userAgent: randomUserAgent(),
+    platform: "Win32",
+  });
+}
+// set client 
 
 
 const core = async (user) => {
   const searchRequest = `${user.first_name} ${user.last_name} ${user.company_name}`;
   const query = encodeURIComponent(searchRequest);
 
+  const dir = `./profiles/${crypto.randomUUID()}`;
+
   const url = `https://www.google.com/search?q=${query}`;
 
   const browser = await puppeteer.launch({
-    headless: false, // важливо
+    headless: false,
     userDataDir: dir,
     args: [
       "--no-sandbox",
       "--disable-setuid-sandbox",
+      "--disable-blink-features=AutomationControlled",
+      "--lang=en-US,en",
+      "--window-size=1440,900",
       `--proxy-server=http://${proxy}`
     ],
   });
 
+  // puppeteer.use(StealthPlugin());
+
+
+
+  //init page
+  
   const page = await browser.newPage();
+  const client = await page.target().createCDPSession();
 
-  await page.setUserAgent(
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/120 Safari/537.36"
-  );
+  await client.send("Network.setUserAgentOverride", {
+    userAgent:
+      "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) " +
+      "AppleWebKit/537.36 (KHTML, like Gecko) " +
+      "Chrome/120.0.0.0 Safari/537.36",
+    platform: "MacIntel",
+  });
 
-  await page.setViewport({ width: 1280, height: 800 });
+  await page.evaluateOnNewDocument(() => {
+    // navigator.webdriver
+    Object.defineProperty(navigator, "webdriver", {
+      get: () => undefined,
+    });
+
+    // platform
+    Object.defineProperty(navigator, "platform", {
+      get: () => "MacIntel",
+    });
+
+    // vendor
+    Object.defineProperty(navigator, "vendor", {
+      get: () => "Google Inc.",
+    });
+
+    // languages
+    Object.defineProperty(navigator, "languages", {
+      get: () => ["en-US", "en"],
+    });
+
+    // hardware
+    Object.defineProperty(navigator, "hardwareConcurrency", {
+      get: () => 8,
+    });
+
+    Object.defineProperty(navigator, "deviceMemory", {
+      get: () => 8,
+    });
+  });
+
+
+  await page.evaluateOnNewDocument(() => {
+    Object.defineProperty(navigator, "plugins", {
+      get: () => [
+        {
+          name: "Chrome PDF Viewer",
+          filename: "internal-pdf-viewer",
+          description: "Portable Document Format",
+        },
+      ],
+    });
+  });
+
+  await page.setViewport({
+    width: 1440,
+    height: 900,
+    deviceScaleFactor: 2,
+  });
+
+  await page.evaluateOnNewDocument(() => {
+    const getParameter = WebGLRenderingContext.prototype.getParameter;
+
+    WebGLRenderingContext.prototype.getParameter = function (parameter) {
+      if (parameter === 37445) return "Apple";
+      if (parameter === 37446) return "Apple M1";
+      return getParameter.call(this, parameter);
+    };
+  });
+
+
+
+  // await setDynamicUserAgent(page);
+
+  // const viewport = randomViewport();
+
+  // await page.setViewport({
+  //   width: viewport.width,
+  //   height: viewport.height,
+  //   deviceScaleFactor: 1,
+  // });
+
+  //await page.goto("https://www.wikipedia.org", { waitUntil: "domcontentloaded" });
+
+  // await new Promise((resolver) => {
+  //   setTimeout(() => {
+  //     resolver('')
+  //   }, 4000 + Math.random() * 3000)
+  // })
 
   await page.goto(url, {
     waitUntil: "networkidle2",
@@ -186,9 +318,9 @@ const core = async (user) => {
   if (hasCaptcha) {
     console.error("❌ CAPTCHA detected. Stopping script.");
 
-    await browser.close();
-    fs.rmSync(dir, { recursive: true, force: true });
-    process.exit(1);
+    // await browser.close();
+    // fs.rmSync(dir, { recursive: true, force: true });
+    // process.exit(1);
 
   }
 
@@ -211,8 +343,8 @@ const core = async (user) => {
       .filter(href => href.includes("linkedin.com"));
   });
 
-  await browser.close();
-  fs.rmSync(dir, { recursive: true, force: true });
+  //  await browser.close();
+  //  fs.rmSync(dir, { recursive: true, force: true });
   return linkedinLinks[0];
 };
 
