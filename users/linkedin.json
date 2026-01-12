@@ -135,5 +135,77 @@
     "summary": null,
     "job_title": "CFO",
     "company_name": "UNIQLO USA"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/alex-gray-7b3324b",
+    "id": 9964141,
+    "application_id": 790,
+    "name": "Alex Gray",
+    "first_name": "Alex",
+    "last_name": "Gray",
+    "headline": "Sr Manager Method Improvements - Ross Stores, Inc.",
+    "summary": null,
+    "job_title": "Sr Manager Method Improvements",
+    "company_name": "Ross Stores, Inc."
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/alex-gu-392483111",
+    "id": 15186032,
+    "application_id": 790,
+    "name": "Alex Gu",
+    "first_name": "Alex",
+    "last_name": "Gu",
+    "headline": "Amazon Signage - Business Development - Amazon Web Services, Inc",
+    "summary": null,
+    "job_title": "Amazon Signage - Business Development",
+    "company_name": "Amazon Web Services, Inc"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/alexhagenbuch",
+    "id": 15676268,
+    "application_id": 790,
+    "name": "Alex Hagenbuch",
+    "first_name": "Alex",
+    "last_name": "Hagenbuch",
+    "headline": "Global Product Manager, Automation & Transporter - Franke Foodservice Systems",
+    "summary": null,
+    "job_title": "Global Product Manager, Automation & Transporter",
+    "company_name": "Franke Foodservice Systems"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/alexhagiage",
+    "id": 15824473,
+    "application_id": 790,
+    "name": "Alex Hagiage",
+    "first_name": "Alex",
+    "last_name": "Hagiage",
+    "headline": "President - Gaudier",
+    "summary": null,
+    "job_title": "President",
+    "company_name": "Gaudier"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/alexhalkin",
+    "id": 15786388,
+    "application_id": 790,
+    "name": "Alex Halkin",
+    "first_name": "Alex",
+    "last_name": "Halkin",
+    "headline": "Chief Strategy Officer - TORBA",
+    "summary": null,
+    "job_title": "Chief Strategy Officer",
+    "company_name": "TORBA"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/alex-hase-2045131",
+    "id": 10020623,
+    "application_id": 790,
+    "name": "Alex Hase",
+    "first_name": "Alex",
+    "last_name": "Hase",
+    "headline": "CRO - MIRAKL, INC",
+    "summary": null,
+    "job_title": "CRO",
+    "company_name": "MIRAKL, INC"
   }
 ]

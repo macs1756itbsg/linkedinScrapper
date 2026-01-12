@@ -126,8 +126,8 @@ const readUsers = () => {
 }
 
 function getRandomNumber() {
-  const min = 10_000;
-  const max = 60_000;
+  const min = 100_000;
+  const max = 600_000;
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
@@ -165,39 +165,46 @@ const addNewUserWithLinkedin = (newUsers) => {
 
 //set client 
 
-function randomUserAgent() {
-  const chromeVersions = ["119.0.0.0", "120.0.0.0", "121.0.0.0"];
-  const platforms = [
-    "Windows NT 10.0; Win64; x64",
-    "Macintosh; Intel Mac OS X 10_15_7",
-    "X11; Linux x86_64",
-  ];
+// function randomUserAgent() {
+//   const chromeVersions = ["119.0.0.0", "120.0.0.0", "121.0.0.0"];
+//   const platforms = [
+//     "Windows NT 10.0; Win64; x64",
+//     "Macintosh; Intel Mac OS X 10_15_7",
+//     "X11; Linux x86_64",
+//   ];
 
-  const platform = platforms[Math.floor(Math.random() * platforms.length)];
-  const version = chromeVersions[Math.floor(Math.random() * chromeVersions.length)];
+//   const platform = platforms[Math.floor(Math.random() * platforms.length)];
+//   const version = chromeVersions[Math.floor(Math.random() * chromeVersions.length)];
 
-  return `Mozilla/5.0 (${platform}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/${version} Safari/537.36`;
-}
+//   return `Mozilla/5.0 (${platform}) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/${version} Safari/537.36`;
+// }
 
-async function setDynamicUserAgent(page) {
-  const client = await page.target().createCDPSession();
+// async function setDynamicUserAgent(page) {
+//   const client = await page.target().createCDPSession();
 
-  await client.send("Network.setUserAgentOverride", {
-    userAgent: randomUserAgent(),
-    platform: "Win32",
-  });
-}
+//   await client.send("Network.setUserAgentOverride", {
+//     userAgent: randomUserAgent(),
+//     platform: "Win32",
+//   });
+// }
 // set client 
 
 
 const core = async (user, dir, w, h) => {
-  const searchRequest = `${user.first_name} ${user.last_name} ${user.company_name}`;
-  const query = encodeURIComponent(searchRequest);
+  //const searchRequest = `${user.first_name} ${user.last_name} ${user.company_name}`;
+  //const query = encodeURIComponent(searchRequest);
 
-  const url = `https://www.google.com/search?q=${query}`;
+  //const url = `https://www.google.com/search?q=${query}`;
+
+  const bingQuery = encodeURIComponent(
+    `site:linkedin.com/in ${user.first_name} ${user.last_name} ${user.company_name}`
+  );
+
+  const url = `https://www.bing.com/search?q=${bingQuery}&form=MSNVS`;
+
 
   const browser = await puppeteer.launch({
-    headless: 'new',
+    headless: false,
     userDataDir: dir,
     args: [
       "--no-sandbox",
@@ -205,7 +212,7 @@ const core = async (user, dir, w, h) => {
       "--disable-blink-features=AutomationControlled",
       "--lang=en-US,en",
       `--window-size=${w},${h}`,
-      `--proxy-server=http://${proxy}`
+   //   `--proxy-server=http://${proxy}`
     ],
   });
 
@@ -226,49 +233,49 @@ const core = async (user, dir, w, h) => {
     platform: "MacIntel",
   });
 
-  await page.evaluateOnNewDocument(() => {
-    // navigator.webdriver
-    Object.defineProperty(navigator, "webdriver", {
-      get: () => undefined,
-    });
+  // await page.evaluateOnNewDocument(() => {
+  //   // navigator.webdriver
+  //   Object.defineProperty(navigator, "webdriver", {
+  //     get: () => undefined,
+  //   });
 
-    // platform
-    Object.defineProperty(navigator, "platform", {
-      get: () => "MacIntel",
-    });
+  //   // platform
+  //   Object.defineProperty(navigator, "platform", {
+  //     get: () => "MacIntel",
+  //   });
 
-    // vendor
-    Object.defineProperty(navigator, "vendor", {
-      get: () => "Google Inc.",
-    });
+  //   // vendor
+  //   Object.defineProperty(navigator, "vendor", {
+  //     get: () => "Google Inc.",
+  //   });
 
-    // languages
-    Object.defineProperty(navigator, "languages", {
-      get: () => ["en-US", "en"],
-    });
+  //   // languages
+  //   Object.defineProperty(navigator, "languages", {
+  //     get: () => ["en-US", "en"],
+  //   });
 
-    // hardware
-    Object.defineProperty(navigator, "hardwareConcurrency", {
-      get: () => 8,
-    });
+  //   // hardware
+  //   Object.defineProperty(navigator, "hardwareConcurrency", {
+  //     get: () => 8,
+  //   });
 
-    Object.defineProperty(navigator, "deviceMemory", {
-      get: () => 8,
-    });
-  });
+  //   Object.defineProperty(navigator, "deviceMemory", {
+  //     get: () => 8,
+  //   });
+  // });
 
 
-  await page.evaluateOnNewDocument(() => {
-    Object.defineProperty(navigator, "plugins", {
-      get: () => [
-        {
-          name: "Chrome PDF Viewer",
-          filename: "internal-pdf-viewer",
-          description: "Portable Document Format",
-        },
-      ],
-    });
-  });
+  // await page.evaluateOnNewDocument(() => {
+  //   Object.defineProperty(navigator, "plugins", {
+  //     get: () => [
+  //       {
+  //         name: "Chrome PDF Viewer",
+  //         filename: "internal-pdf-viewer",
+  //         description: "Portable Document Format",
+  //       },
+  //     ],
+  //   });
+  // });
 
   await page.setViewport({
     width: w,
@@ -276,15 +283,15 @@ const core = async (user, dir, w, h) => {
     deviceScaleFactor: 2,
   });
 
-  await page.evaluateOnNewDocument(() => {
-    const getParameter = WebGLRenderingContext.prototype.getParameter;
+  // await page.evaluateOnNewDocument(() => {
+  //   const getParameter = WebGLRenderingContext.prototype.getParameter;
 
-    WebGLRenderingContext.prototype.getParameter = function (parameter) {
-      if (parameter === 37445) return "Apple";
-      if (parameter === 37446) return "Apple M1";
-      return getParameter.call(this, parameter);
-    };
-  });
+  //   WebGLRenderingContext.prototype.getParameter = function (parameter) {
+  //     if (parameter === 37445) return "Apple";
+  //     if (parameter === 37446) return "Apple M1";
+  //     return getParameter.call(this, parameter);
+  //   };
+  // });
 
   await page.goto(url, {
     waitUntil: "networkidle2",
@@ -322,8 +329,8 @@ const core = async (user, dir, w, h) => {
       .filter(href => href.includes("linkedin.com"));
   });
 
-  await browser.close();
-  fs.rmSync(dir, { recursive: true, force: true });
+  //await browser.close();
+ // fs.rmSync(dir, { recursive: true, force: true });
   addToScrapped(user.id)
   return linkedinLinks[0];
 };
