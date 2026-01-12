@@ -8793,5 +8793,104 @@
     "summary": null,
     "job_title": "Director",
     "company_name": "Dill Inc."
+  },
+  {
+    "id": 9997595,
+    "application_id": 790,
+    "name": "Alex Colucci",
+    "first_name": "Alex",
+    "last_name": "Colucci",
+    "headline": "Senior Solution Consultant - XY Retail",
+    "summary": null,
+    "job_title": "Senior Solution Consultant",
+    "company_name": "XY Retail"
+  },
+  {
+    "id": 15832956,
+    "application_id": 790,
+    "name": "Alex Deloach",
+    "first_name": "Alex",
+    "last_name": "Deloach",
+    "headline": "Director - Locatium.AI",
+    "summary": null,
+    "job_title": "Director",
+    "company_name": "Locatium.AI"
+  },
+  {
+    "id": 15664339,
+    "application_id": 790,
+    "name": "Alex Dombroski",
+    "first_name": "Alex",
+    "last_name": "Dombroski",
+    "headline": "Solution Engineer - UiPath",
+    "summary": null,
+    "job_title": "Solution Engineer",
+    "company_name": "UiPath"
+  },
+  {
+    "id": 15556178,
+    "application_id": 790,
+    "name": "Alex Edwards",
+    "first_name": "Alex",
+    "last_name": "Edwards",
+    "headline": "Partner Development Manager - One Source Communications",
+    "summary": null,
+    "job_title": "Partner Development Manager",
+    "company_name": "One Source Communications"
+  },
+  {
+    "id": 12781439,
+    "application_id": 790,
+    "name": "Alex Eveleigh",
+    "first_name": "Alex",
+    "last_name": "Eveleigh",
+    "headline": "StrongPoint - VusionGroup",
+    "summary": null,
+    "job_title": "StrongPoint",
+    "company_name": "VusionGroup"
+  },
+  {
+    "id": 9537386,
+    "application_id": 790,
+    "name": "Alex Font Ibañez",
+    "first_name": "Alex",
+    "last_name": "Font Ibañez",
+    "headline": "Intralogistics Business Manager - PAL Robotics S.L.",
+    "summary": "",
+    "job_title": "Intralogistics Business Manager",
+    "company_name": "PAL Robotics S.L."
+  },
+  {
+    "id": 15824673,
+    "application_id": 790,
+    "name": "ALEX FRAGA",
+    "first_name": "ALEX",
+    "last_name": "FRAGA",
+    "headline": "VENDAS - V.S.O.P COMERCIO DE ALIMENTOS E BEBIDAS",
+    "summary": null,
+    "job_title": "VENDAS",
+    "company_name": "V.S.O.P COMERCIO DE ALIMENTOS E BEBIDAS"
+  },
+  {
+    "id": 12546367,
+    "application_id": 790,
+    "name": "Alex Frederick",
+    "first_name": "Alex",
+    "last_name": "Frederick",
+    "headline": "Regional Retail Vice President, Sales - Toast",
+    "summary": null,
+    "job_title": "Regional Retail Vice President, Sales",
+    "company_name": "Toast"
+  },
+  {
+    "id": 15672221,
+    "application_id": 790,
+    "name": "Alex Galewsky",
+    "first_name": "Alex",
+    "last_name": "Galewsky",
+    "headline": "GPJ - Kyndryl, Inc.",
+    "summary": null,
+    "job_title": "GPJ",
+    "company_name": "Kyndryl, Inc."
   }
 ]
