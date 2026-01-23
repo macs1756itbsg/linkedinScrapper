@@ -62,6 +62,9 @@ const core = async (user, dir) => {
 
         // 🌍 Таймзона (Україна)
         "--timezone=Europe/Kyiv",
+        "--disable-dev-shm-usage", 
+        "--single-process",   
+        "--disable-gpu"
       ],
       defaultViewport: chromium.defaultViewport,
       executablePath: await chromium.executablePath(),
