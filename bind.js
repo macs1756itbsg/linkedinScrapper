@@ -1,7 +1,6 @@
 import fs from "fs"
 import puppeteer from "puppeteer";
-import crypto from "crypto";
-//import { solve } from "recaptcha-solver";
+import chromium from "@sparticuz/chromium";
 
 
 const readUsers = () => {
@@ -52,22 +51,22 @@ const core = async (user, dir) => {
   const url = `https://www.bing.com/search?q=${bingQuery}&form=QBLH&sp=-1&ghc=1&lq=0&pq=${user.first_name}+${user.last_name}+${user.company_name}&sc=6-27&qs=n&sk=&cvid=F94470FC8398407C8E4DD512197FE616`;
 
   const browser = await puppeteer.launch({
-    headless: "new",
-    //  userDataDir: "/Users/user/Library/Application Support/Google/Chrome/Default",
-    //  executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", 
-   // executablePath: "/snap/bin/chromium",
     args: [
-      "--no-sandbox",
-      "--disable-setuid-sandbox",
-      "--disable-dev-shm-usage",
-
+      ...chromium.args,
+      "--disable-gpu",
+      "--font-render-hinting=none",
+      "--allow-file-access-from-files",
       // 🌍 Мова браузера
       "--lang=uk-UA,uk,en-US,en",
 
       // 🌍 Таймзона (Україна)
       "--timezone=Europe/Kyiv",
-
     ],
+    defaultViewport: chromium.defaultViewport,
+    executablePath: await chromium.executablePath(),
+    headless: true,
+    ignoreHTTPSErrors: true,
+    devtools: false,
   });
 
   console.log('browser', browser);
