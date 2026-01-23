@@ -53,8 +53,8 @@ const core = async (user, dir) => {
 
   const browser = await puppeteer.launch({
     headless: "new",
-  //  userDataDir: "/Users/user/Library/Application Support/Google/Chrome/Default",
-  //  executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", 
+    //  userDataDir: "/Users/user/Library/Application Support/Google/Chrome/Default",
+    //  executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", 
     args: [
       "--no-sandbox",
       "--disable-setuid-sandbox",
@@ -68,8 +68,14 @@ const core = async (user, dir) => {
     ],
   });
 
+  console.log('browser', browser);
+
+
 
   const page = await browser.newPage();
+
+  console.log('page', page);
+
 
 
   // 🧠 Firefox-like User-Agent (важливо!)
@@ -109,10 +115,13 @@ const core = async (user, dir) => {
     };
   });
 
-  await page.goto(url, {
+  const gotoRes = await page.goto(url, {
     waitUntil: "networkidle2",
     timeout: 60000,
   });
+
+  console.log('gotoRes', gotoRes);
+
 
   await page.waitForSelector("a");
 

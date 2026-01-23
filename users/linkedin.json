@@ -28,5 +28,25 @@
     "company_name": "Hopgogo",
     "country": "Türkiye",
     "objectID": "ff9b0145-ac1d-4af6-9dbd-aaa28a222d86"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/ashrafkuzbari",
+    "id": "ff8a88c9-41cd-42c3-a123-2a766ae2c6f8",
+    "first_name": "Ashraf",
+    "last_name": "Kuzbari",
+    "job_title": "Co-Founder",
+    "company_name": "NAWA",
+    "country": "United States",
+    "objectID": "ff8a88c9-41cd-42c3-a123-2a766ae2c6f8"
+  },
+  {
+    "linkedinAccount": "https://ng.linkedin.com/in/adedoyin-ojo",
+    "id": "ff7f8de4-f7c5-4504-9604-e14da3d5483c",
+    "first_name": "Adedoyin",
+    "last_name": "Ojo",
+    "job_title": "STRATEGIC PARTNERSHIP",
+    "company_name": "FIRSTBANK OF NIGERIA",
+    "country": "Nigeria",
+    "objectID": "ff7f8de4-f7c5-4504-9604-e14da3d5483c"
   }
 ]
