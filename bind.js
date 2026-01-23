@@ -54,7 +54,7 @@ const core = async (user, dir) => {
   const browser = await puppeteer.launch({
     headless: "new",
     userDataDir: "/Users/user/Library/Application Support/Google/Chrome/Default",
-    executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+    executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", 
     args: [
       "--no-sandbox",
       "--disable-setuid-sandbox",
