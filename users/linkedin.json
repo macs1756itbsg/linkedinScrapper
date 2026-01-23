@@ -48,5 +48,24 @@
     "company_name": "FIRSTBANK OF NIGERIA",
     "country": "Nigeria",
     "objectID": "ff7f8de4-f7c5-4504-9604-e14da3d5483c"
+  },
+  {
+    "id": "ff59e044-c157-4bea-a7e4-6a665d510d02",
+    "first_name": "Abdulla",
+    "last_name": "Twair",
+    "job_title": "CTO",
+    "company_name": "Matbakhli",
+    "country": "Qatar",
+    "objectID": "ff59e044-c157-4bea-a7e4-6a665d510d02"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/anton-galatonov-59312911b",
+    "id": "ff52b4a5-9bd2-4500-821a-eae6acabf2ed",
+    "first_name": "Anton",
+    "last_name": "Galatonov",
+    "job_title": "CEO",
+    "company_name": "Eden",
+    "country": "United States",
+    "objectID": "ff52b4a5-9bd2-4500-821a-eae6acabf2ed"
   }
 ]
