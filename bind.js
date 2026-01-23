@@ -55,7 +55,7 @@ const core = async (user, dir) => {
     headless: "new",
     //  userDataDir: "/Users/user/Library/Application Support/Google/Chrome/Default",
     //  executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", 
-    executablePath: "/usr/bin/chromium-browser",
+    executablePath: "/snap/bin/chromium",
     args: [
       "--no-sandbox",
       "--disable-setuid-sandbox",
