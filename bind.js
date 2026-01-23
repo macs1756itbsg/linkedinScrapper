@@ -62,8 +62,8 @@ const core = async (user, dir) => {
 
         // 🌍 Таймзона (Україна)
         "--timezone=Europe/Kyiv",
-        "--disable-dev-shm-usage", 
-        "--single-process",   
+        "--disable-dev-shm-usage",
+        "--single-process",
         "--disable-gpu"
       ],
       defaultViewport: chromium.defaultViewport,
@@ -74,15 +74,7 @@ const core = async (user, dir) => {
       dumpio: true
     });
 
-    console.log('browser', browser);
-
-
-
     const page = await browser.newPage();
-
-    console.log('page', page);
-
-
 
     // 🧠 Firefox-like User-Agent (важливо!)
     await page.setUserAgent(
@@ -121,13 +113,10 @@ const core = async (user, dir) => {
       };
     });
 
-    const gotoRes = await page.goto(url, {
+    await page.goto(url, {
       waitUntil: "networkidle2",
       timeout: 60000,
     });
-
-    console.log('gotoRes', gotoRes);
-
 
     await page.waitForSelector("a");
 
