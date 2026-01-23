@@ -67,5 +67,62 @@
     "company_name": "Eden",
     "country": "United States",
     "objectID": "ff52b4a5-9bd2-4500-821a-eae6acabf2ed"
+  },
+  {
+    "id": "ff41003a-54a5-48c9-bb51-eb7e1a82653a",
+    "first_name": "Amr",
+    "last_name": "Atya",
+    "job_title": "Software Quality Lead / Volunteer",
+    "company_name": "SAP / Quranlingo",
+    "country": "Germany",
+    "objectID": "ff41003a-54a5-48c9-bb51-eb7e1a82653a"
+  },
+  {
+    "id": "ff227eb4-a6ad-4e6a-9c21-826038be9fc1",
+    "first_name": "Ali",
+    "last_name": "Malik",
+    "job_title": "Partner",
+    "company_name": "McKinsey & Company",
+    "country": "Qatar",
+    "objectID": "ff227eb4-a6ad-4e6a-9c21-826038be9fc1"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/itsadrianpinto",
+    "id": "ff19ba34-f108-433f-8a0e-6f3b59378fff",
+    "first_name": "Adrian",
+    "last_name": "Pinto",
+    "job_title": "Chief Strategy & Investment Officer",
+    "company_name": "adrian@sawavp.com",
+    "country": "Qatar",
+    "objectID": "ff19ba34-f108-433f-8a0e-6f3b59378fff"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/aly-el-shalakany-a6aa0b31",
+    "id": "fed6eac4-6180-4fb2-94a5-407d13c5975c",
+    "first_name": "Aly",
+    "last_name": "El Shalakany",
+    "job_title": "Venture Partner",
+    "company_name": "A-typical Ventures",
+    "country": "Qatar",
+    "objectID": "fed6eac4-6180-4fb2-94a5-407d13c5975c"
+  },
+  {
+    "linkedinAccount": "https://lb.linkedin.com/in/assaad-kassis-a3b6133a",
+    "id": "fe9fa042-56e7-4fd4-9859-224d668888d3",
+    "first_name": "Assaad",
+    "last_name": "Kassis",
+    "job_title": "Founder",
+    "company_name": "E-GAP",
+    "country": "United Arab Emirates",
+    "objectID": "fe9fa042-56e7-4fd4-9859-224d668888d3"
+  },
+  {
+    "id": "fe9c1de9-6b53-44e5-8728-378fcc3b8263",
+    "first_name": "Aurelio",
+    "last_name": "Gentile",
+    "job_title": "Amministratore",
+    "company_name": "Build Lenders",
+    "country": "Italy",
+    "objectID": "fe9c1de9-6b53-44e5-8728-378fcc3b8263"
   }
 ]
