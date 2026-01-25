@@ -52,26 +52,20 @@ const core = async (user, dir) => {
 
   try {
     const browser = await puppeteer.launch({
+      headless: "new",
+      userDataDir: "/Users/user/Library/Application Support/Google/Chrome/Default",
+      executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
       args: [
-        ...chromium.args,
-        "--disable-gpu",
-        "--font-render-hinting=none",
-        "--allow-file-access-from-files",
+        "--no-sandbox",
+        "--disable-setuid-sandbox",
+
         // 🌍 Мова браузера
         "--lang=uk-UA,uk,en-US,en",
 
         // 🌍 Таймзона (Україна)
         "--timezone=Europe/Kyiv",
-        "--disable-dev-shm-usage",
-        "--single-process",
-        "--disable-gpu"
+
       ],
-      defaultViewport: chromium.defaultViewport,
-      executablePath: await chromium.executablePath(),
-      headless: true,
-      ignoreHTTPSErrors: true,
-      devtools: false,
-      dumpio: true
     });
 
     const page = await browser.newPage();
