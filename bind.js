@@ -9,7 +9,7 @@ const readUsers = () => {
 
 function getRandomNumber() {
   const min = 10_000;
-  const max = 60_000;
+  const max = 50_000;
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
@@ -50,23 +50,24 @@ const core = async (user, dir) => {
 
   const url = `https://www.bing.com/search?q=${bingQuery}&form=QBLH&sp=-1&ghc=1&lq=0&pq=${user.first_name}+${user.last_name}+${user.company_name}&sc=6-27&qs=n&sk=&cvid=F94470FC8398407C8E4DD512197FE616`;
 
+  const browser = await puppeteer.launch({
+    headless: "new",
+    userDataDir: "/Users/user/Library/Application Support/Google/Chrome/Default",
+    executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
+    args: [
+      "--no-sandbox",
+      "--disable-setuid-sandbox",
+
+      // 🌍 Мова браузера
+      "--lang=uk-UA,uk,en-US,en",
+
+      // 🌍 Таймзона (Україна)
+      "--timezone=Europe/Kyiv",
+
+    ],
+  });
+
   try {
-    const browser = await puppeteer.launch({
-      headless: "new",
-      userDataDir: "/Users/user/Library/Application Support/Google/Chrome/Default",
-      executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
-      args: [
-        "--no-sandbox",
-        "--disable-setuid-sandbox",
-
-        // 🌍 Мова браузера
-        "--lang=uk-UA,uk,en-US,en",
-
-        // 🌍 Таймзона (Україна)
-        "--timezone=Europe/Kyiv",
-
-      ],
-    });
 
     const page = await browser.newPage();
 
@@ -180,6 +181,7 @@ const core = async (user, dir) => {
     return scrappedLinkedin;
 
   } catch (error) {
+    await browser.close();
     console.log(error)
   }
 };
