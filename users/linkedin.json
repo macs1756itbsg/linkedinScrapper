@@ -19802,5 +19802,3204 @@
     "company_name": "Al Jazeera Media",
     "country": "Qatar",
     "objectID": "07ac94df-881e-46be-aea3-050cf3b86638"
+  },
+  {
+    "linkedinAccount": "https://eg.linkedin.com/in/tamer-el-hariry-98150661",
+    "id": "06c81359-34f8-4685-bb7e-e4fbba28b479",
+    "first_name": "Tamer",
+    "last_name": "El-Hariry",
+    "job_title": "CEO",
+    "company_name": "AIT",
+    "country": "Saudi Arabia",
+    "objectID": "06c81359-34f8-4685-bb7e-e4fbba28b479"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/farida-elgazzar-274b8a183",
+    "id": "05f4806b-d938-4c1e-8a8c-8fea5d1b4a26",
+    "first_name": "Farida",
+    "last_name": "Elgazzar",
+    "job_title": "Partner Marketing Manager, Gulf",
+    "company_name": "Dell Technologies",
+    "country": "United Arab Emirates",
+    "objectID": "05f4806b-d938-4c1e-8a8c-8fea5d1b4a26"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/moe-alhalabi",
+    "id": "04e30e7f-1843-4b94-9735-ca7a694392be",
+    "first_name": "Mohamad",
+    "last_name": "El Halabi",
+    "job_title": "Senior Procurement Consultant ",
+    "company_name": "Ministry of Communications and Information Technology",
+    "country": "Qatar",
+    "objectID": "04e30e7f-1843-4b94-9735-ca7a694392be"
+  },
+  {
+    "id": "02773d5c-64c2-4d84-bdaa-fccb0b1fc55e",
+    "first_name": "Mohamed Magdy Mahmoud",
+    "last_name": "Elasmar",
+    "job_title": "AI Expert",
+    "company_name": "Sellsite",
+    "country": "Egypt",
+    "objectID": "02773d5c-64c2-4d84-bdaa-fccb0b1fc55e"
+  },
+  {
+    "id": "025d8836-3aa0-4f0f-ba60-e4dcd4d0b6e1",
+    "first_name": "Fatma",
+    "last_name": "Elnahas",
+    "job_title": "Data Analyst",
+    "company_name": "Bayyinah",
+    "country": "Qatar",
+    "objectID": "025d8836-3aa0-4f0f-ba60-e4dcd4d0b6e1"
+  },
+  {
+    "linkedinAccount": "https://sa.linkedin.com/in/maaneshgi",
+    "id": "01a70488-90eb-4f24-8fa5-cbeecc420d1a",
+    "first_name": "Maan",
+    "last_name": "Eshgi",
+    "job_title": "General Partner",
+    "company_name": "VentureSouq",
+    "country": "Saudi Arabia",
+    "objectID": "01a70488-90eb-4f24-8fa5-cbeecc420d1a"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/ibrahim-al-emadi-97a731120",
+    "id": "ed481504-39f7-456c-b136-1edf746f9099",
+    "first_name": "Ibrahim",
+    "last_name": "Al-emadi",
+    "job_title": "HEAD OF REVENUE AND TREASURY UNIT",
+    "company_name": "QATAR OLYMPIC COMMITEE",
+    "country": "Qatar",
+    "objectID": "ed481504-39f7-456c-b136-1edf746f9099"
+  },
+  {
+    "id": "e4ee7eef-c225-4573-ba8a-fd59e2aae175",
+    "first_name": "Najim",
+    "last_name": "Aghmir El Yousfi",
+    "job_title": "Tech Lead",
+    "company_name": "Thoughtworks",
+    "country": "Spain",
+    "objectID": "e4ee7eef-c225-4573-ba8a-fd59e2aae175"
+  },
+  {
+    "linkedinAccount": "https://ir.linkedin.com/in/zahra-akbari-4269a2363",
+    "id": "cee42c43-b88f-408c-b443-c4b740a95976",
+    "first_name": "Zahra",
+    "last_name": "Akbari Esmaeili",
+    "job_title": "Finance and operation",
+    "company_name": "Biyatto",
+    "country": "Iran (Islamic Republic of)",
+    "objectID": "cee42c43-b88f-408c-b443-c4b740a95976"
+  },
+  {
+    "id": "c70460b2-9b45-4de9-b122-ebf72b20a57a",
+    "first_name": "Saad",
+    "last_name": "Al-Emadi",
+    "job_title": "IT ",
+    "company_name": "SAB",
+    "country": "Qatar",
+    "objectID": "c70460b2-9b45-4de9-b122-ebf72b20a57a"
+  },
+  {
+    "linkedinAccount": "https://ng.linkedin.com/in/justiceeneje",
+    "id": "bce95960-5d38-409c-aa9a-d020645ad62c",
+    "first_name": "Justice",
+    "last_name": "Izuchukwu Eneje",
+    "job_title": "Co founder/CEO",
+    "company_name": "ClapMi Inc",
+    "country": "Nigeria",
+    "objectID": "bce95960-5d38-409c-aa9a-d020645ad62c"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mohammed-al-emadi-71616138",
+    "id": "b87bd3e8-59ef-40b8-8cf6-d44de615b09a",
+    "first_name": "Mohammed",
+    "last_name": "Al Emadi",
+    "job_title": "CEO",
+    "company_name": "Lesha Bank",
+    "country": "Qatar",
+    "objectID": "b87bd3e8-59ef-40b8-8cf6-d44de615b09a"
+  },
+  {
+    "linkedinAccount": "https://in.linkedin.com/in/mohamednainam",
+    "id": "b0598203-9ab4-45a0-9f9b-edcd3e213454",
+    "first_name": "Mohamed",
+    "last_name": "Naim El Mezien",
+    "job_title": "Technology Support Engineer",
+    "company_name": "Al Jazeera Operations team",
+    "country": "Qatar",
+    "objectID": "b0598203-9ab4-45a0-9f9b-edcd3e213454"
+  },
+  {
+    "id": "adfc821a-b25d-4ba2-b5d3-202d257a2cc4",
+    "first_name": "Hassan",
+    "last_name": "Mosbh el Sabeh",
+    "job_title": "COO",
+    "company_name": "Mamaslist",
+    "country": "Qatar",
+    "objectID": "adfc821a-b25d-4ba2-b5d3-202d257a2cc4"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/alemadi",
+    "id": "a698965c-cc90-442f-b2a2-49f04bf918dd",
+    "first_name": "Mohammed",
+    "last_name": "Al-Emadi",
+    "job_title": "Chief of Business Relations ",
+    "company_name": "Qatar International Islamic Bank (QIIB)",
+    "country": "Qatar",
+    "objectID": "a698965c-cc90-442f-b2a2-49f04bf918dd"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/fatma-al-emadi-76b90115a",
+    "id": "a4af0d28-f060-4f38-977f-70a8517036b4",
+    "first_name": "Fatma",
+    "last_name": "Al-Emadi",
+    "job_title": "Client Executive ",
+    "company_name": "Cisco",
+    "country": "Qatar",
+    "objectID": "a4af0d28-f060-4f38-977f-70a8517036b4"
+  },
+  {
+    "id": "a1fb58da-25d3-4d25-b040-c62ba168e8d6",
+    "first_name": "MAHMOUD",
+    "last_name": "Abd elgawad",
+    "job_title": "Commercial Director ",
+    "company_name": "Pont ",
+    "country": "Saudi Arabia",
+    "objectID": "a1fb58da-25d3-4d25-b040-c62ba168e8d6"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/imadaitelarabi",
+    "id": "a18fe166-d4cb-45e0-a498-6e12c9b225eb",
+    "first_name": "Imad",
+    "last_name": "Ait El arabi",
+    "job_title": "Software Engineer",
+    "company_name": "Xenith AI",
+    "country": "Morocco",
+    "objectID": "a18fe166-d4cb-45e0-a498-6e12c9b225eb"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/fatima-al-emadi-a78a89150",
+    "id": "9e28a889-ef7a-45a2-8d3c-7210d73daeb5",
+    "first_name": "Fatima",
+    "last_name": "Al-Emadi",
+    "job_title": "Student",
+    "company_name": "Tamuq",
+    "country": "Qatar",
+    "objectID": "9e28a889-ef7a-45a2-8d3c-7210d73daeb5"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/fatimaalemadi",
+    "id": "936e2e34-b6ca-47d1-b1e5-d15fa0d83c79",
+    "first_name": "Fatima",
+    "last_name": "Al- Emadi",
+    "job_title": "Senior Associate",
+    "company_name": "Qatar Financial Center Regulatory Authority",
+    "country": "Qatar",
+    "objectID": "936e2e34-b6ca-47d1-b1e5-d15fa0d83c79"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/faisal-al-emadi-15497163",
+    "id": "76a20110-fc63-47f2-bce0-628b06ae16a3",
+    "first_name": "FAISAL",
+    "last_name": "AL-EMADI",
+    "job_title": "Manager of Export Matchmaking & Overseas Offices",
+    "company_name": "Qatar Development Bank",
+    "country": "Qatar",
+    "objectID": "76a20110-fc63-47f2-bce0-628b06ae16a3"
+  },
+  {
+    "id": "6d55e2e7-1736-4bb4-9631-8afe68bf9197",
+    "first_name": "Sajid",
+    "last_name": "Mahamood Ettol",
+    "job_title": "Managing Partner ",
+    "company_name": "Spirit Events",
+    "country": "Qatar",
+    "objectID": "6d55e2e7-1736-4bb4-9631-8afe68bf9197"
+  },
+  {
+    "id": "54f0c0f4-4917-4b1b-910f-2382bc5d0802",
+    "first_name": "Sebastião",
+    "last_name": "Queiroz e Mello",
+    "job_title": "Co-Founder",
+    "company_name": "Skyline Digital AG",
+    "country": "Switzerland",
+    "objectID": "54f0c0f4-4917-4b1b-910f-2382bc5d0802"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/abdulla-rahimi-164251193",
+    "id": "494ca294-f841-4991-8676-d583b4900fa3",
+    "first_name": "Abdulla",
+    "last_name": "Ahmad E M Rahimi",
+    "job_title": "IT Analyst II",
+    "company_name": "Qatar Energy LNG",
+    "country": "Qatar",
+    "objectID": "494ca294-f841-4991-8676-d583b4900fa3"
+  },
+  {
+    "id": "4412a3eb-f9c2-4b7b-965d-5fdf16f2b813",
+    "first_name": "Amna",
+    "last_name": "Ameer Elnager",
+    "job_title": "Secretary",
+    "company_name": "Shomo beauty",
+    "country": "Qatar",
+    "objectID": "4412a3eb-f9c2-4b7b-965d-5fdf16f2b813"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/ghada-al-emadi-a5b453331",
+    "id": "374d2dd6-ff92-4634-b3a0-93cfffcb7fd6",
+    "first_name": "Ghada",
+    "last_name": "Al-Emadi",
+    "job_title": "Communication Officer",
+    "company_name": "beIN MEDIA GROUP",
+    "country": "Qatar",
+    "objectID": "374d2dd6-ff92-4634-b3a0-93cfffcb7fd6"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/mohamad-alaa-eddin-alali-32809ab6",
+    "id": "36f72729-e4c5-403b-a655-418984c69392",
+    "first_name": "Mohammed",
+    "last_name": "alaa eddin Alhomsi",
+    "job_title": "Founder",
+    "company_name": "SEA PLUS ",
+    "country": "Qatar",
+    "objectID": "36f72729-e4c5-403b-a655-418984c69392"
+  },
+  {
+    "id": "2ff3cc2b-4cc0-42f9-a294-890c114eac50",
+    "first_name": "Jawaher ",
+    "last_name": "Al Emadi",
+    "job_title": "Media coordinator ",
+    "company_name": "Ministry of Communication and Information Technology ",
+    "country": "Qatar",
+    "objectID": "2ff3cc2b-4cc0-42f9-a294-890c114eac50"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/shadia-zaineddeen-2b09ba60",
+    "id": "27c7f792-37c8-4053-8ff5-4d00f84c2eb2",
+    "first_name": "Shadia",
+    "last_name": "Zain Eddeen",
+    "job_title": "Qatar Office Manager & SEA to Heads of EMEA",
+    "company_name": "SCALE AI",
+    "country": "Qatar",
+    "objectID": "27c7f792-37c8-4053-8ff5-4d00f84c2eb2"
+  },
+  {
+    "linkedinAccount": "https://eg.linkedin.com/in/maelgheit",
+    "id": "1406d1e3-646c-4fc3-838b-d3a37d9448f3",
+    "first_name": "Muhammad",
+    "last_name": "Abu Elgheit",
+    "job_title": "Founder, & CEO",
+    "company_name": "TechieMatter",
+    "country": "Saudi Arabia",
+    "objectID": "1406d1e3-646c-4fc3-838b-d3a37d9448f3"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/hassanalemadi",
+    "id": "0e0b7d2b-7a5a-44b9-aba7-2988aa2b8ed1",
+    "first_name": "HASSAN",
+    "last_name": "AL EMADI",
+    "job_title": "founder CEO",
+    "company_name": "LUMI",
+    "country": "Qatar",
+    "objectID": "0e0b7d2b-7a5a-44b9-aba7-2988aa2b8ed1"
+  },
+  {
+    "id": "92564f4b-3785-4320-8309-f0d16aab40e6",
+    "first_name": "Mohamed",
+    "last_name": "Mosilhy Gamal Eldin",
+    "job_title": "Manager of IT Applications",
+    "company_name": "Al Jazeera Media Network",
+    "country": "Qatar",
+    "objectID": "92564f4b-3785-4320-8309-f0d16aab40e6"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/tia-eideh-46594436b",
+    "id": "87383cfb-89a3-445a-91ae-c8fe43a03763",
+    "first_name": "Tia",
+    "last_name": "Shadi Ahmad Eideh",
+    "job_title": "Student",
+    "company_name": "CUQ Ulster University",
+    "country": "Qatar",
+    "objectID": "87383cfb-89a3-445a-91ae-c8fe43a03763"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mohammed-al-emadi-69b9849b",
+    "id": "65eafbd9-0d48-4f0e-ac95-97fc87494b43",
+    "first_name": "Mohammed",
+    "last_name": "Abdulsalam Al Emadi",
+    "job_title": "Executive Director of Incubation & VC Investment",
+    "company_name": "Qatar Development Bank",
+    "country": "Qatar",
+    "objectID": "65eafbd9-0d48-4f0e-ac95-97fc87494b43"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/khalid-al-emadi-cfa-89724b149",
+    "id": "3b83f97f-90d5-4604-ad1a-b7e705838fa4",
+    "first_name": "Khalid",
+    "last_name": "Abdulla Al-Emadi",
+    "job_title": "Senior Associate",
+    "company_name": "Qatar Investment Authority",
+    "country": "Qatar",
+    "objectID": "3b83f97f-90d5-4604-ad1a-b7e705838fa4"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/faisal-ibrahim-mba-mt-ascp-7a74478b",
+    "id": "f7573e51-1a39-4f12-b296-e7b8da2a94f1",
+    "first_name": "Faisal",
+    "last_name": "Ibrahim",
+    "job_title": "Employee",
+    "company_name": "QMC",
+    "country": "Qatar",
+    "objectID": "f7573e51-1a39-4f12-b296-e7b8da2a94f1"
+  },
+  {
+    "id": "f5978395-fc49-4d2b-a08b-078d54c27584",
+    "first_name": "Jalila",
+    "last_name": "Mahzoume",
+    "job_title": "Events Manager ",
+    "company_name": "The Harvest Atelier ",
+    "country": "Qatar",
+    "objectID": "f5978395-fc49-4d2b-a08b-078d54c27584"
+  },
+  {
+    "id": "f20e3ac8-d39a-40de-8365-5520458c874a",
+    "first_name": "Mohammad",
+    "last_name": "Mansour",
+    "job_title": "Engineer",
+    "company_name": "Taqnyat",
+    "country": "Saudi Arabia",
+    "objectID": "f20e3ac8-d39a-40de-8365-5520458c874a"
+  },
+  {
+    "id": "f0a277eb-b393-43e9-8010-c01ed51ccf60",
+    "first_name": "Khaled",
+    "last_name": "Al Yousuf",
+    "job_title": "Executive Director",
+    "company_name": "University of Georgetown Qatar",
+    "country": "Qatar",
+    "objectID": "f0a277eb-b393-43e9-8010-c01ed51ccf60"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/shafraan",
+    "id": "efd9e5c4-7a46-47fd-b742-3d3dd4d9456b",
+    "first_name": "Shafraan",
+    "last_name": "Nizam",
+    "job_title": "Enterprise Marketing",
+    "company_name": "Vodafone Qatar",
+    "country": "Qatar",
+    "objectID": "efd9e5c4-7a46-47fd-b742-3d3dd4d9456b"
+  },
+  {
+    "linkedinAccount": "https://ca.linkedin.com/in/grantsuzanne",
+    "id": "ef97ac26-8aff-451f-ba9d-b678e10a9d1b",
+    "first_name": "Suzanne",
+    "last_name": "Grant",
+    "job_title": "Executive Director",
+    "company_name": "Capital Angel Network",
+    "country": "Canada",
+    "objectID": "ef97ac26-8aff-451f-ba9d-b678e10a9d1b"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mohamed-ahmed-47468192",
+    "id": "ef69252a-cdb6-40bd-bab2-ad6ce957d317",
+    "first_name": "Mohamed",
+    "last_name": "Mohamed",
+    "job_title": "EduTech Engineer",
+    "company_name": "Ibtechar",
+    "country": "Qatar",
+    "objectID": "ef69252a-cdb6-40bd-bab2-ad6ce957d317"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/matt-stillo-99488134",
+    "id": "ee190c48-e022-4c58-84e0-cda966602188",
+    "first_name": "Matt",
+    "last_name": "Stillo",
+    "job_title": "Executive Producer",
+    "company_name": "iHeartMedia",
+    "country": "United States",
+    "objectID": "ee190c48-e022-4c58-84e0-cda966602188"
+  },
+  {
+    "id": "e88406f5-ed47-482c-9ec7-f6e2bf5ac47c",
+    "first_name": "Melisa",
+    "last_name": "Sofic",
+    "job_title": "Executive-Elite Services",
+    "company_name": "Qatar Financial Centre",
+    "country": "Qatar",
+    "objectID": "e88406f5-ed47-482c-9ec7-f6e2bf5ac47c"
+  },
+  {
+    "id": "e5675b74-afb4-4cf2-8051-6dd5943d09bc",
+    "first_name": "Yanis",
+    "last_name": "Varoufakis",
+    "job_title": "Economist & Former Greek Finance Minister",
+    "company_name": "Yanis Varoufakis",
+    "country": "Greece",
+    "objectID": "e5675b74-afb4-4cf2-8051-6dd5943d09bc"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mohammed-mushtaha",
+    "id": "e53c2e7e-0672-4f0c-a67a-1bd48e3f5dbd",
+    "first_name": "Mohammed",
+    "last_name": "Mushtaha",
+    "job_title": "Engineer",
+    "company_name": "QAFCO",
+    "country": "Qatar",
+    "objectID": "e53c2e7e-0672-4f0c-a67a-1bd48e3f5dbd"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/xiomarahenriquez",
+    "id": "e5179651-e44d-4195-a108-ebbef0ab659a",
+    "first_name": "Xiomara",
+    "last_name": "Henriquez",
+    "job_title": "Executive Director",
+    "company_name": "American Chamber of Commerce - Qatar",
+    "country": "Qatar",
+    "objectID": "e5179651-e44d-4195-a108-ebbef0ab659a"
+  },
+  {
+    "id": "e2ad0e6a-cd1b-40fd-b010-4742b440b5fd",
+    "first_name": "Jawad",
+    "last_name": "Fadlallah",
+    "job_title": "Edu-Tech Engineer",
+    "company_name": "Ibtechar Digital Solutions",
+    "country": "Qatar",
+    "objectID": "e2ad0e6a-cd1b-40fd-b010-4742b440b5fd"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/ömer-şamlı-8461941bb",
+    "id": "e22f441e-82a6-43ed-b1b0-41ed72ac6634",
+    "first_name": "Ömer",
+    "last_name": "şamlı",
+    "job_title": "Engineer",
+    "company_name": "Syrianlink",
+    "country": "Türkiye",
+    "objectID": "e22f441e-82a6-43ed-b1b0-41ed72ac6634"
+  },
+  {
+    "id": "df0bfb3f-0b33-4208-8c82-a57765894a77",
+    "first_name": "Rizwan Tauqir",
+    "last_name": "Ahmad",
+    "job_title": "Engineer",
+    "company_name": "Al Jazeera English",
+    "country": "Qatar",
+    "objectID": "df0bfb3f-0b33-4208-8c82-a57765894a77"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/serefguruz/en",
+    "id": "dcebf488-8348-4b4b-8044-30e5429252df",
+    "first_name": "Şeref",
+    "last_name": "GÜRÜZ",
+    "job_title": "Entrepreneurship and Innovation",
+    "company_name": "Kuveyt Türk Participation Bank",
+    "country": "Türkiye",
+    "objectID": "dcebf488-8348-4b4b-8044-30e5429252df"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/ziad-abuissa-72813530b",
+    "id": "dc955366-2a6d-4dfd-9b3e-c1508190d26c",
+    "first_name": "Ziad ",
+    "last_name": "Abuissa",
+    "job_title": "Executive director ",
+    "company_name": "Abuissa holding",
+    "country": "Qatar",
+    "objectID": "dc955366-2a6d-4dfd-9b3e-c1508190d26c"
+  },
+  {
+    "id": "dba9666a-0e7c-4034-91cf-aaa4116050eb",
+    "first_name": "Farah",
+    "last_name": "Hussein",
+    "job_title": "Events ",
+    "company_name": "QBEC",
+    "country": "Qatar",
+    "objectID": "dba9666a-0e7c-4034-91cf-aaa4116050eb"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/jessa-torres-9743b9162",
+    "id": "db1897b4-6092-4c6d-b067-a4ffc61932dd",
+    "first_name": "Jessa",
+    "last_name": "Torres",
+    "job_title": "Events Coordinator",
+    "company_name": "Invest Qatar",
+    "country": "Qatar",
+    "objectID": "db1897b4-6092-4c6d-b067-a4ffc61932dd"
+  },
+  {
+    "id": "d92f60ca-be6d-4aa4-83a7-1ef7f085ef48",
+    "first_name": "May",
+    "last_name": "Abdulfatah",
+    "job_title": "Executive Assistant ",
+    "company_name": "MCIT -Ministry of Communications and Information Technology ",
+    "country": "Qatar",
+    "objectID": "d92f60ca-be6d-4aa4-83a7-1ef7f085ef48"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/faisal-almudahka-72ab663a",
+    "id": "d85a106c-a87e-45bd-b40d-a2cd9c3702bb",
+    "first_name": "Faisal",
+    "last_name": "Al-Mudahka",
+    "job_title": "Editor in chief ",
+    "company_name": "Gulf Times",
+    "country": "Qatar",
+    "objectID": "d85a106c-a87e-45bd-b40d-a2cd9c3702bb"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/sfalthani",
+    "id": "d4f5a327-bd27-40d2-95f4-e3f5b0cb2f72",
+    "first_name": "Shk. Shaikha F.",
+    "last_name": "Al-Thani",
+    "job_title": "Executive Advisor ",
+    "company_name": "Qatar Museums",
+    "country": "Qatar",
+    "objectID": "d4f5a327-bd27-40d2-95f4-e3f5b0cb2f72"
+  },
+  {
+    "linkedinAccount": "https://rw.linkedin.com/in/marie-josee-uwayezu-30b25a152",
+    "id": "d2596cdd-a909-48e5-907e-c2e55a95d38a",
+    "first_name": "Marie Josee",
+    "last_name": "Uwayezu",
+    "job_title": "Events and Partnerships Coordinator",
+    "company_name": "African Olympiad Academy ",
+    "country": "Rwanda",
+    "objectID": "d2596cdd-a909-48e5-907e-c2e55a95d38a"
+  },
+  {
+    "id": "d06eaef2-eba1-4c3b-adf7-773baee95fb3",
+    "first_name": "Seif",
+    "last_name": "Ahmed",
+    "job_title": "Ecosystem Development",
+    "company_name": "QDB",
+    "country": "Qatar",
+    "objectID": "d06eaef2-eba1-4c3b-adf7-773baee95fb3"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/massimo-marioni-47637199",
+    "id": "d00daf27-69ba-4e24-98f2-02125389a7de",
+    "first_name": "Massimo",
+    "last_name": "Marioni",
+    "job_title": "Executive moderator & MC",
+    "company_name": "massimomarioni.com",
+    "country": "United Kingdom",
+    "objectID": "d00daf27-69ba-4e24-98f2-02125389a7de"
+  },
+  {
+    "linkedinAccount": "https://in.linkedin.com/in/smita-mishra-8a604259",
+    "id": "ce3dd19b-489f-4b73-bc23-6e478ab6a462",
+    "first_name": "Smita",
+    "last_name": "Mishra",
+    "job_title": "Engineering Lead",
+    "company_name": "RBAT",
+    "country": "Qatar",
+    "objectID": "ce3dd19b-489f-4b73-bc23-6e478ab6a462"
+  },
+  {
+    "linkedinAccount": "https://sa.linkedin.com/in/tarek-nasra-a013307b",
+    "id": "cac6e786-ec50-4884-8cd2-411d7b625d5b",
+    "first_name": "Tarek ",
+    "last_name": "Nasra",
+    "job_title": "Engineer ",
+    "company_name": "Arfad ",
+    "country": "Saudi Arabia",
+    "objectID": "cac6e786-ec50-4884-8cd2-411d7b625d5b"
+  },
+  {
+    "id": "c8ece312-e2c2-46d8-9a05-cd4455089380",
+    "first_name": "Sameh",
+    "last_name": "Mostafa",
+    "job_title": "Executive Secretary ",
+    "company_name": "J Seven Projects",
+    "country": "Qatar",
+    "objectID": "c8ece312-e2c2-46d8-9a05-cd4455089380"
+  },
+  {
+    "id": "c15b2c7b-5b4c-486c-8862-c03d941c8bfc",
+    "first_name": "Tauland",
+    "last_name": "Garuci",
+    "job_title": "Expert",
+    "company_name": "MCIT",
+    "country": "Qatar",
+    "objectID": "c15b2c7b-5b4c-486c-8862-c03d941c8bfc"
+  },
+  {
+    "id": "be9a7516-db18-4b97-bac6-dee913ddb8d9",
+    "first_name": "Omar",
+    "last_name": "Alkathiry",
+    "job_title": "Entrepreneur",
+    "company_name": "Kawarezmi",
+    "country": "Saudi Arabia",
+    "objectID": "be9a7516-db18-4b97-bac6-dee913ddb8d9"
+  },
+  {
+    "linkedinAccount": "https://be.linkedin.com/in/katrienmarent",
+    "id": "bd98d424-a2ec-4d00-b759-653cb49900eb",
+    "first_name": "Katrien",
+    "last_name": "Marent",
+    "job_title": "EVP & chief marketing and communications officer",
+    "company_name": "imec",
+    "country": "Belgium",
+    "objectID": "bd98d424-a2ec-4d00-b759-653cb49900eb"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mohamedabuelgasim",
+    "id": "b967d8cb-65da-4704-84d2-43fad4268581",
+    "first_name": "Mohamed",
+    "last_name": "Abuelgasim",
+    "job_title": "Executive Director, Executive Education Centre",
+    "company_name": "Hamad Bin Khalifa University",
+    "country": "Qatar",
+    "objectID": "b967d8cb-65da-4704-84d2-43fad4268581"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/yulia-porozova-qatar",
+    "id": "b8cbb9bc-1fa7-49bd-93ba-ac29080d3558",
+    "first_name": "Yulia",
+    "last_name": "Porozova",
+    "job_title": "Educational and Corporate Events Program Manager",
+    "company_name": "Shourouk Media LLC",
+    "country": "Qatar",
+    "objectID": "b8cbb9bc-1fa7-49bd-93ba-ac29080d3558"
+  },
+  {
+    "id": "b7bb9c29-672c-44c0-b121-5a66c199bce4",
+    "first_name": "Nitesh",
+    "last_name": "Gupta",
+    "job_title": "Entrepreneur | Investor | Conscious living",
+    "company_name": "Neuraserv",
+    "country": "United Arab Emirates",
+    "objectID": "b7bb9c29-672c-44c0-b121-5a66c199bce4"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/joel-lange-a7099b1",
+    "id": "b79b0e9f-9ace-4b9e-ab86-d9fcf115f0a2",
+    "first_name": "Joel",
+    "last_name": "Lange",
+    "job_title": "Executive Vice President and General Manager, Risk",
+    "company_name": "Dow Jones Media",
+    "country": "United Kingdom",
+    "objectID": "b79b0e9f-9ace-4b9e-ab86-d9fcf115f0a2"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/gaurangshahmumbai",
+    "id": "b736957d-f892-4106-adc9-2ffac538a6c4",
+    "first_name": "Gaurang",
+    "last_name": "Shah",
+    "job_title": "EVP, Head of Global Acceptance and Merchant Solutions",
+    "company_name": "Mastercard",
+    "country": "United Arab Emirates",
+    "objectID": "b736957d-f892-4106-adc9-2ffac538a6c4"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/karen-serrano-88288a207",
+    "id": "b55f987a-60cb-4954-929e-f86b0fe227f1",
+    "first_name": "Karen",
+    "last_name": "Serrano",
+    "job_title": "Executive Assistant",
+    "company_name": "American Chamber of Commerce Qatar",
+    "country": "Qatar",
+    "objectID": "b55f987a-60cb-4954-929e-f86b0fe227f1"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/karimtalhouk",
+    "id": "b4f55b92-d579-4ad2-9a18-655b09c6a4ff",
+    "first_name": "Karim ",
+    "last_name": "Talhouk",
+    "job_title": "Executive Director",
+    "company_name": "Microsoft",
+    "country": "Qatar",
+    "objectID": "b4f55b92-d579-4ad2-9a18-655b09c6a4ff"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/sineadstewart#:~:text=Multilingual Events and Project Manager with 10+ years,Location: Greater London · 383 connections on LinkedIn.",
+    "id": "b1fc426f-58c6-4a88-a924-5c19d484a57b",
+    "first_name": "Sinead",
+    "last_name": "Stewart",
+    "job_title": "Events & Field Marketing Manager",
+    "company_name": "Scale AI ",
+    "country": "Qatar",
+    "objectID": "b1fc426f-58c6-4a88-a924-5c19d484a57b"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/vianney-mathonnet-44a56137/en",
+    "id": "b1b3e3c0-5548-4cbe-a55a-d86808fdaa90",
+    "first_name": "Vianney",
+    "last_name": "Mathonnet",
+    "job_title": "Executive Director",
+    "company_name": "Kapower",
+    "country": "Mauritius",
+    "objectID": "b1b3e3c0-5548-4cbe-a55a-d86808fdaa90"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/b9amt",
+    "id": "b0dc0ff4-feea-4bab-8f2c-f3dbb06597ef",
+    "first_name": "Khadija",
+    "last_name": "AlHammadi ",
+    "job_title": "Entrepreneur ",
+    "company_name": "B9AMT",
+    "country": "United Arab Emirates",
+    "objectID": "b0dc0ff4-feea-4bab-8f2c-f3dbb06597ef"
+  },
+  {
+    "id": "ae9661a9-77e3-48c5-a8c6-6470068e74c3",
+    "first_name": "Juha",
+    "last_name": "Perälampi",
+    "job_title": "Executive Advisor ",
+    "company_name": "The Embassy of Switzerland in Qatar",
+    "country": "Qatar",
+    "objectID": "ae9661a9-77e3-48c5-a8c6-6470068e74c3"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/shailesh-singh-5ba52913",
+    "id": "ab9cfa82-d201-433e-85ba-c61573e2f690",
+    "first_name": "Shailesh",
+    "last_name": "Singh",
+    "job_title": "Engagement Manager",
+    "company_name": "McKinsey & Company",
+    "country": "Qatar",
+    "objectID": "ab9cfa82-d201-433e-85ba-c61573e2f690"
+  },
+  {
+    "id": "ab191221-0586-4cb6-a500-464da1035170",
+    "first_name": "Vishantu",
+    "last_name": "Nakamurtu",
+    "job_title": "Entrepreneur, Founder and CEO",
+    "company_name": "Qauntinuum",
+    "country": "Qatar",
+    "objectID": "ab191221-0586-4cb6-a500-464da1035170"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/jaber-al-marri-9a4783336",
+    "id": "aaff6fc7-b7e2-4929-81ae-1548193e3f8d",
+    "first_name": "Jaber",
+    "last_name": "Al-Marri",
+    "job_title": "Engineer ",
+    "company_name": "Qatar Energy LNG",
+    "country": "Qatar",
+    "objectID": "aaff6fc7-b7e2-4929-81ae-1548193e3f8d"
+  },
+  {
+    "linkedinAccount": "https://jo.linkedin.com/in/fahedqteishat",
+    "id": "a80376b7-a61b-4fe0-8dd1-2fb5156f828c",
+    "first_name": "Fahed",
+    "last_name": "Qteishat",
+    "job_title": "Executive Director ",
+    "company_name": "MEVP",
+    "country": "United Arab Emirates",
+    "objectID": "a80376b7-a61b-4fe0-8dd1-2fb5156f828c"
+  },
+  {
+    "id": "a41c3765-aba4-4e12-90df-fdf9dbee0d38",
+    "first_name": "Tuhini",
+    "last_name": "Singh",
+    "job_title": "Event planner",
+    "company_name": "Tinsel and tassle events",
+    "country": "Qatar",
+    "objectID": "a41c3765-aba4-4e12-90df-fdf9dbee0d38"
+  },
+  {
+    "id": "a2db010d-1d78-429d-b78a-9748387ef8d2",
+    "first_name": "Shaima",
+    "last_name": "Sheriff",
+    "job_title": "Editor",
+    "company_name": "Gulf Times",
+    "country": "Qatar",
+    "objectID": "a2db010d-1d78-429d-b78a-9748387ef8d2"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/farha-al-kuwari-58490434",
+    "id": "a171ad39-d854-466d-94b0-ee5b13096c22",
+    "first_name": "Farha ",
+    "last_name": "Al Kuwari ",
+    "job_title": "Executive Directore of Strategy",
+    "company_name": "Qatar Development Bank",
+    "country": "Qatar",
+    "objectID": "a171ad39-d854-466d-94b0-ee5b13096c22"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/umer-farooque-30230334",
+    "id": "a0ea6e6e-fd66-4a2a-a312-7f78e2ea80b6",
+    "first_name": "Umer",
+    "last_name": "Farooque",
+    "job_title": "Enterprise Architect",
+    "company_name": "KAHRAMAA ",
+    "country": "Qatar",
+    "objectID": "a0ea6e6e-fd66-4a2a-a312-7f78e2ea80b6"
+  },
+  {
+    "id": "9c2e949c-229e-4eca-aab6-1cfa5683918c",
+    "first_name": "Mohamed",
+    "last_name": "Jeridi",
+    "job_title": "Engineer",
+    "company_name": "KM",
+    "country": "Qatar",
+    "objectID": "9c2e949c-229e-4eca-aab6-1cfa5683918c"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/santosh-perumal-89901657",
+    "id": "9c150d76-be91-464e-9fa3-01f1f1fa9fb7",
+    "first_name": "Santhosh",
+    "last_name": "Perumal",
+    "job_title": "Editor",
+    "company_name": "Gulf Times",
+    "country": "Qatar",
+    "objectID": "9c150d76-be91-464e-9fa3-01f1f1fa9fb7"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/ggazevedo",
+    "id": "9a3ab678-d8f6-47e5-9786-87d69fed5e79",
+    "first_name": "Gil",
+    "last_name": "Azevedo",
+    "job_title": "Executive Director",
+    "company_name": "Unicorn Factory Lisboa",
+    "country": "Portugal",
+    "objectID": "9a3ab678-d8f6-47e5-9786-87d69fed5e79"
+  },
+  {
+    "id": "9a18852d-05e2-4989-a37e-d12005b3b3eb",
+    "first_name": "Kiera",
+    "last_name": "Martin",
+    "job_title": "Executive Director ",
+    "company_name": "PLS",
+    "country": "United Kingdom",
+    "objectID": "9a18852d-05e2-4989-a37e-d12005b3b3eb"
+  },
+  {
+    "id": "9512a60a-e194-42a1-85ce-d546bc248b39",
+    "first_name": "Malek",
+    "last_name": "Rhouma",
+    "job_title": "Executive Secretary ",
+    "company_name": "Permanent Committee for Organizing Conferences - MOFA  ",
+    "country": "Qatar",
+    "objectID": "9512a60a-e194-42a1-85ce-d546bc248b39"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/rasaad",
+    "id": "90c3aa89-cd95-45c1-98e8-1d029ddbea4d",
+    "first_name": "Rabih",
+    "last_name": "Saad",
+    "job_title": "Engineering Leader",
+    "company_name": "Cisco",
+    "country": "United Arab Emirates",
+    "objectID": "90c3aa89-cd95-45c1-98e8-1d029ddbea4d"
+  },
+  {
+    "id": "909f0758-3f38-4672-9cec-5bde6ecf4535",
+    "first_name": "Mohamed",
+    "last_name": "Al Ramahi",
+    "job_title": "Executive Secretary ",
+    "company_name": "Ariane Holding",
+    "country": "Qatar",
+    "objectID": "909f0758-3f38-4672-9cec-5bde6ecf4535"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/sultan-ameen-6966496",
+    "id": "8fc3cd3a-c0f9-4600-ba6f-405480536903",
+    "first_name": "Sultan",
+    "last_name": "Ameen",
+    "job_title": "Ex Head of Utilities",
+    "company_name": "Ex Employee of QatarEnergy",
+    "country": "Qatar",
+    "objectID": "8fc3cd3a-c0f9-4600-ba6f-405480536903"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/laura-payne-29b5071a",
+    "id": "8fbb4144-6f2b-49f7-b92f-0fea2822b74c",
+    "first_name": "Laura",
+    "last_name": "Payne",
+    "job_title": "Executive Assistant",
+    "company_name": "Qatar Shell",
+    "country": "Qatar",
+    "objectID": "8fbb4144-6f2b-49f7-b92f-0fea2822b74c"
+  },
+  {
+    "linkedinAccount": "https://pk.linkedin.com/in/haroon-qureshi-哈罗-奎雷希-a1032219",
+    "id": "8df53ba9-26e0-4d18-ae05-e2d71850eb13",
+    "first_name": "Haroon",
+    "last_name": "Qureshi",
+    "job_title": "Editor In Chief",
+    "company_name": "Rahbar Kisan",
+    "country": "Qatar",
+    "objectID": "8df53ba9-26e0-4d18-ae05-e2d71850eb13"
+  },
+  {
+    "id": "8cfae6b7-0c3b-4847-9270-4ffcb800fdb2",
+    "first_name": "Ghalia",
+    "last_name": "Haj Salem",
+    "job_title": "Empowering people in Middle East ",
+    "company_name": "Bless",
+    "country": "Jordan",
+    "objectID": "8cfae6b7-0c3b-4847-9270-4ffcb800fdb2"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/hamoudalmahmoud",
+    "id": "8b119a5d-5015-4631-8c72-102f2ff5471a",
+    "first_name": "Hamoud",
+    "last_name": "Almahmoud",
+    "job_title": "Editor-in-Chief",
+    "company_name": "Harvard Business Review Arabia",
+    "country": "United Arab Emirates",
+    "objectID": "8b119a5d-5015-4631-8c72-102f2ff5471a"
+  },
+  {
+    "id": "87c0b56e-cfe6-465b-8eb9-173e473f25b2",
+    "first_name": "Tomi",
+    "last_name": "Thomas",
+    "job_title": "Executive",
+    "company_name": "Vastbridge",
+    "country": "Spain",
+    "objectID": "87c0b56e-cfe6-465b-8eb9-173e473f25b2"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mazen-al-adhami",
+    "id": "84820030-2cde-49b1-8e32-fdf1a47dfdb8",
+    "first_name": "Mazen",
+    "last_name": "Al-Adhami",
+    "job_title": "Enterprise Sales Manager",
+    "company_name": "Forcepoint",
+    "country": "Qatar",
+    "objectID": "84820030-2cde-49b1-8e32-fdf1a47dfdb8"
+  },
+  {
+    "id": "83ba6a03-da37-4d17-ba46-f50693fe882f",
+    "first_name": "Hudhayfa",
+    "last_name": "Sedik",
+    "job_title": " Engagement Lead  AJ 360",
+    "company_name": "Al Jazeera Media",
+    "country": "Qatar",
+    "objectID": "83ba6a03-da37-4d17-ba46-f50693fe882f"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/hala-kawash-67950685#:~:text=Enablement & Change Management Leader with 10+ years’,(L&D), CRM/LMS implementation, upskilling, and public sector consulting.",
+    "id": "8391cc7c-5765-47c7-9308-b8179a2fc6ea",
+    "first_name": "Hala",
+    "last_name": "Kawash",
+    "job_title": "Enablement Program Lead",
+    "company_name": "Scale AI",
+    "country": "Qatar",
+    "objectID": "8391cc7c-5765-47c7-9308-b8179a2fc6ea"
+  },
+  {
+    "id": "81fcec4c-5381-4aa3-8ec1-fd146ec90ac9",
+    "first_name": "Lama",
+    "last_name": "Amro",
+    "job_title": "Executive Director ",
+    "company_name": "BuildPalestine",
+    "country": "Palestine, State of",
+    "objectID": "81fcec4c-5381-4aa3-8ec1-fd146ec90ac9"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/dr-tareq-al-ansari-11801b41",
+    "id": "808ae8c1-e157-4134-a0eb-7add383db225",
+    "first_name": "Tareq",
+    "last_name": "Al-Ansari",
+    "job_title": "Executive Director ",
+    "company_name": "Qatar Environment and Energy Research Institute ",
+    "country": "Qatar",
+    "objectID": "808ae8c1-e157-4134-a0eb-7add383db225"
+  },
+  {
+    "linkedinAccount": "https://cn.linkedin.com/in/zhenmin-ma-0697b8b0",
+    "id": "7ec6d356-dc30-4996-ade8-c2db99dae869",
+    "first_name": "Zhenmin",
+    "last_name": "Ma",
+    "job_title": "Editor-in-Chief (digital)",
+    "company_name": "Harvard Business Review China",
+    "country": "China",
+    "objectID": "7ec6d356-dc30-4996-ade8-c2db99dae869"
+  },
+  {
+    "linkedinAccount": "https://in.linkedin.com/in/siddharth-shinde-a4b60527a",
+    "id": "7ba7f102-ebf0-4556-9569-ea7abf6997d4",
+    "first_name": "Siddharth",
+    "last_name": "Shinde",
+    "job_title": "Events & Marketing Executive ",
+    "company_name": "Neosoft ",
+    "country": "India",
+    "objectID": "7ba7f102-ebf0-4556-9569-ea7abf6997d4"
+  },
+  {
+    "id": "7b5682b7-0d35-4a71-b6cf-8b415fee90f0",
+    "first_name": "Faten",
+    "last_name": "Alhaddad",
+    "job_title": "Editor",
+    "company_name": "Al araby tv",
+    "country": "Qatar",
+    "objectID": "7b5682b7-0d35-4a71-b6cf-8b415fee90f0"
+  },
+  {
+    "id": "7b443f64-373c-4d78-8e86-2e5d7525f5cb",
+    "first_name": "Shahid",
+    "last_name": "Raufi",
+    "job_title": "E-Commerce Manager",
+    "company_name": "Abuissa Holding",
+    "country": "Qatar",
+    "objectID": "7b443f64-373c-4d78-8e86-2e5d7525f5cb"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/sarra-messaoudi-69077423",
+    "id": "778c558d-516d-445b-8087-ccc2cce7dcbc",
+    "first_name": "Sarra",
+    "last_name": "Messaoudi",
+    "job_title": "Economic & Commercial Officer",
+    "company_name": "Embassy of Switzerland in Qatar",
+    "country": "Qatar",
+    "objectID": "778c558d-516d-445b-8087-ccc2cce7dcbc"
+  },
+  {
+    "linkedinAccount": "https://ng.linkedin.com/in/rakiyasm",
+    "id": "75c05ec4-034d-4a2f-a6cf-c0d80aff1614",
+    "first_name": "Rakiya",
+    "last_name": "Mohammed",
+    "job_title": "Executive Chairman",
+    "company_name": "Digibit LLC",
+    "country": "Qatar",
+    "objectID": "75c05ec4-034d-4a2f-a6cf-c0d80aff1614"
+  },
+  {
+    "linkedinAccount": "https://pt.linkedin.com/in/siobhan-lucey-60418312a",
+    "id": "73866dea-e068-4a0f-a490-cf70a8c2db20",
+    "first_name": "Siobhán",
+    "last_name": "Lucey",
+    "job_title": "Event Producer",
+    "company_name": "Web Summit",
+    "country": "Portugal",
+    "objectID": "73866dea-e068-4a0f-a490-cf70a8c2db20"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/nadir-yildirim-9ba107a3",
+    "id": "73378118-753d-4410-acc7-b7e0dfa159dc",
+    "first_name": "Nadir",
+    "last_name": "Yildirim",
+    "job_title": "Executive Director of Innovation and Industrial Relations",
+    "company_name": "Hamad Bin Khalifa University",
+    "country": "Qatar",
+    "objectID": "73378118-753d-4410-acc7-b7e0dfa159dc"
+  },
+  {
+    "id": "6d4119b9-310b-4584-90e8-331c973a3867",
+    "first_name": "Yassin",
+    "last_name": "Aljabart",
+    "job_title": "executive director",
+    "company_name": "asgaf homes llc",
+    "country": "Qatar",
+    "objectID": "6d4119b9-310b-4584-90e8-331c973a3867"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mohamad-el-hassan-309a0114b",
+    "id": "6baa5cdc-5971-47d4-a7d7-cc7a4b4431ff",
+    "first_name": "Mohamad",
+    "last_name": "Al-Hassan",
+    "job_title": "Engagement Manager",
+    "company_name": "Netways",
+    "country": "Qatar",
+    "objectID": "6baa5cdc-5971-47d4-a7d7-cc7a4b4431ff"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/rania-merghni-04a888187",
+    "id": "6a06b578-52c6-44a9-a729-390c292e8f5e",
+    "first_name": "Rania",
+    "last_name": "Merghni",
+    "job_title": "Events Specialist ",
+    "company_name": "Qatar Financial Centre",
+    "country": "Qatar",
+    "objectID": "6a06b578-52c6-44a9-a729-390c292e8f5e"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/naeema-al-hail-607444229",
+    "id": "669a919a-0168-4646-8d47-e0ee67425b1d",
+    "first_name": "Naeema",
+    "last_name": "Al-Hail",
+    "job_title": "Electrical engineering Student ",
+    "company_name": "Texas A&M university",
+    "country": "Qatar",
+    "objectID": "669a919a-0168-4646-8d47-e0ee67425b1d"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/laila-humairah-177570119",
+    "id": "64dbb688-a6c4-4c04-ae41-f7c10e5f7b12",
+    "first_name": "Laila",
+    "last_name": "Humairah",
+    "job_title": "Executive Producer & Presenter",
+    "company_name": "Euronews",
+    "country": "Qatar",
+    "objectID": "64dbb688-a6c4-4c04-ae41-f7c10e5f7b12"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mira-abo-zaher-522961234",
+    "id": "62008d48-6f01-494e-b88d-ec5d000be1c8",
+    "first_name": "Mira ",
+    "last_name": "Abo zaher",
+    "job_title": "Engineer ",
+    "company_name": "Dell technologies ",
+    "country": "Qatar",
+    "objectID": "62008d48-6f01-494e-b88d-ec5d000be1c8"
+  },
+  {
+    "linkedinAccount": "https://sa.linkedin.com/in/nasser-zawia-276149122",
+    "id": "5e4431ab-ab84-4149-b7ba-f16220901f75",
+    "first_name": "Nasser",
+    "last_name": "Zawia",
+    "job_title": "eCommerce Manager",
+    "company_name": "eRomman Technologies SDN BHD",
+    "country": "Saudi Arabia",
+    "objectID": "5e4431ab-ab84-4149-b7ba-f16220901f75"
+  },
+  {
+    "id": "5cd83a8b-ac13-4154-84ee-fdab0af8d6ee",
+    "first_name": "Michael",
+    "last_name": "Faye",
+    "job_title": "Executive Chair & Co-Founder",
+    "company_name": "GiveDirectly",
+    "country": "United Arab Emirates",
+    "objectID": "5cd83a8b-ac13-4154-84ee-fdab0af8d6ee"
+  },
+  {
+    "id": "5c6226d1-b073-4b1c-ae15-ec1c72bf5a51",
+    "first_name": "Tara",
+    "last_name": "Farouqi",
+    "job_title": "EMEA B2B Communications Lead ",
+    "company_name": "TikTok",
+    "country": "United Arab Emirates",
+    "objectID": "5c6226d1-b073-4b1c-ae15-ec1c72bf5a51"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/orianna-rosa-royle",
+    "id": "582c303b-32e4-4525-843f-fcbc939ce528",
+    "first_name": "Orianna Rosa",
+    "last_name": "Royle",
+    "job_title": "Editor",
+    "company_name": "Fortune",
+    "country": "United Kingdom",
+    "objectID": "582c303b-32e4-4525-843f-fcbc939ce528"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/jlstrong",
+    "id": "56f0e69a-694b-46bf-b539-01ee84caf0d0",
+    "first_name": "Jennifer",
+    "last_name": "Strong",
+    "job_title": "Executive Producer",
+    "company_name": "SHIFT Podcast",
+    "country": "United States",
+    "objectID": "56f0e69a-694b-46bf-b539-01ee84caf0d0"
+  },
+  {
+    "id": "56a080ae-4bfc-407c-a08f-00ae698a7b5c",
+    "first_name": "Hamda",
+    "last_name": "Aldosari",
+    "job_title": "entrepreneur",
+    "company_name": "Azalea Designs",
+    "country": "Qatar",
+    "objectID": "56a080ae-4bfc-407c-a08f-00ae698a7b5c"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/kareem-fazal-30288212",
+    "id": "5678dd6e-cd0b-4052-9366-d29d70473637",
+    "first_name": "Fazal",
+    "last_name": "Kareem",
+    "job_title": "Engineer",
+    "company_name": "Darvesta",
+    "country": "Qatar",
+    "objectID": "5678dd6e-cd0b-4052-9366-d29d70473637"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/houda-rouissi-18b1bb19b",
+    "id": "53ea52f4-1347-4ef0-afc3-bc3d0eb06acd",
+    "first_name": "Houda",
+    "last_name": "Rouaissi",
+    "job_title": "Entry Data Analyst",
+    "company_name": "freelancer",
+    "country": "Qatar",
+    "objectID": "53ea52f4-1347-4ef0-afc3-bc3d0eb06acd"
+  },
+  {
+    "id": "529e9661-feac-4ea8-b16e-f46bd4f7aac0",
+    "first_name": "Hala",
+    "last_name": "Latah",
+    "job_title": "Executive Manager",
+    "company_name": "HUMAINA Labs",
+    "country": "United Kingdom",
+    "objectID": "529e9661-feac-4ea8-b16e-f46bd4f7aac0"
+  },
+  {
+    "linkedinAccount": "https://az.linkedin.com/in/guyshone",
+    "id": "508b8814-716f-46bf-87a2-5f536b0d57b4",
+    "first_name": "Guy",
+    "last_name": "Shone",
+    "job_title": "Editor-in-Chief",
+    "company_name": "AnewZ",
+    "country": "Qatar",
+    "objectID": "508b8814-716f-46bf-87a2-5f536b0d57b4"
+  },
+  {
+    "linkedinAccount": "https://ca.linkedin.com/in/harshalpathak",
+    "id": "4f9fc2bd-28c0-49a4-8892-646cccfa808e",
+    "first_name": "Harshal",
+    "last_name": "Pathak",
+    "job_title": "Early Stage Investor",
+    "company_name": "Plug and Play Tech Center",
+    "country": "Canada",
+    "objectID": "4f9fc2bd-28c0-49a4-8892-646cccfa808e"
+  },
+  {
+    "id": "4f105b1b-0cce-49bd-b386-c9a18eeeca21",
+    "first_name": "Zülal",
+    "last_name": "Gök",
+    "job_title": "entrepreneur",
+    "company_name": "Denizli Koleji",
+    "country": "Türkiye",
+    "objectID": "4f105b1b-0cce-49bd-b386-c9a18eeeca21"
+  },
+  {
+    "id": "4d837ba5-48e3-4a93-9821-517af7da1f33",
+    "first_name": "Noura",
+    "last_name": "Al-Khalifa",
+    "job_title": "Engineer",
+    "company_name": "Kahramaa",
+    "country": "Qatar",
+    "objectID": "4d837ba5-48e3-4a93-9821-517af7da1f33"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/alanoud-almusleh",
+    "id": "4d3cadc4-b169-45d7-bfbb-eadb9e78cc19",
+    "first_name": "Kholoud",
+    "last_name": "Al-Mesleh",
+    "job_title": "Engineer",
+    "company_name": "Qatar Airways",
+    "country": "Qatar",
+    "objectID": "4d3cadc4-b169-45d7-bfbb-eadb9e78cc19"
+  },
+  {
+    "linkedinAccount": "https://jo.linkedin.com/in/tasnim-al-saleh-b7b79a127",
+    "id": "49873456-0edf-471f-b0f9-5e248be2337c",
+    "first_name": "Tasnim",
+    "last_name": "Youseh Al Saleh",
+    "job_title": "English instructor ",
+    "company_name": "Academic Bridge Program ",
+    "country": "Qatar",
+    "objectID": "49873456-0edf-471f-b0f9-5e248be2337c"
+  },
+  {
+    "id": "489656cb-564a-4d9b-aa05-6768965b8da8",
+    "first_name": "Khalid Mohammed",
+    "last_name": "Al-Hitmi",
+    "job_title": "EVP Subsurface Development & Exploration",
+    "company_name": "QatarEnergy",
+    "country": "Qatar",
+    "objectID": "489656cb-564a-4d9b-aa05-6768965b8da8"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/taiba-saoud-al-rodaini-6aa4a315a",
+    "id": "47dfbeec-acc8-47fe-8eb9-4fa37e7908c9",
+    "first_name": "Taiba Saoud",
+    "last_name": "Al-Rodaini",
+    "job_title": "External Communication",
+    "company_name": "Hamad Bin Khalifa University",
+    "country": "Qatar",
+    "objectID": "47dfbeec-acc8-47fe-8eb9-4fa37e7908c9"
+  },
+  {
+    "id": "4768d697-828e-4cac-a881-37d37548fea7",
+    "first_name": "Luanna",
+    "last_name": "Garcia",
+    "job_title": "Entrepreneur ",
+    "company_name": "Tessaro Home and Garden",
+    "country": "Brazil",
+    "objectID": "4768d697-828e-4cac-a881-37d37548fea7"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/narges-raiss-495baa84",
+    "id": "474c8544-7ebc-452e-bcea-25f670492f33",
+    "first_name": "Narges",
+    "last_name": "Raiss",
+    "job_title": "Editor at large/producer",
+    "company_name": "GQ Middle East/Harpers Bazaar Middle East",
+    "country": "Qatar",
+    "objectID": "474c8544-7ebc-452e-bcea-25f670492f33"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/nasir-qaddoura-9b2144205",
+    "id": "46469e9a-61c5-490c-943d-9ab71681562b",
+    "first_name": "Nasir",
+    "last_name": "Qaddoura",
+    "job_title": "Environment specialist ",
+    "company_name": "MATAR Hamad international airport",
+    "country": "Qatar",
+    "objectID": "46469e9a-61c5-490c-943d-9ab71681562b"
+  },
+  {
+    "id": "45de7112-a494-4d03-bc9e-20e56e625e8d",
+    "first_name": "Jarod",
+    "last_name": "Lopez",
+    "job_title": "Executive Director, Marketing and Business Development ",
+    "company_name": "Es’hailSat ",
+    "country": "Qatar",
+    "objectID": "45de7112-a494-4d03-bc9e-20e56e625e8d"
+  },
+  {
+    "id": "442650b6-7526-4e15-ab79-f6f0eed46129",
+    "first_name": "Julien",
+    "last_name": "Velud",
+    "job_title": "Economic attaché",
+    "company_name": "French embassy in the UAE",
+    "country": "United Arab Emirates",
+    "objectID": "442650b6-7526-4e15-ab79-f6f0eed46129"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/omar-taha-279400aa",
+    "id": "4293a660-f106-45d2-a9d8-7e8addd91efb",
+    "first_name": "Omar",
+    "last_name": "Taha",
+    "job_title": "Executive",
+    "company_name": "Access Bridge Ventures",
+    "country": "United Arab Emirates",
+    "objectID": "4293a660-f106-45d2-a9d8-7e8addd91efb"
+  },
+  {
+    "linkedinAccount": "https://ca.linkedin.com/in/robgoehring",
+    "id": "427c65e3-a2c8-4e5c-bd73-7a825f786fd9",
+    "first_name": "Rob",
+    "last_name": "Goehring",
+    "job_title": "Executive Director",
+    "company_name": "AI Network of BC",
+    "country": "Canada",
+    "objectID": "427c65e3-a2c8-4e5c-bd73-7a825f786fd9"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/reem-al-kubaisi-51a07b251",
+    "id": "4256fc8e-e329-466b-8cb6-c0c90d66c35a",
+    "first_name": "Reem",
+    "last_name": "Salem Al Kubaisi",
+    "job_title": "Entrepreneurship Development Officer",
+    "company_name": "QDB",
+    "country": "Qatar",
+    "objectID": "4256fc8e-e329-466b-8cb6-c0c90d66c35a"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/sorayasalam",
+    "id": "41bf6be3-6d2c-4ddf-b551-d9dc9c39a38c",
+    "first_name": "Soraya",
+    "last_name": "Salam",
+    "job_title": "Editor-in-Chief of Al Jazeera English Online",
+    "company_name": "Al Jazeera Media Network",
+    "country": "Qatar",
+    "objectID": "41bf6be3-6d2c-4ddf-b551-d9dc9c39a38c"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/akshata-namjoshi-33481a47",
+    "id": "413a7f71-5c39-4faf-93c8-02ee1f803a79",
+    "first_name": "Akshata",
+    "last_name": "Namjoshi",
+    "job_title": "Equity Partner",
+    "company_name": "KARM LEGAL CONSULTANTS",
+    "country": "United Arab Emirates",
+    "objectID": "413a7f71-5c39-4faf-93c8-02ee1f803a79"
+  },
+  {
+    "id": "3ffddafb-6e47-4076-aff4-fa5bfeabab24",
+    "first_name": "Noor",
+    "last_name": "Mashoor Abdula",
+    "job_title": "Electrical Engineer (Transmission Planning)",
+    "company_name": "Qatar General Electricity & Water Corporation",
+    "country": "Qatar",
+    "objectID": "3ffddafb-6e47-4076-aff4-fa5bfeabab24"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/hmohamed",
+    "id": "3d3aead0-ba30-46ca-b034-5a76c40b8144",
+    "first_name": "Hisham",
+    "last_name": "Mohamed",
+    "job_title": "Engineering Director ",
+    "company_name": "Scale AI",
+    "country": "Qatar",
+    "objectID": "3d3aead0-ba30-46ca-b034-5a76c40b8144"
+  },
+  {
+    "id": "3bacd375-a489-4765-8817-76c92fa6fa35",
+    "first_name": "Lydia",
+    "last_name": "Farrell",
+    "job_title": "Executive Assistant ",
+    "company_name": "Web Summit",
+    "country": "Ireland",
+    "objectID": "3bacd375-a489-4765-8817-76c92fa6fa35"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/jose-gonzalo",
+    "id": "3b090a24-fcc5-405a-8eaf-ed7d61ef4830",
+    "first_name": "José",
+    "last_name": "Gonzalo",
+    "job_title": "Executive Director",
+    "company_name": "Bpifrance",
+    "country": "France",
+    "objectID": "3b090a24-fcc5-405a-8eaf-ed7d61ef4830"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/eng-njoud-al-hammadi-197b42323",
+    "id": "39cae442-d5fa-4bf3-a9a1-7e56be4af2a2",
+    "first_name": "Njoud",
+    "last_name": "Al Hammadi",
+    "job_title": "Electrical engineer ",
+    "company_name": "Public Works Authorithy",
+    "country": "Qatar",
+    "objectID": "39cae442-d5fa-4bf3-a9a1-7e56be4af2a2"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mabappi",
+    "id": "39b709ed-f4f1-436d-97f4-382a2f76c50d",
+    "first_name": "Muhammad",
+    "last_name": "Ahmed",
+    "job_title": "Engineering",
+    "company_name": "KARTY LLC",
+    "country": "Qatar",
+    "objectID": "39b709ed-f4f1-436d-97f4-382a2f76c50d"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/nour-el-houda-kechari-615a847a",
+    "id": "395db052-4cc9-4b00-b501-be1077c5dddc",
+    "first_name": "Nour",
+    "last_name": "Kechari",
+    "job_title": "Educational Counsellor ",
+    "company_name": "CUQ Ulster University ",
+    "country": "Qatar",
+    "objectID": "395db052-4cc9-4b00-b501-be1077c5dddc"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/maryam-faizan-7ab116287",
+    "id": "37f05705-12e9-409c-b8b5-ffe6c8f48b87",
+    "first_name": "Maryam",
+    "last_name": "Faizan Munshi",
+    "job_title": "Entrepreneur",
+    "company_name": "Tharwa Capital",
+    "country": "Qatar",
+    "objectID": "37f05705-12e9-409c-b8b5-ffe6c8f48b87"
+  },
+  {
+    "linkedinAccount": "https://eg.linkedin.com/in/yaramoussa0",
+    "id": "37bac087-9b7b-4f42-a5d7-30625c2ff50f",
+    "first_name": "Yara",
+    "last_name": "Al Mousa",
+    "job_title": "Event lead",
+    "company_name": "ministry of communications and information technology ",
+    "country": "Qatar",
+    "objectID": "37bac087-9b7b-4f42-a5d7-30625c2ff50f"
+  },
+  {
+    "id": "35c912f1-8e7c-4ece-a098-883b1bf82a01",
+    "first_name": "Fatima Hussain",
+    "last_name": "Alansari",
+    "job_title": "Engineer",
+    "company_name": "Moi",
+    "country": "Qatar",
+    "objectID": "35c912f1-8e7c-4ece-a098-883b1bf82a01"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/anupkaphle",
+    "id": "3521a03c-1374-48d3-b2c3-8f368475c9cf",
+    "first_name": "Anup",
+    "last_name": "Kaphle",
+    "job_title": "Editor in Chief",
+    "company_name": "Rest of World",
+    "country": "United States",
+    "objectID": "3521a03c-1374-48d3-b2c3-8f368475c9cf"
+  },
+  {
+    "id": "31ff8e36-0361-489a-93fe-e42431aeb9ee",
+    "first_name": "Ozgur",
+    "last_name": "Ozalp",
+    "job_title": "Executive VP of Business Development",
+    "company_name": "PlaySide Studios",
+    "country": "United Arab Emirates",
+    "objectID": "31ff8e36-0361-489a-93fe-e42431aeb9ee"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/latifa-al-musallam-00b10a143",
+    "id": "31f189e1-ad04-4732-bc46-c69ced1689dd",
+    "first_name": "Latifa",
+    "last_name": "Al Musallam",
+    "job_title": "EP Interior & Studio Design",
+    "company_name": "Al Jazeera Media Network",
+    "country": "Qatar",
+    "objectID": "31f189e1-ad04-4732-bc46-c69ced1689dd"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/afaf-saoudi-7a386785",
+    "id": "30c28c90-0a23-4224-985a-1447c20f1ef6",
+    "first_name": "Afaf",
+    "last_name": "Saoudi",
+    "job_title": "Executive Producer ",
+    "company_name": "Media consultant ",
+    "country": "Qatar",
+    "objectID": "30c28c90-0a23-4224-985a-1447c20f1ef6"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/awad-joumaa-1239214",
+    "id": "302ae42b-c88c-4cd9-9612-c8c4a050a4ab",
+    "first_name": "Awad",
+    "last_name": "Joumaa",
+    "job_title": "Editorial lead AJ360",
+    "company_name": "Al Jazeera Media Network",
+    "country": "Denmark",
+    "objectID": "302ae42b-c88c-4cd9-9612-c8c4a050a4ab"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/kaouther-g-b6648b271",
+    "id": "2e39cf1c-5f58-4d54-bda1-2cb185232594",
+    "first_name": "Kaouther",
+    "last_name": "Gastli",
+    "job_title": "Editor",
+    "company_name": "Gulf Times",
+    "country": "Qatar",
+    "objectID": "2e39cf1c-5f58-4d54-bda1-2cb185232594"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/rachel-agnew",
+    "id": "2d5c90dd-1081-4c5e-9d0b-22421b894fe4",
+    "first_name": "Rachel",
+    "last_name": "Agnew",
+    "job_title": "Executive Assistant",
+    "company_name": "Web Summit",
+    "country": "Ireland",
+    "objectID": "2d5c90dd-1081-4c5e-9d0b-22421b894fe4"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/kasun-illankoon-a36aab16",
+    "id": "2b006fb6-a61f-40f2-872a-7c9d39323095",
+    "first_name": "KASUN",
+    "last_name": "ILLANKOON",
+    "job_title": "Editor in Chief",
+    "company_name": "Bellman Media - Tech Revolt",
+    "country": "United Arab Emirates",
+    "objectID": "2b006fb6-a61f-40f2-872a-7c9d39323095"
+  },
+  {
+    "id": "2aae5ae0-e177-44dc-9bdb-147c5459f0b1",
+    "first_name": "Ahmad",
+    "last_name": "Saleh",
+    "job_title": "Education sector lead",
+    "company_name": "Scale AI",
+    "country": "Qatar",
+    "objectID": "2aae5ae0-e177-44dc-9bdb-147c5459f0b1"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/mehreen-khan-0498a123",
+    "id": "2666dfd3-59a0-4897-8cdc-5a959874a138",
+    "first_name": "Mehreen",
+    "last_name": "Khan",
+    "job_title": "Economics Editor",
+    "company_name": "The Times & Sunday Times",
+    "country": "United Kingdom",
+    "objectID": "2666dfd3-59a0-4897-8cdc-5a959874a138"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/maneet-ahuja-06533577",
+    "id": "253c7077-8894-4594-9e2b-94f9a64cd468",
+    "first_name": "Maneet",
+    "last_name": "Ahuja",
+    "job_title": "Editor at Large",
+    "company_name": "Forbes",
+    "country": "United States",
+    "objectID": "253c7077-8894-4594-9e2b-94f9a64cd468"
+  },
+  {
+    "id": "25207936-bc45-4f1b-b88f-4b51a3661859",
+    "first_name": "Süha",
+    "last_name": "Soydan",
+    "job_title": "Entrepreneurship Support Programs Manager",
+    "company_name": "Özyeğin University",
+    "country": "Türkiye",
+    "objectID": "25207936-bc45-4f1b-b88f-4b51a3661859"
+  },
+  {
+    "id": "24399237-6874-4fbc-ac3a-9bf2a3bc0666",
+    "first_name": "Mohammad",
+    "last_name": "Al Saad",
+    "job_title": "Executive Chairman",
+    "company_name": "MAS Holding QSC",
+    "country": "Qatar",
+    "objectID": "24399237-6874-4fbc-ac3a-9bf2a3bc0666"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/jawaher-al-noaimi-emba-13521315",
+    "id": "23804a97-aee5-4d17-9cd7-bce7b8a5c513",
+    "first_name": "Jawaher ",
+    "last_name": "Al Noaimi",
+    "job_title": "Executive director Operations and Support ",
+    "company_name": "QDB",
+    "country": "Qatar",
+    "objectID": "23804a97-aee5-4d17-9cd7-bce7b8a5c513"
+  },
+  {
+    "id": "23754318-3e25-49c6-9207-59818116bcbb",
+    "first_name": "Fatih Mehmet",
+    "last_name": "Tekcan",
+    "job_title": "Engineer",
+    "company_name": "Kafatech Yazilim Ltd. Sti.",
+    "country": "Türkiye",
+    "objectID": "23754318-3e25-49c6-9207-59818116bcbb"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/kinanalshaghouri",
+    "id": "20fb153e-8152-4ede-b64d-df9e51b3b442",
+    "first_name": "Kinan",
+    "last_name": "Al Shaghouri",
+    "job_title": "Economic Officer",
+    "company_name": "U.S. Embassy Doha ",
+    "country": "Qatar",
+    "objectID": "20fb153e-8152-4ede-b64d-df9e51b3b442"
+  },
+  {
+    "id": "1865eb44-a5ba-4aa6-8b0c-271c8ea09fc8",
+    "first_name": "Ahmed",
+    "last_name": "Abdallah",
+    "job_title": "Engineer ",
+    "company_name": "Decarb Technol Inc.",
+    "country": "United States",
+    "objectID": "1865eb44-a5ba-4aa6-8b0c-271c8ea09fc8"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/jumsheed-want-20794b6",
+    "id": "1828bae1-9198-4231-a9fe-747a03d773bc",
+    "first_name": "Jumsheed",
+    "last_name": "Hussain",
+    "job_title": "Executive Director",
+    "company_name": "Qatar Development Bank",
+    "country": "Qatar",
+    "objectID": "1828bae1-9198-4231-a9fe-747a03d773bc"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/faruk-yucegog",
+    "id": "17da1f44-3fb6-40d0-b905-bd1b828ad80c",
+    "first_name": "Faruk",
+    "last_name": "YÜCEGÖG",
+    "job_title": "Entrepreneurship and Innovation Manager",
+    "company_name": "Kuveyt Türk",
+    "country": "Türkiye",
+    "objectID": "17da1f44-3fb6-40d0-b905-bd1b828ad80c"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/alexandra-pauliat-b37a87136",
+    "id": "177eba72-2ee4-4250-b6dd-d04276bf64c3",
+    "first_name": "Alexandra",
+    "last_name": "Pauliat",
+    "job_title": "Executive Producer, People & Power- Investigative",
+    "company_name": "Al Jazeera English",
+    "country": "Qatar",
+    "objectID": "177eba72-2ee4-4250-b6dd-d04276bf64c3"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/yahiamageed",
+    "id": "165b313d-1861-4e0c-8e33-d6c4793bc893",
+    "first_name": "Yahia",
+    "last_name": "AbdelMageed",
+    "job_title": "Expansion",
+    "company_name": "Taptap Send",
+    "country": "United Arab Emirates",
+    "objectID": "165b313d-1861-4e0c-8e33-d6c4793bc893"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/olaya3gm/en",
+    "id": "15fc1d66-3a96-4cad-84c0-a41986d32ec6",
+    "first_name": "Olaya",
+    "last_name": "Garcia",
+    "job_title": "Executive assistant ",
+    "company_name": "iberdrola",
+    "country": "Qatar",
+    "objectID": "15fc1d66-3a96-4cad-84c0-a41986d32ec6"
+  },
+  {
+    "linkedinAccount": "https://dz.linkedin.com/in/ali-kratbi-علي-قراطبي-80429b4b",
+    "id": "13ac826a-3adb-49fa-bde9-72536bd3cef0",
+    "first_name": "Ali",
+    "last_name": "KRATBI",
+    "job_title": "Expert",
+    "company_name": "MECC",
+    "country": "Qatar",
+    "objectID": "13ac826a-3adb-49fa-bde9-72536bd3cef0"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/walaa-kshanh-48b257b0",
+    "id": "1181fc63-d4fd-4cb1-9ebe-b3784b32736b",
+    "first_name": "Walaa",
+    "last_name": "Kshanh",
+    "job_title": "English Coordinator and Trainer ",
+    "company_name": "Ministry of Education",
+    "country": "Qatar",
+    "objectID": "1181fc63-d4fd-4cb1-9ebe-b3784b32736b"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/shemina-mekky-24200115",
+    "id": "1078c662-c953-4302-b61d-953f05f48725",
+    "first_name": "shemina",
+    "last_name": "Mekky",
+    "job_title": "Executive Assistant",
+    "company_name": "Golden Gate Ventures",
+    "country": "Qatar",
+    "objectID": "1078c662-c953-4302-b61d-953f05f48725"
+  },
+  {
+    "linkedinAccount": "https://ro.linkedin.com/in/stefania-oprea-836b2416",
+    "id": "0eab591e-70d8-474a-9b5d-0c13d51ab8a6",
+    "first_name": "Stefania",
+    "last_name": "Oprea",
+    "job_title": "Enterprise Business Architecture Director",
+    "company_name": "Banca Transilvania",
+    "country": "Romania",
+    "objectID": "0eab591e-70d8-474a-9b5d-0c13d51ab8a6"
+  },
+  {
+    "id": "0b61ddb6-5c74-4e48-a48d-1fd25da995d5",
+    "first_name": "Ameera",
+    "last_name": "Nijim",
+    "job_title": "Entrepreneur ",
+    "company_name": "Flow Accelerator ",
+    "country": "Palestine, State of",
+    "objectID": "0b61ddb6-5c74-4e48-a48d-1fd25da995d5"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/mohammed-almulla-b9929315b",
+    "id": "0a573a58-cab9-4084-9b7f-9fdeee07f028",
+    "first_name": "Mohammed",
+    "last_name": "Al-Mulla",
+    "job_title": "Engineer",
+    "company_name": "Government",
+    "country": "Qatar",
+    "objectID": "0a573a58-cab9-4084-9b7f-9fdeee07f028"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/merita-aliçkaj-19994275",
+    "id": "0a06133b-d338-432e-8039-21f9c4539ec5",
+    "first_name": "Merita",
+    "last_name": "Alickaj Lezi",
+    "job_title": "Executive Director",
+    "company_name": "Kosova Global Talent Center",
+    "country": "Kosovo, Republic of",
+    "objectID": "0a06133b-d338-432e-8039-21f9c4539ec5"
+  },
+  {
+    "linkedinAccount": "https://in.linkedin.com/in/nasirahmed1",
+    "id": "05e3b610-ce45-4bd2-8137-817d40e30c87",
+    "first_name": "Ahmed",
+    "last_name": "Nasir",
+    "job_title": "Engineering",
+    "company_name": "TechMonkeys",
+    "country": "Pakistan",
+    "objectID": "05e3b610-ce45-4bd2-8137-817d40e30c87"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/hamed-siasi",
+    "id": "05b48635-2ebb-44d2-b4bc-79afb18666b9",
+    "first_name": "HAMED",
+    "last_name": "SIASI",
+    "job_title": "EXECUTIVE DIRECTOR",
+    "company_name": "ROYANIX UK LTD",
+    "country": "United Kingdom",
+    "objectID": "05b48635-2ebb-44d2-b4bc-79afb18666b9"
+  },
+  {
+    "id": "0446569f-e55f-4584-a023-ace3fc5550cf",
+    "first_name": "Kisara",
+    "last_name": "Yatiyawela",
+    "job_title": "Entrepreneur ",
+    "company_name": "Succeed Qatar",
+    "country": "Qatar",
+    "objectID": "0446569f-e55f-4584-a023-ace3fc5550cf"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/jawaher-al-majed-4b584735b",
+    "id": "03dda4fb-f350-4dea-9e99-d13496ccc1d4",
+    "first_name": "Jawaher",
+    "last_name": "Al Majed",
+    "job_title": "Education & Policy Researcher",
+    "company_name": "Independent",
+    "country": "Qatar",
+    "objectID": "03dda4fb-f350-4dea-9e99-d13496ccc1d4"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/soarafat",
+    "id": "03dc527f-508e-467c-ba12-de70c38a0fde",
+    "first_name": "Sohaib",
+    "last_name": "Arafat",
+    "job_title": "Employability and Tech Unit Coordinator",
+    "company_name": "Gaza Sky Geeks - Mercy Corps",
+    "country": "Palestine, State of",
+    "objectID": "03dc527f-508e-467c-ba12-de70c38a0fde"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/nejoud-almalki-al-jehani-9425b738",
+    "id": "034e2ddb-db6c-47e2-98b6-b5ccec16fc06",
+    "first_name": "Nejoud",
+    "last_name": "Al-Jehani",
+    "job_title": "Executive Director of Strategy & Programs",
+    "company_name": "Qatar Research, Development, and Innovation (QRDI) Council",
+    "country": "Qatar",
+    "objectID": "034e2ddb-db6c-47e2-98b6-b5ccec16fc06"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/gregorhastings",
+    "id": "032d53c9-3a46-4009-ab20-757620f1526e",
+    "first_name": "Gregor",
+    "last_name": "Hastings",
+    "job_title": "EMEA External Communications Lead",
+    "company_name": "IBM",
+    "country": "United Kingdom",
+    "objectID": "032d53c9-3a46-4009-ab20-757620f1526e"
+  },
+  {
+    "id": "02c4d379-8689-4696-9970-2881234b1325",
+    "first_name": "Gian Mario",
+    "last_name": "Monis",
+    "job_title": "Executive",
+    "company_name": "QRDI",
+    "country": "Qatar",
+    "objectID": "02c4d379-8689-4696-9970-2881234b1325"
+  },
+  {
+    "linkedinAccount": "https://bh.linkedin.com/in/fahad-hammad-9057a6196",
+    "id": "0040bb20-e6a9-4e26-ac55-d17021bf93bb",
+    "first_name": "Fahad",
+    "last_name": "Hammad",
+    "job_title": "Execution Lead",
+    "company_name": "Siin",
+    "country": "Bahrain",
+    "objectID": "0040bb20-e6a9-4e26-ac55-d17021bf93bb"
+  },
+  {
+    "linkedinAccount": "https://bb.linkedin.com/in/rishi-panjwani-488025120",
+    "id": "ffc261d9-cb86-46d3-8b87-2444f548838c",
+    "first_name": "RISHI HARDIKBHAI",
+    "last_name": "PANJWANI",
+    "job_title": "Self Employed",
+    "company_name": "NA",
+    "country": "India",
+    "objectID": "ffc261d9-cb86-46d3-8b87-2444f548838c"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/zainab-ali-11b6661a4",
+    "id": "fef1c828-c89b-47be-8b28-2a3828ad0eca",
+    "first_name": "Zainab",
+    "last_name": "Ali",
+    "job_title": "Front end Engineer ",
+    "company_name": "Iberdrola",
+    "country": "Qatar",
+    "objectID": "fef1c828-c89b-47be-8b28-2a3828ad0eca"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mohammed-fareeduddin",
+    "id": "fd473abf-0bf3-4885-8431-6b407d29e618",
+    "first_name": "Fareeduddin",
+    "last_name": "Mohammed",
+    "job_title": "Software engineer ",
+    "company_name": "QEERI",
+    "country": "Qatar",
+    "objectID": "fd473abf-0bf3-4885-8431-6b407d29e618"
+  },
+  {
+    "linkedinAccount": "https://id.linkedin.com/in/dehelder",
+    "id": "fd44747d-e529-48b7-b49a-98ecdf516db4",
+    "first_name": "Ivan",
+    "last_name": "Zinkevich",
+    "job_title": "Individual Entrepreneur",
+    "company_name": "Machinio",
+    "country": "Belarus",
+    "objectID": "fd44747d-e529-48b7-b49a-98ecdf516db4"
+  },
+  {
+    "linkedinAccount": "https://kw.linkedin.com/in/saeed-al-aswad",
+    "id": "fd311b09-0095-444d-88ca-b0c94dee87ff",
+    "first_name": "Saeed",
+    "last_name": "Al-Aswad",
+    "job_title": "Telecontrol Engineer",
+    "company_name": "KAHRAMAA",
+    "country": "Qatar",
+    "objectID": "fd311b09-0095-444d-88ca-b0c94dee87ff"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/sabrialagoun",
+    "id": "fc247e82-4a38-4441-b617-8475655f0d37",
+    "first_name": "Sabria",
+    "last_name": "Lagoun",
+    "job_title": "Innovation expert, Deeptech/AI, Biotech and Healthcare.",
+    "company_name": "Freelance",
+    "country": "France",
+    "objectID": "fc247e82-4a38-4441-b617-8475655f0d37"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/octavianiordache",
+    "id": "fa3381f9-ed36-4b01-a4e5-fdf77ae42716",
+    "first_name": "Octavian",
+    "last_name": "Iordache",
+    "job_title": "Senior Executive",
+    "company_name": "Palantir Technologies",
+    "country": "Qatar",
+    "objectID": "fa3381f9-ed36-4b01-a4e5-fdf77ae42716"
+  },
+  {
+    "linkedinAccount": "https://dz.linkedin.com/in/mourad-rouane-79334662",
+    "id": "f8ec5e6e-177e-4d1c-b2ca-16407bd03ade",
+    "first_name": "Mourad",
+    "last_name": "Rouane",
+    "job_title": "Web Editor-in-Chief",
+    "company_name": "El Watan Newspaper",
+    "country": "Algeria",
+    "objectID": "f8ec5e6e-177e-4d1c-b2ca-16407bd03ade"
+  },
+  {
+    "id": "f713a890-0104-44f8-a93f-ca412a5d2905",
+    "first_name": "Tamer",
+    "last_name": "Moustafa",
+    "job_title": "Account Executive",
+    "company_name": "Infobip Ltd",
+    "country": "Qatar",
+    "objectID": "f713a890-0104-44f8-a93f-ca412a5d2905"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mohammad-aladham-2661a940",
+    "id": "f671a766-2822-485d-aa91-b91e2739ae6c",
+    "first_name": "Mohammad ",
+    "last_name": "Aladham",
+    "job_title": "Account Executive",
+    "company_name": "Microsoft",
+    "country": "Qatar",
+    "objectID": "f671a766-2822-485d-aa91-b91e2739ae6c"
+  },
+  {
+    "id": "f5f38c5b-ebfd-4070-baef-30cfba785e10",
+    "first_name": "MAHMOUD ADNAN",
+    "last_name": "AL NAJJAR",
+    "job_title": "Senior Engagement Producer",
+    "company_name": "Al Jazeera Media Network",
+    "country": "Qatar",
+    "objectID": "f5f38c5b-ebfd-4070-baef-30cfba785e10"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/alsadi",
+    "id": "f585ab71-9528-4c6c-96ad-d25cf4d3740c",
+    "first_name": "MOHAMMED",
+    "last_name": "AL-SADI",
+    "job_title": "AI Engineer",
+    "company_name": "Carnegie Mellon University",
+    "country": "Qatar",
+    "objectID": "f585ab71-9528-4c6c-96ad-d25cf4d3740c"
+  },
+  {
+    "id": "f1769461-992b-4611-8133-d57e9d23f8e3",
+    "first_name": "Mohd Umair Ali",
+    "last_name": "Siddique",
+    "job_title": "Software Engineer",
+    "company_name": "Emigro Consulting IT",
+    "country": "Qatar",
+    "objectID": "f1769461-992b-4611-8133-d57e9d23f8e3"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mansoor-padippura-95224437",
+    "id": "efa5203f-b1af-4068-95aa-2304673b7ebc",
+    "first_name": "Mansoor",
+    "last_name": "Padipura",
+    "job_title": "Network Engineer",
+    "company_name": "beIN Media Group",
+    "country": "Qatar",
+    "objectID": "efa5203f-b1af-4068-95aa-2304673b7ebc"
+  },
+  {
+    "id": "ea6018bb-7e00-4589-8ae2-51ba760f73f1",
+    "first_name": "Mostafa",
+    "last_name": "Abdelsalam",
+    "job_title": "Software Engineer",
+    "company_name": "Chatoura",
+    "country": "Egypt",
+    "objectID": "ea6018bb-7e00-4589-8ae2-51ba760f73f1"
+  },
+  {
+    "id": "e8f0d831-f5fe-4f3d-babe-ca383297893d",
+    "first_name": "Moudi",
+    "last_name": "Al Sada",
+    "job_title": "Performance Evaluation Coordinator",
+    "company_name": "Central Municipal Council ",
+    "country": "Qatar",
+    "objectID": "e8f0d831-f5fe-4f3d-babe-ca383297893d"
+  },
+  {
+    "linkedinAccount": "https://sa.linkedin.com/in/sallykawtharany",
+    "id": "e6db1d85-2ef5-45e3-b1f4-2b8bf47bae93",
+    "first_name": "Sally",
+    "last_name": "Kawtharany",
+    "job_title": "Founder & Executive Lead",
+    "company_name": "Scofolio",
+    "country": "Saudi Arabia",
+    "objectID": "e6db1d85-2ef5-45e3-b1f4-2b8bf47bae93"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/foteini-vaitsi-0b6103133",
+    "id": "e6027200-e1af-4df2-978a-bde7edd61c13",
+    "first_name": "Foteini",
+    "last_name": "Vaitsi",
+    "job_title": "Pharma Engagement and Health Economics Lead",
+    "company_name": "Qatar Precision Health Institute ",
+    "country": "Qatar",
+    "objectID": "e6027200-e1af-4df2-978a-bde7edd61c13"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/omarriad",
+    "id": "e4c2f228-0644-446d-9743-2509da092972",
+    "first_name": "Omar",
+    "last_name": "Riad",
+    "job_title": "Sales Executive",
+    "company_name": "Dell Technologies",
+    "country": "Qatar",
+    "objectID": "e4c2f228-0644-446d-9743-2509da092972"
+  },
+  {
+    "id": "e31fc59f-0e1a-4944-91a5-bef271b98516",
+    "first_name": "Luay",
+    "last_name": "Hussein",
+    "job_title": "Mechanical Engineering Instructor",
+    "company_name": "University of Doha for Science and Technology",
+    "country": "Qatar",
+    "objectID": "e31fc59f-0e1a-4944-91a5-bef271b98516"
+  },
+  {
+    "id": "e308609f-7b38-4f3f-93c5-f12832416e58",
+    "first_name": "NOUFAL",
+    "last_name": "VETTIPARAMBIL",
+    "job_title": "Network Engineer",
+    "company_name": "Ministry Of Social Development and Family",
+    "country": "Qatar",
+    "objectID": "e308609f-7b38-4f3f-93c5-f12832416e58"
+  },
+  {
+    "linkedinAccount": "https://kw.linkedin.com/in/fgharabally",
+    "id": "e01e0e14-991b-48e4-82f4-0b38b73366ab",
+    "first_name": "Faisal",
+    "last_name": "Gharbally Hussein",
+    "job_title": "senior entrepreneurship development administrator",
+    "company_name": "Qata Development Bank",
+    "country": "Qatar",
+    "objectID": "e01e0e14-991b-48e4-82f4-0b38b73366ab"
+  },
+  {
+    "linkedinAccount": "https://ua.linkedin.com/in/yevhen-yarmak-07541aaa",
+    "id": "dd2b3c39-3fc7-43b6-9bf3-36a519e4b9d9",
+    "first_name": "Yevhen",
+    "last_name": "Yarmak",
+    "job_title": "Software Engineer / Entrepreneur ",
+    "company_name": "?",
+    "country": "Germany",
+    "objectID": "dd2b3c39-3fc7-43b6-9bf3-36a519e4b9d9"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/84johnson",
+    "id": "dc853e41-711f-44fc-8ade-9a13dc306e73",
+    "first_name": "Samantha",
+    "last_name": "Johnson",
+    "job_title": "Presenter / Executive Producer, Digital Content Strategy",
+    "company_name": "Al Jazeera Media Network",
+    "country": "Qatar",
+    "objectID": "dc853e41-711f-44fc-8ade-9a13dc306e73"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/samson-nagamani",
+    "id": "d9c94aa7-a237-4137-93fa-16166cd49d7d",
+    "first_name": "Samson",
+    "last_name": "Nagamani",
+    "job_title": "Software Engineer",
+    "company_name": "ScanSan Properties",
+    "country": "United Kingdom",
+    "objectID": "d9c94aa7-a237-4137-93fa-16166cd49d7d"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/hakem-metawea-0561b878",
+    "id": "d866e4a4-acd0-4a24-b2a3-8044dcde4c50",
+    "first_name": "Hakem",
+    "last_name": "Metawea",
+    "job_title": "ٍSenior E-Learning Specialist",
+    "company_name": "Ministry of Education",
+    "country": "Qatar",
+    "objectID": "d866e4a4-acd0-4a24-b2a3-8044dcde4c50"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/mohammedalawadhi/ar",
+    "id": "d7de36d7-26c3-4ae6-af37-c760cf8c776b",
+    "first_name": "Mohammed",
+    "last_name": "Alawadhi",
+    "job_title": "Account Executive - Startups",
+    "company_name": "Amazon Web Services (AWS)",
+    "country": "United Arab Emirates",
+    "objectID": "d7de36d7-26c3-4ae6-af37-c760cf8c776b"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/rimonhanna",
+    "id": "d7bea606-6a7e-4f1d-9ad4-b7b0992e72f4",
+    "first_name": "Rimon",
+    "last_name": "Hanna",
+    "job_title": "Salesforce, Enterprise Agentic AI, DevOps, Odoo",
+    "company_name": "Tekunda",
+    "country": "United Arab Emirates",
+    "objectID": "d7bea606-6a7e-4f1d-9ad4-b7b0992e72f4"
+  },
+  {
+    "linkedinAccount": "https://ca.linkedin.com/in/noor-ahamed-sadique",
+    "id": "d3179071-718a-40c6-886c-c8ec5e325e81",
+    "first_name": "Noor",
+    "last_name": "Sadique",
+    "job_title": "Software Engineer",
+    "company_name": "N/A",
+    "country": "Canada",
+    "objectID": "d3179071-718a-40c6-886c-c8ec5e325e81"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/mgitani",
+    "id": "cc4f28cf-856c-4c46-8768-0e58993c771b",
+    "first_name": "Mohamad",
+    "last_name": "Itani",
+    "job_title": "Performance Executive",
+    "company_name": "OmniGov",
+    "country": "Qatar",
+    "objectID": "cc4f28cf-856c-4c46-8768-0e58993c771b"
+  },
+  {
+    "id": "ca48df06-8455-4ca8-b928-b45e7732d870",
+    "first_name": "Hanaa",
+    "last_name": "Alaoui",
+    "job_title": "Computer Engineering | PM",
+    "company_name": "Independent",
+    "country": "United Kingdom",
+    "objectID": "ca48df06-8455-4ca8-b928-b45e7732d870"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/reem-al-jaidah",
+    "id": "c9206ed8-2601-4e5f-b932-75ebdc805832",
+    "first_name": "Reem",
+    "last_name": "Al Jaidah",
+    "job_title": "Senior executive- advertising and branding ",
+    "company_name": "Qatar financial centre",
+    "country": "Qatar",
+    "objectID": "c9206ed8-2601-4e5f-b932-75ebdc805832"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/reem-al-thani-8b621761#:~:text=As Deputy CEO of AL RIWAQ, Public Art,,strengthening regional and international collaboration across the arts.",
+    "id": "c8f97320-a460-42c0-bce5-e320403f9a43",
+    "first_name": "Reem",
+    "last_name": "Al Shaddad",
+    "job_title": "Senior English Digital Editorial Specialist",
+    "company_name": "Qatar Museums ",
+    "country": "Qatar",
+    "objectID": "c8f97320-a460-42c0-bce5-e320403f9a43"
+  },
+  {
+    "id": "c703d9f4-dbc2-4df0-b484-7799a2eb12e3",
+    "first_name": "Mahgoub",
+    "last_name": "Abdelrahim",
+    "job_title": "Software engineer",
+    "company_name": "Triyo",
+    "country": "Qatar",
+    "objectID": "c703d9f4-dbc2-4df0-b484-7799a2eb12e3"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/houda-hamra-krouha-246952217",
+    "id": "c66c1633-b3ae-489d-a48a-1662be711d32",
+    "first_name": "Houda",
+    "last_name": "Hamra krouha",
+    "job_title": "Marketing executive",
+    "company_name": "Tamanna",
+    "country": "Qatar",
+    "objectID": "c66c1633-b3ae-489d-a48a-1662be711d32"
+  },
+  {
+    "id": "c4593ab0-3017-400e-9d19-2f8552259699",
+    "first_name": "MAJDI H M",
+    "last_name": "ALMASRI",
+    "job_title": "SELF EMPLOYED ",
+    "company_name": "SEHHATE",
+    "country": "Türkiye",
+    "objectID": "c4593ab0-3017-400e-9d19-2f8552259699"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/mohammedsergie",
+    "id": "c3f810ae-73c6-451a-80a1-2a857fbd4948",
+    "first_name": "Mohammed",
+    "last_name": "Sergie",
+    "job_title": "Gulf Editor",
+    "company_name": "Semafor",
+    "country": "United Arab Emirates",
+    "objectID": "c3f810ae-73c6-451a-80a1-2a857fbd4948"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/ines-vogel",
+    "id": "c3b222f7-f010-4ccf-9c61-0c5ad50ec388",
+    "first_name": "Ines",
+    "last_name": "Vogel",
+    "job_title": "Software Engineer",
+    "company_name": "UP42",
+    "country": "Germany",
+    "objectID": "c3b222f7-f010-4ccf-9c61-0c5ad50ec388"
+  },
+  {
+    "id": "c0b57606-2139-4847-9292-ac2573e9b2d7",
+    "first_name": "Yang",
+    "last_name": "Ge",
+    "job_title": "Senior Editor",
+    "company_name": "China.org.cn",
+    "country": "China",
+    "objectID": "c0b57606-2139-4847-9292-ac2573e9b2d7"
+  },
+  {
+    "linkedinAccount": "https://bd.linkedin.com/in/khossain77",
+    "id": "bbfdb409-eb73-49c9-b4af-1635fbe7b913",
+    "first_name": "Kamal",
+    "last_name": "Hossain",
+    "job_title": "Chief Editor",
+    "company_name": "lastnews24.com",
+    "country": "Bangladesh",
+    "objectID": "bbfdb409-eb73-49c9-b4af-1635fbe7b913"
+  },
+  {
+    "id": "bacda787-06e9-45b1-b8f3-d2d0c59440bf",
+    "first_name": "Mohammed Abaker",
+    "last_name": "Adam Abdalla",
+    "job_title": "Network Engineer ",
+    "company_name": "beIN Media Group",
+    "country": "Qatar",
+    "objectID": "bacda787-06e9-45b1-b8f3-d2d0c59440bf"
+  },
+  {
+    "linkedinAccount": "https://bh.linkedin.com/in/isa-ali-14161a1a5",
+    "id": "b7fa9879-b38f-4890-96b4-18c5965b7879",
+    "first_name": "Isa",
+    "last_name": "Ali",
+    "job_title": "Jr. Executive",
+    "company_name": "Bahrain EDB",
+    "country": "Bahrain",
+    "objectID": "b7fa9879-b38f-4890-96b4-18c5965b7879"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/sharjeelahmed12",
+    "id": "b71b6c24-bd07-4d8e-91dc-0f92fda57830",
+    "first_name": "sharjeel",
+    "last_name": "ahmed",
+    "job_title": "AI Engineer",
+    "company_name": "imperium dynamics",
+    "country": "Pakistan",
+    "objectID": "b71b6c24-bd07-4d8e-91dc-0f92fda57830"
+  },
+  {
+    "id": "b3f06470-9461-4af0-9205-7e7418819e33",
+    "first_name": "Raphael",
+    "last_name": "Minder",
+    "job_title": "Central Europe correspondent",
+    "company_name": "Financial Times",
+    "country": "Poland",
+    "objectID": "b3f06470-9461-4af0-9205-7e7418819e33"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/shutong-qi",
+    "id": "ae6ba90e-bfbc-44a1-9901-6144cef994c2",
+    "first_name": "Shutong",
+    "last_name": "Qi",
+    "job_title": "AI Engineer",
+    "company_name": "RFxAI",
+    "country": "Qatar",
+    "objectID": "ae6ba90e-bfbc-44a1-9901-6144cef994c2"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/kamran-rehmat-31975027",
+    "id": "ad29c509-77b5-4b75-bab5-f54e5fddceed",
+    "first_name": "Kamran",
+    "last_name": "Rehmat",
+    "job_title": "Features Editor",
+    "company_name": "Gulf Times",
+    "country": "Qatar",
+    "objectID": "ad29c509-77b5-4b75-bab5-f54e5fddceed"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/mahmoud-ali-68584521b",
+    "id": "ac3dfdf6-0755-4547-8a52-859ca95ed27f",
+    "first_name": "Mahmoud",
+    "last_name": "Ali",
+    "job_title": "AI Engineer ",
+    "company_name": "Cloudilic",
+    "country": "Egypt",
+    "objectID": "ac3dfdf6-0755-4547-8a52-859ca95ed27f"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/sam-anderson-489a7013b",
+    "id": "ab1ced9a-203e-4595-b8b2-39dcde69a39d",
+    "first_name": "Sam",
+    "last_name": "Anderson",
+    "job_title": "Intelligence Editor",
+    "company_name": "TheDrum",
+    "country": "United Kingdom",
+    "objectID": "ab1ced9a-203e-4595-b8b2-39dcde69a39d"
+  },
+  {
+    "linkedinAccount": "https://cn.linkedin.com/in/feng-yan-1abb3132",
+    "id": "a9bef483-31e4-4622-8590-00a11a65b190",
+    "first_name": "Feng",
+    "last_name": "Yan",
+    "job_title": "Senior Editor",
+    "company_name": "FTChinese",
+    "country": "China",
+    "objectID": "a9bef483-31e4-4622-8590-00a11a65b190"
+  },
+  {
+    "id": "a6f565ac-562f-4401-918b-5b70ea488694",
+    "first_name": "Rassha",
+    "last_name": "M. Lopez",
+    "job_title": "Client Engagement Specialist",
+    "company_name": "Wafir ",
+    "country": "Qatar",
+    "objectID": "a6f565ac-562f-4401-918b-5b70ea488694"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/fahad-rajput",
+    "id": "a64e1950-6ea1-41f7-846e-6df13630d525",
+    "first_name": "Fahad",
+    "last_name": "Khalid",
+    "job_title": "Software Engineer",
+    "company_name": "Karty",
+    "country": "Qatar",
+    "objectID": "a64e1950-6ea1-41f7-846e-6df13630d525"
+  },
+  {
+    "linkedinAccount": "https://in.linkedin.com/in/sunitjindal",
+    "id": "a593670f-da64-4688-b160-c88d07bb8552",
+    "first_name": "Sunit",
+    "last_name": "Jindal",
+    "job_title": "Founding Engineer & HoE",
+    "company_name": "Turom World Travel FZCO",
+    "country": "United Arab Emirates",
+    "objectID": "a593670f-da64-4688-b160-c88d07bb8552"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/nikosspachis",
+    "id": "a3e21397-6481-4ef3-9d88-149f0024d2a0",
+    "first_name": "Nikolaos",
+    "last_name": "Spachis",
+    "job_title": "Assistant Executive Director Hospitality",
+    "company_name": "Hamad Medical Corporation",
+    "country": "Qatar",
+    "objectID": "a3e21397-6481-4ef3-9d88-149f0024d2a0"
+  },
+  {
+    "id": "9b0301d2-b662-4fa2-b0cc-49bf6edf0a78",
+    "first_name": "Hanane",
+    "last_name": "Hanzi",
+    "job_title": "Senior Entrepreneurship Development Officer",
+    "company_name": "Qatar Development Bank",
+    "country": "Qatar",
+    "objectID": "9b0301d2-b662-4fa2-b0cc-49bf6edf0a78"
+  },
+  {
+    "linkedinAccount": "https://in.linkedin.com/in/sreedhar-kuruba-974ab955",
+    "id": "985b4eeb-d90b-4efb-ac20-07b7d40a950a",
+    "first_name": "Kuruba",
+    "last_name": "Sreedhar",
+    "job_title": "Oracle EBS applications Manager",
+    "company_name": "Computer Arabia",
+    "country": "Qatar",
+    "objectID": "985b4eeb-d90b-4efb-ac20-07b7d40a950a"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/genevieve-turmel-874967186",
+    "id": "97bd23b6-347c-43e4-ba62-8b7525946fd5",
+    "first_name": "Genevieve   ",
+    "last_name": "Turmel",
+    "job_title": "Assistant Executive Director Data Governance",
+    "company_name": "Hamad Medical Corporation",
+    "country": "Qatar",
+    "objectID": "97bd23b6-347c-43e4-ba62-8b7525946fd5"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/samimasoud",
+    "id": "96e6b573-2a66-4b3e-a503-28ff6ed2b74f",
+    "first_name": "Sami",
+    "last_name": "Masoud",
+    "job_title": "Solutions Engineer",
+    "company_name": "Trend Micro",
+    "country": "Qatar",
+    "objectID": "96e6b573-2a66-4b3e-a503-28ff6ed2b74f"
+  },
+  {
+    "linkedinAccount": "https://lb.linkedin.com/in/lama-koujan-9460835",
+    "id": "96923a60-2d60-47ec-a2b4-121f6578a00c",
+    "first_name": "Lama",
+    "last_name": "Koujan",
+    "job_title": "Legal Expert",
+    "company_name": "974 Media wll",
+    "country": "Qatar",
+    "objectID": "96923a60-2d60-47ec-a2b4-121f6578a00c"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/saad-anjum-aa4a3933",
+    "id": "94984418-30f0-4057-854a-1e68945412b1",
+    "first_name": "Saad",
+    "last_name": "Anjum",
+    "job_title": "Planning Executive",
+    "company_name": "Omnicom media Group",
+    "country": "Qatar",
+    "objectID": "94984418-30f0-4057-854a-1e68945412b1"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/marwa-khelifi-b2698b110",
+    "id": "94055181-f85f-4896-8b61-507c0c8e68d3",
+    "first_name": "Marwa ",
+    "last_name": "Khelifi",
+    "job_title": "Sound Engineer",
+    "company_name": "BeIN Media Group",
+    "country": "Qatar",
+    "objectID": "94055181-f85f-4896-8b61-507c0c8e68d3"
+  },
+  {
+    "linkedinAccount": "https://pt.linkedin.com/in/guilherme-j-santos",
+    "id": "929c55b0-31f7-4d9b-b1aa-0381c40355bf",
+    "first_name": "Guilherme",
+    "last_name": "Santos",
+    "job_title": "Software Engineer",
+    "company_name": "Web Summit",
+    "country": "Portugal",
+    "objectID": "929c55b0-31f7-4d9b-b1aa-0381c40355bf"
+  },
+  {
+    "linkedinAccount": "https://pt.linkedin.com/in/ricardo-rocha-814469157",
+    "id": "90572b53-84fd-4ddb-9f96-1bcebf298641",
+    "first_name": "Ricardo",
+    "last_name": "Rocha",
+    "job_title": "Software Eng3",
+    "company_name": "Web Summit",
+    "country": "Portugal",
+    "objectID": "90572b53-84fd-4ddb-9f96-1bcebf298641"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/tabarak-al-lami",
+    "id": "8f808632-3915-4b7d-ba04-3cc918610c54",
+    "first_name": "Tabarak",
+    "last_name": "Ali Al-Lami",
+    "job_title": "Reservoir Engineer",
+    "company_name": "SLB ",
+    "country": "Qatar",
+    "objectID": "8f808632-3915-4b7d-ba04-3cc918610c54"
+  },
+  {
+    "id": "8e97ed16-c27b-46b6-9d86-ef5878a6ee17",
+    "first_name": "Rishi khanna",
+    "last_name": "Khanna",
+    "job_title": "Real estate",
+    "company_name": "Raf",
+    "country": "Qatar",
+    "objectID": "8e97ed16-c27b-46b6-9d86-ef5878a6ee17"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/khadija-mojadam-9349271a2",
+    "id": "8e531e65-2530-4789-9d31-2be1d0024991",
+    "first_name": "Khadija",
+    "last_name": "Mojadam",
+    "job_title": "Computer Engineer",
+    "company_name": "Ministry of Foreign Affairs - State of Qatar",
+    "country": "Qatar",
+    "objectID": "8e531e65-2530-4789-9d31-2be1d0024991"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/nooralasadi/ar",
+    "id": "8c797928-cfe3-4ad1-abe5-cb113a96d268",
+    "first_name": "Noor",
+    "last_name": "Alasadi",
+    "job_title": "Chief Executive Officer",
+    "company_name": "Lisan",
+    "country": "United Arab Emirates",
+    "objectID": "8c797928-cfe3-4ad1-abe5-cb113a96d268"
+  },
+  {
+    "id": "8be26287-53d3-4444-ade2-cb0721a0dc8b",
+    "first_name": "Indranil",
+    "last_name": "Ghosh",
+    "job_title": "Middle East and Africa Editor",
+    "company_name": "Rest of World",
+    "country": "United Arab Emirates",
+    "objectID": "8be26287-53d3-4444-ade2-cb0721a0dc8b"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/prashanth-ravi-kumar-9b494b1a0",
+    "id": "8bc6da5d-b14b-447c-a27c-d0296c7c342f",
+    "first_name": "Prashanth",
+    "last_name": "Ravikumar",
+    "job_title": "Middle East Partner ",
+    "company_name": "siAi",
+    "country": "United States",
+    "objectID": "8bc6da5d-b14b-447c-a27c-d0296c7c342f"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/selinsenyildiz",
+    "id": "88c37e21-067a-4d39-afe7-9937a73fd8cd",
+    "first_name": "Selin",
+    "last_name": "ŞEN YILDIZ",
+    "job_title": "Startup Ecosystem Accelerator ",
+    "company_name": "West Mediterranean Development Agency of Turkey",
+    "country": "Türkiye",
+    "objectID": "88c37e21-067a-4d39-afe7-9937a73fd8cd"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mahmood-al-mahmood-16854a84",
+    "id": "87ff28f7-5e08-4128-82c1-87e27abbea4d",
+    "first_name": "Mai",
+    "last_name": "Mahmoud Al-Hindi",
+    "job_title": "Senior Export Promotion Officer",
+    "company_name": "Qatar Development Bank",
+    "country": "Qatar",
+    "objectID": "87ff28f7-5e08-4128-82c1-87e27abbea4d"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/ron-pineda-730120b3",
+    "id": "87ac8a25-5b7b-4f9e-97a4-d96e505138f1",
+    "first_name": "Ron",
+    "last_name": "Pineda",
+    "job_title": "National Events Support",
+    "company_name": "iHeartMedia",
+    "country": "United States",
+    "objectID": "87ac8a25-5b7b-4f9e-97a4-d96e505138f1"
+  },
+  {
+    "linkedinAccount": "https://ie.linkedin.com/in/kimgleeson",
+    "id": "85235cd2-c093-4b2b-ae9c-bded775319e2",
+    "first_name": "Kim",
+    "last_name": "Gleeson",
+    "job_title": "Key Events",
+    "company_name": "Web Summit",
+    "country": "Ireland",
+    "objectID": "85235cd2-c093-4b2b-ae9c-bded775319e2"
+  },
+  {
+    "linkedinAccount": "https://ng.linkedin.com/in/ritchiengaro",
+    "id": "84260fb9-0db4-4fc0-a6c2-2242fe43a2db",
+    "first_name": "Ritchie",
+    "last_name": "Ngaro",
+    "job_title": "Chief Executive Officer",
+    "company_name": "GETLY TECHNOLOGIES",
+    "country": "Qatar",
+    "objectID": "84260fb9-0db4-4fc0-a6c2-2242fe43a2db"
+  },
+  {
+    "linkedinAccount": "https://be.linkedin.com/in/ramona-manescu",
+    "id": "8390f31f-8c7b-48a8-afb1-0649f88f5c0d",
+    "first_name": "Ramona-Nicole",
+    "last_name": "Manescu",
+    "job_title": "Inception Elite Group Founder",
+    "company_name": "Inception Elite LLC",
+    "country": "Qatar",
+    "objectID": "8390f31f-8c7b-48a8-afb1-0649f88f5c0d"
+  },
+  {
+    "linkedinAccount": "https://in.linkedin.com/in/mohd-arslan-258380216",
+    "id": "8386d42a-e888-49ae-85b7-47caeb7cc27c",
+    "first_name": "Mohd",
+    "last_name": "Arslan",
+    "job_title": "Software Engineer",
+    "company_name": "Emigro Consulting IT",
+    "country": "Qatar",
+    "objectID": "8386d42a-e888-49ae-85b7-47caeb7cc27c"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mansooralkhater",
+    "id": "823df4e1-77c0-44e9-a9e3-cb59182f7040",
+    "first_name": "Mansoor Rashid",
+    "last_name": "Al-Khater",
+    "job_title": "Chief Executive Officer",
+    "company_name": "Qatar Financial Center",
+    "country": "Qatar",
+    "objectID": "823df4e1-77c0-44e9-a9e3-cb59182f7040"
+  },
+  {
+    "linkedinAccount": "https://ng.linkedin.com/in/kanyinulia-okeke",
+    "id": "80a1c1ca-1973-4452-91f5-ed048a71c1c7",
+    "first_name": "Okeke",
+    "last_name": "Kanyinulia",
+    "job_title": "Founder / Editor-in-Chief ",
+    "company_name": "Kanyi Media",
+    "country": "Nigeria",
+    "objectID": "80a1c1ca-1973-4452-91f5-ed048a71c1c7"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/omarshamiyeh",
+    "id": "800776e6-b3c4-446c-bcde-586023a553c3",
+    "first_name": "Omar",
+    "last_name": "Shamiyeh",
+    "job_title": "Chief Executive Officer",
+    "company_name": "Cosette",
+    "country": "Qatar",
+    "objectID": "800776e6-b3c4-446c-bcde-586023a553c3"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/msaifkhalid",
+    "id": "7e58af80-0c64-4c98-a123-7c4ec1e0ea25",
+    "first_name": "Saif",
+    "last_name": "Khalid",
+    "job_title": "News editor",
+    "company_name": "Al Jazeera Media Network",
+    "country": "India",
+    "objectID": "7e58af80-0c64-4c98-a123-7c4ec1e0ea25"
+  },
+  {
+    "linkedinAccount": "https://dz.linkedin.com/in/yamanidev",
+    "id": "7c4c5347-66ec-4f55-bd26-86ee2d1b04d3",
+    "first_name": "Mohamed",
+    "last_name": "Yamani",
+    "job_title": "Software Engineer",
+    "company_name": "Charik",
+    "country": "Algeria",
+    "objectID": "7c4c5347-66ec-4f55-bd26-86ee2d1b04d3"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/mohamed-moussous",
+    "id": "7bf18a4b-dbae-4c80-936b-4b33e15b3e97",
+    "first_name": "Mohamed",
+    "last_name": "Moussous",
+    "job_title": "Chief Executive Officer",
+    "company_name": "KAKOO SOFTWARE",
+    "country": "United Arab Emirates",
+    "objectID": "7bf18a4b-dbae-4c80-936b-4b33e15b3e97"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/alsubaiemohammad",
+    "id": "7a80fd49-6c8c-41dd-b566-18487bd5d54f",
+    "first_name": "Mohammad Abdulaziz ",
+    "last_name": "Al-Subaie",
+    "job_title": "Chief Executive Officer",
+    "company_name": "beIN MENA WLL",
+    "country": "Qatar",
+    "objectID": "7a80fd49-6c8c-41dd-b566-18487bd5d54f"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/orhan-yousef-51000330b",
+    "id": "7a561552-c168-4ce3-8893-eb2f44131bc5",
+    "first_name": "Orhan",
+    "last_name": "Yousef",
+    "job_title": "Marketing executive ",
+    "company_name": "Aionix",
+    "country": "United Kingdom",
+    "objectID": "7a561552-c168-4ce3-8893-eb2f44131bc5"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/pascalkuemper",
+    "id": "73049bfd-dacd-40d6-a58a-4bb7734cab2d",
+    "first_name": "Pascal",
+    "last_name": "Kuemper",
+    "job_title": "Chief Executive Officer",
+    "company_name": "Bizzlogic GmbH",
+    "country": "Germany",
+    "objectID": "73049bfd-dacd-40d6-a58a-4bb7734cab2d"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/rachaelglasser",
+    "id": "709453d7-8004-4f15-8603-d0c647a5b34b",
+    "first_name": "Rachael",
+    "last_name": "Glasser",
+    "job_title": "National Event Coordinator",
+    "company_name": "iHeartMedia",
+    "country": "United States",
+    "objectID": "709453d7-8004-4f15-8603-d0c647a5b34b"
+  },
+  {
+    "id": "6ff2a71a-8a87-48bc-8daf-e43028958933",
+    "first_name": "Mohammed",
+    "last_name": "Tahoun",
+    "job_title": "Software engineer & CSM",
+    "company_name": "Wady AI",
+    "country": "Qatar",
+    "objectID": "6ff2a71a-8a87-48bc-8daf-e43028958933"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/tim-hotfilter-37b585113",
+    "id": "6c36d033-e657-458d-a520-888d9b61a334",
+    "first_name": "Tim",
+    "last_name": "Hotfilter",
+    "job_title": "Processor Engineer",
+    "company_name": "Ubitium",
+    "country": "Germany",
+    "objectID": "6c36d033-e657-458d-a520-888d9b61a334"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/imed-trabelsi-4199b03",
+    "id": "6afa1ffd-336d-41c9-a94d-bb126846eee8",
+    "first_name": "Imed",
+    "last_name": "Trabelsi",
+    "job_title": "Customer Engineer",
+    "company_name": "Google Cloud",
+    "country": "Qatar",
+    "objectID": "6afa1ffd-336d-41c9-a94d-bb126846eee8"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/mahmoud-nofal",
+    "id": "69345edf-f967-4f69-b078-5f0fc80fab56",
+    "first_name": "Mahmoud",
+    "last_name": "Nofal",
+    "job_title": "Solutions Engineer",
+    "company_name": "Cisco",
+    "country": "Qatar",
+    "objectID": "69345edf-f967-4f69-b078-5f0fc80fab56"
+  },
+  {
+    "id": "684fa1aa-78ed-4316-aeac-bd2df211ac86",
+    "first_name": "Yousef",
+    "last_name": "AlYousefi",
+    "job_title": "Chief Executive Officer and Managing Partner",
+    "company_name": "Rasmal Ventures",
+    "country": "Qatar",
+    "objectID": "684fa1aa-78ed-4316-aeac-bd2df211ac86"
+  },
+  {
+    "id": "677ddcad-0a0e-40d0-93e2-a7bc2c7103f4",
+    "first_name": "Fathima",
+    "last_name": "Azmi",
+    "job_title": "Scientist/entrepreneur",
+    "company_name": "NA",
+    "country": "United States",
+    "objectID": "677ddcad-0a0e-40d0-93e2-a7bc2c7103f4"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/mate-polgari",
+    "id": "666788da-467e-4366-90ea-d586c6c31d7c",
+    "first_name": "Mate",
+    "last_name": "Polgari",
+    "job_title": "Software Engineer",
+    "company_name": "Flip CX",
+    "country": "United Kingdom",
+    "objectID": "666788da-467e-4366-90ea-d586c6c31d7c"
+  },
+  {
+    "id": "fe39375b-cfde-46ed-90d9-0650aabfe934",
+    "first_name": "Faize",
+    "last_name": "Akchaba",
+    "job_title": "Managing Partner",
+    "company_name": "Foppex",
+    "country": "Qatar",
+    "objectID": "fe39375b-cfde-46ed-90d9-0650aabfe934"
+  },
+  {
+    "id": "f897cda0-2fe4-4c14-a2f5-bf00d751ae6c",
+    "first_name": "Fatma Mohd",
+    "last_name": "Al-khinji",
+    "job_title": "head of continues improvement unit ",
+    "company_name": "Qatar Olympic Committee",
+    "country": "Qatar",
+    "objectID": "f897cda0-2fe4-4c14-a2f5-bf00d751ae6c"
+  },
+  {
+    "linkedinAccount": "https://ke.linkedin.com/in/fumbwe-hamisi-03aa81214",
+    "id": "f6878cff-35e6-4b50-9109-40ed3f360d6b",
+    "first_name": "Fumbwe",
+    "last_name": "Hamisi",
+    "job_title": "Operations Manager",
+    "company_name": "NillTech Solutions Ltd",
+    "country": "Kenya",
+    "objectID": "f6878cff-35e6-4b50-9109-40ed3f360d6b"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/francescogrigoli",
+    "id": "f6498d1f-12ff-40ad-9ab9-beaa27e3a1f8",
+    "first_name": "Francesco",
+    "last_name": "Grigoli",
+    "job_title": "Associate Professor",
+    "company_name": "Georgetwon University",
+    "country": "Qatar",
+    "objectID": "f6498d1f-12ff-40ad-9ab9-beaa27e3a1f8"
+  },
+  {
+    "linkedinAccount": "https://ke.linkedin.com/in/kithinzi",
+    "id": "f3d6d01d-392f-4e30-a0e2-b7a9666d8cb9",
+    "first_name": "Fred",
+    "last_name": "Kithinzi",
+    "job_title": "Founder",
+    "company_name": "AXIS",
+    "country": "Kenya",
+    "objectID": "f3d6d01d-392f-4e30-a0e2-b7a9666d8cb9"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/faiha-alqahtani-344408376",
+    "id": "f3d65dd5-4980-4d5a-a5f5-03f85b47a8d4",
+    "first_name": "Faiha",
+    "last_name": "Al-Qahtani",
+    "job_title": "Innovation Funding Manager",
+    "company_name": "HBKU",
+    "country": "Qatar",
+    "objectID": "f3d65dd5-4980-4d5a-a5f5-03f85b47a8d4"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/fahd-sheikh",
+    "id": "f17cb8ba-9a85-4872-bd8b-b064b3a65c7b",
+    "first_name": "Fahd Arif",
+    "last_name": "Sheikh",
+    "job_title": "Product Lead",
+    "company_name": "Grona.ai",
+    "country": "Pakistan",
+    "objectID": "f17cb8ba-9a85-4872-bd8b-b064b3a65c7b"
+  },
+  {
+    "linkedinAccount": "https://pt.linkedin.com/in/fmcbf",
+    "id": "f17807d9-4a2b-48f8-9643-7cea34cd9fef",
+    "first_name": "Fernando",
+    "last_name": "Fraga",
+    "job_title": "Investor,",
+    "company_name": "Angelsway , Second Wings, Fx2 Group",
+    "country": "Portugal",
+    "objectID": "f17807d9-4a2b-48f8-9643-7cea34cd9fef"
+  },
+  {
+    "id": "f1365ab0-35f2-401b-8742-1e24ca166bb3",
+    "first_name": "Fatma",
+    "last_name": "Oezdemir-Zaech",
+    "job_title": "Founder&CEO",
+    "company_name": "bayartis GmbH",
+    "country": "Switzerland",
+    "objectID": "f1365ab0-35f2-401b-8742-1e24ca166bb3"
+  },
+  {
+    "id": "ef590904-3dde-4538-80e5-1ff67beb1d32",
+    "first_name": "Fatima",
+    "last_name": "Al Kharaz",
+    "job_title": "Head of Marketing",
+    "company_name": "Aspire",
+    "country": "Qatar",
+    "objectID": "ef590904-3dde-4538-80e5-1ff67beb1d32"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/fahed-qasim",
+    "id": "eec3680a-dbde-4d73-b5be-420c077298c8",
+    "first_name": "Fahed",
+    "last_name": "Qasim",
+    "job_title": "AI Success Manger ",
+    "company_name": "CEREBRUM ",
+    "country": "Qatar",
+    "objectID": "eec3680a-dbde-4d73-b5be-420c077298c8"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/faissalalhaithami",
+    "id": "eb00f454-4fbc-4063-a637-62141069883c",
+    "first_name": "Faissal",
+    "last_name": "Alhaithami",
+    "job_title": "Founder & Managing Partner",
+    "company_name": "Adori Cakes App",
+    "country": "Qatar",
+    "objectID": "eb00f454-4fbc-4063-a637-62141069883c"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/faith-ogundare",
+    "id": "e9bdca8d-5381-4ef2-96b4-6a58be610d18",
+    "first_name": "Faith",
+    "last_name": "Ogundare",
+    "job_title": "AI researcher",
+    "company_name": "Solat.io",
+    "country": "United Kingdom",
+    "objectID": "e9bdca8d-5381-4ef2-96b4-6a58be610d18"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/farazkhanlive",
+    "id": "e8d37cc2-d47c-4cdf-bf5b-877f50f62840",
+    "first_name": "Faraz",
+    "last_name": "Khan",
+    "job_title": "Founder & CEO",
+    "company_name": "souKare",
+    "country": "United Arab Emirates",
+    "objectID": "e8d37cc2-d47c-4cdf-bf5b-877f50f62840"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/folakeokusanya",
+    "id": "e7f56e7e-1d60-43de-98f3-08eb2cf07f8f",
+    "first_name": "Folake",
+    "last_name": "Okusanya",
+    "job_title": "Senior Project Manager",
+    "company_name": "Delivery Hero SE",
+    "country": "Germany",
+    "objectID": "e7f56e7e-1d60-43de-98f3-08eb2cf07f8f"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/faisalmughal1981",
+    "id": "e794cdfe-cad1-456a-9616-b4091ec854a6",
+    "first_name": "Faisal",
+    "last_name": "Mughal",
+    "job_title": "Founder/CEO",
+    "company_name": "InfoVibes Ltd",
+    "country": "United Kingdom",
+    "objectID": "e794cdfe-cad1-456a-9616-b4091ec854a6"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/fahmida-naheen",
+    "id": "e4313c4f-ed9c-46e4-9d42-a7360c315182",
+    "first_name": "Fahmida",
+    "last_name": "Naheen",
+    "job_title": "Research Assistant",
+    "company_name": "Qatar University",
+    "country": "Qatar",
+    "objectID": "e4313c4f-ed9c-46e4-9d42-a7360c315182"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/farha-al-kuwari-58490434",
+    "id": "e41dbf86-4fe5-4aef-9b29-f1cc38321fc4",
+    "first_name": "Farha",
+    "last_name": "Al-Kuwari",
+    "job_title": "Technical Support Head Section",
+    "company_name": "Qatar Olympic Committee ",
+    "country": "Qatar",
+    "objectID": "e41dbf86-4fe5-4aef-9b29-f1cc38321fc4"
+  },
+  {
+    "id": "e3418193-1990-4582-ac52-8f40dcdbfd19",
+    "first_name": "fahad",
+    "last_name": "hamami",
+    "job_title": "Founder and CEO  ",
+    "company_name": "Airest",
+    "country": "Qatar",
+    "objectID": "e3418193-1990-4582-ac52-8f40dcdbfd19"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/fuadpv",
+    "id": "e1c72f52-6d08-47db-b118-d4d22101848d",
+    "first_name": "Fuad",
+    "last_name": "Ibrahim",
+    "job_title": "Senior Accountant",
+    "company_name": "TrustLink Services",
+    "country": "Qatar",
+    "objectID": "e1c72f52-6d08-47db-b118-d4d22101848d"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/fionaquan88",
+    "id": "df28c4c8-0b43-4319-8013-2f42d03c374f",
+    "first_name": "Fiona",
+    "last_name": "Quan",
+    "job_title": "Investment Development ",
+    "company_name": "Qatar Free Zones Authority ",
+    "country": "Qatar",
+    "objectID": "df28c4c8-0b43-4319-8013-2f42d03c374f"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/fatima-al-kuwari",
+    "id": "ddaa9705-3078-48c1-adf5-f6491e027696",
+    "first_name": "Fatima",
+    "last_name": "Al-Kuwari",
+    "job_title": "Angel Investor",
+    "company_name": "Fatima Al-Kuwari",
+    "country": "Qatar",
+    "objectID": "ddaa9705-3078-48c1-adf5-f6491e027696"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/faisal-al-janahi-a9696788",
+    "id": "db646f1b-3bbc-4a7e-a2a3-4dc76edcdc73",
+    "first_name": "Faisal",
+    "last_name": "Al-Janahi",
+    "job_title": "Partnerships Manager",
+    "company_name": "Hamad Bin Khalifa University ",
+    "country": "Qatar",
+    "objectID": "db646f1b-3bbc-4a7e-a2a3-4dc76edcdc73"
+  },
+  {
+    "id": "d880ae4c-f505-498b-960d-1394bac63baf",
+    "first_name": "Fatih",
+    "last_name": "Aydemir",
+    "job_title": "Founder",
+    "company_name": "Opes Borsa Technologies",
+    "country": "Türkiye",
+    "objectID": "d880ae4c-f505-498b-960d-1394bac63baf"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/fadikhalek",
+    "id": "d80af7b7-ed36-4070-a106-a243615ba821",
+    "first_name": "Fadi",
+    "last_name": "Abdulkhalik",
+    "job_title": "Partner",
+    "company_name": "Xeevolve",
+    "country": "United Arab Emirates",
+    "objectID": "d80af7b7-ed36-4070-a106-a243615ba821"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/nadiahabibfarhana#:~:text=I am currently working as the PR Communications,specialist women's and children's hospital in Doha, Qatar.",
+    "id": "cf68bbe5-c3fc-4630-a9d4-2b0f5e7208f6",
+    "first_name": "Farhana",
+    "last_name": "Habib",
+    "job_title": "PR Head ",
+    "company_name": "Sidra Medicine ",
+    "country": "Qatar",
+    "objectID": "cf68bbe5-c3fc-4630-a9d4-2b0f5e7208f6"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/fahadsiddiqui",
+    "id": "ce3e625a-f77e-4729-a4e3-03d6c7280304",
+    "first_name": "Fahad ",
+    "last_name": "Siddiqui",
+    "job_title": "Senior Network Security Engineer",
+    "company_name": "Ministry of Commerce and Industry",
+    "country": "Qatar",
+    "objectID": "ce3e625a-f77e-4729-a4e3-03d6c7280304"
+  },
+  {
+    "id": "cc2f46f2-2a0b-4b73-876b-b023a9264e33",
+    "first_name": "Favour",
+    "last_name": "Onyeloni ",
+    "job_title": "Content and marketing Manager ",
+    "company_name": "Cloudintegrated ltd ",
+    "country": "Nigeria",
+    "objectID": "cc2f46f2-2a0b-4b73-876b-b023a9264e33"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/fedi-naimi-035753198",
+    "id": "cb7f85e4-59d0-4cc7-8aec-bf5940f81338",
+    "first_name": "Fedi",
+    "last_name": "Naimi",
+    "job_title": "cto",
+    "company_name": "prospecter",
+    "country": "United States",
+    "objectID": "cb7f85e4-59d0-4cc7-8aec-bf5940f81338"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/fatima-fakhroo-67732b204",
+    "id": "c8a95190-9272-4292-9140-4521c21898ea",
+    "first_name": "Fatima",
+    "last_name": "Fakhroo",
+    "job_title": "Senior Associate - SME Banking",
+    "company_name": "Qatar National Bank",
+    "country": "Qatar",
+    "objectID": "c8a95190-9272-4292-9140-4521c21898ea"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/falhammadi",
+    "id": "c87bcd8b-5406-468c-9373-0a6a93d38d1a",
+    "first_name": "Faisal",
+    "last_name": "Hammadi",
+    "job_title": "Managing Partner",
+    "company_name": "Further Ventures",
+    "country": "United Arab Emirates",
+    "objectID": "c87bcd8b-5406-468c-9373-0a6a93d38d1a"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/franziskalang",
+    "id": "c7fbc33e-1905-4ffd-8e0b-87776890520b",
+    "first_name": "Francis",
+    "last_name": "Lang",
+    "job_title": "Co-Founder & CMO @Cynrise",
+    "company_name": "Cynrise GbR",
+    "country": "Germany",
+    "objectID": "c7fbc33e-1905-4ffd-8e0b-87776890520b"
+  },
+  {
+    "linkedinAccount": "https://jo.linkedin.com/in/faisal-hakki",
+    "id": "c7a9f4ed-ce75-4fe8-a042-6eab1a473fa8",
+    "first_name": "Faisal",
+    "last_name": "Hakki",
+    "job_title": "Managing Director",
+    "company_name": "Arab Bank",
+    "country": "Jordan",
+    "objectID": "c7a9f4ed-ce75-4fe8-a042-6eab1a473fa8"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/faten-hamdi-b6220a279",
+    "id": "c55d1636-31a6-4b6c-be02-654aecd05935",
+    "first_name": "faten",
+    "last_name": "hamdi",
+    "job_title": "Accounts Manager ",
+    "company_name": "Weatherford",
+    "country": "Tunisia",
+    "objectID": "c55d1636-31a6-4b6c-be02-654aecd05935"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/fadyissawi",
+    "id": "c53f2069-feb9-43f2-8627-98cc7630adab",
+    "first_name": "Fady",
+    "last_name": "Issawi",
+    "job_title": "Founder",
+    "company_name": "GLOBIST Venture Studio",
+    "country": "Türkiye",
+    "objectID": "c53f2069-feb9-43f2-8627-98cc7630adab"
+  },
+  {
+    "linkedinAccount": "https://sa.linkedin.com/in/feras-alhussain",
+    "id": "c1fd0891-95ac-4ab9-bea5-b69d21d139a1",
+    "first_name": "Feras",
+    "last_name": "Alhusni",
+    "job_title": "General manager ",
+    "company_name": "Stc cont.",
+    "country": "Qatar",
+    "objectID": "c1fd0891-95ac-4ab9-bea5-b69d21d139a1"
+  },
+  {
+    "linkedinAccount": "https://eg.linkedin.com/in/faresabutaleb#:~:text=Senior Graphic Designer and Art Director with over,in brand identity, presentation design, and visual marketing.",
+    "id": "c0c0d5bd-9a56-42c2-8fd9-5cfb866c435e",
+    "first_name": "Fares",
+    "last_name": "Abu-Taleb",
+    "job_title": "Finance",
+    "company_name": "Renacore",
+    "country": "Switzerland",
+    "objectID": "c0c0d5bd-9a56-42c2-8fd9-5cfb866c435e"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/fadi-alsamman-87724526",
+    "id": "bfeda9ca-3b12-4023-9a43-00010f742f16",
+    "first_name": "Fadi",
+    "last_name": "Alsamman",
+    "job_title": "Software Developer",
+    "company_name": "beIN Sports",
+    "country": "Qatar",
+    "objectID": "bfeda9ca-3b12-4023-9a43-00010f742f16"
+  },
+  {
+    "linkedinAccount": "https://bh.linkedin.com/in/faisal-al-jalahma-cfa-9a040974",
+    "id": "bfdebde9-5059-4dd4-876d-cb3ee255afc6",
+    "first_name": "Faisal",
+    "last_name": "Aljalahma",
+    "job_title": "CEO",
+    "company_name": "Tanami",
+    "country": "Bahrain",
+    "objectID": "bfdebde9-5059-4dd4-876d-cb3ee255afc6"
+  },
+  {
+    "linkedinAccount": "https://pt.linkedin.com/in/fredericobmendonca/en",
+    "id": "bcb93b04-6242-4642-8f64-53e089cefc07",
+    "first_name": "Frederico",
+    "last_name": "Mendonça",
+    "job_title": "Community Support",
+    "company_name": "Web Summit",
+    "country": "Portugal",
+    "objectID": "bcb93b04-6242-4642-8f64-53e089cefc07"
+  },
+  {
+    "id": "bc8b67ec-73fd-4f51-8b64-a4eb1488df3a",
+    "first_name": "Fahad",
+    "last_name": "Al Sharekh",
+    "job_title": "Managing Partner",
+    "company_name": "Tech Invest",
+    "country": "Kuwait",
+    "objectID": "bc8b67ec-73fd-4f51-8b64-a4eb1488df3a"
+  },
+  {
+    "linkedinAccount": "https://qa.linkedin.com/in/fahmi-alghussein-51413918a",
+    "id": "bc4e5fee-bdd0-4e04-8c67-a94bd52c47b9",
+    "first_name": "Fahmi",
+    "last_name": "Alghussein",
+    "job_title": "CEO",
+    "company_name": "974 Partners",
+    "country": "Qatar",
+    "objectID": "bc4e5fee-bdd0-4e04-8c67-a94bd52c47b9"
+  },
+  {
+    "id": "b5716753-5b10-482d-a866-40ff38f23d68",
+    "first_name": "Ferlita",
+    "last_name": "Pabalan",
+    "job_title": "Volunteer",
+    "company_name": "Embassy of the Philippines",
+    "country": "Qatar",
+    "objectID": "b5716753-5b10-482d-a866-40ff38f23d68"
+  },
+  {
+    "linkedinAccount": "https://ca.linkedin.com/in/fatma-abbas-66b2b9235",
+    "id": "b4b38070-e0f6-437a-b451-84c8b7882f74",
+    "first_name": "Fatma",
+    "last_name": "Abbas",
+    "job_title": "Intern",
+    "company_name": "University of Doha",
+    "country": "Qatar",
+    "objectID": "b4b38070-e0f6-437a-b451-84c8b7882f74"
+  },
+  {
+    "linkedinAccount": "https://ch.linkedin.com/in/fabio-sofia-6572408",
+    "id": "b49d338a-90ce-4a5e-8ba6-4fb4c368f937",
+    "first_name": "Fabio",
+    "last_name": "Sofia",
+    "job_title": "Investor",
+    "company_name": "Zebra Impact Ventures",
+    "country": "Switzerland",
+    "objectID": "b49d338a-90ce-4a5e-8ba6-4fb4c368f937"
   }
 ]
