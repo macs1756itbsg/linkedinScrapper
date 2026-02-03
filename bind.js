@@ -10,7 +10,7 @@ const readUsers = () => {
 
 function getRandomNumber() {
   const min = 10_000;
-  const max = 60_000;
+  const max = 40_000;
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
