@@ -47,9 +47,9 @@ const addNewUserWithLinkedin = (newUsers) => {
 
 const core = async (user, dir) => {
 
-  const bingQuery = encodeURIComponent(`${user.first_name} ${user.last_name} ${user.company_name}`);
+  const bingQuery = encodeURIComponent(`${user.firstName} ${user.lastName} ${user.companyName}`);
 
-  const url = `https://www.bing.com/search?q=${bingQuery}&form=QBLH&sp=-1&ghc=1&lq=0&pq=${user.first_name}+${user.last_name}+${user.company_name}&sc=6-27&qs=n&sk=&cvid=F94470FC8398407C8E4DD512197FE616`;
+  const url = `https://www.bing.com/search?q=${bingQuery}&form=QBLH&sp=-1&ghc=1&lq=0&pq=${user.firstName}+${user.lastName}+${user.companyName}&sc=6-27&qs=n&sk=&cvid=F94470FC8398407C8E4DD512197FE616`;
 
   const browser = await puppeteer.launch({
     headless: "new",
