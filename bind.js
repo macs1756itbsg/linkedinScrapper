@@ -1,7 +1,5 @@
 import fs from "fs"
 import puppeteer from "puppeteer";
-import crypto from "crypto";
-//import { solve } from "recaptcha-solver";
 
 
 const readUsers = () => {
@@ -10,7 +8,7 @@ const readUsers = () => {
 
 function getRandomNumber() {
   const min = 10_000;
-  const max = 40_000;
+  const max = 30_000;
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
@@ -54,7 +52,7 @@ const core = async (user, dir) => {
   const browser = await puppeteer.launch({
     headless: "new",
     userDataDir: "/Users/user/Library/Application Support/Google/Chrome/Default",
-    executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome", 
+    executablePath: "/Applications/Google Chrome.app/Contents/MacOS/Google Chrome",
     args: [
       "--no-sandbox",
       "--disable-setuid-sandbox",
@@ -72,7 +70,6 @@ const core = async (user, dir) => {
   const page = await browser.newPage();
 
 
-  // 🧠 Firefox-like User-Agent (важливо!)
   await page.setUserAgent(
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:146.0) Gecko/20100101 Firefox/146.0"
   );
@@ -82,8 +79,8 @@ const core = async (user, dir) => {
   await context.overridePermissions("https://www.bing.com", ["geolocation"]);
 
   await page.setGeolocation({
-    latitude: 49.8397,
-    longitude: 24.0297,
+    latitude: 49.8395,
+    longitude: 24.0295,
     accuracy: 20,
   });
 
@@ -175,6 +172,12 @@ const core = async (user, dir) => {
   //     .filter(href => href.includes("linkedin.com"));
   // });
 
+  // await new Promise((res) => {
+  //   setTimeout(() => {
+  //     res('')
+  //   })
+
+  // })
   await browser.close();
   // fs.rmSync(dir, { recursive: true, force: true });
 
