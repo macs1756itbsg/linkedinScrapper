@@ -1,1 +1,6227 @@
-[]
+[
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/robertermich",
+    "id": 281221,
+    "firstName": "Robert",
+    "lastName": "Ermich",
+    "position": "CEO",
+    "companyName": "OnTruck GmbH"
+  },
+  {
+    "id": 281219,
+    "firstName": "Maximilian",
+    "lastName": "Rebensburg",
+    "position": "Co-Founder",
+    "companyName": "Maison Ô GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/marc-ramelow-54573668",
+    "id": 281218,
+    "firstName": "Marc",
+    "lastName": "Ramelow",
+    "position": "CEO",
+    "companyName": "Gustav Ramelow GmbH & Co KG"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/yunying-cai-b26a2a19b",
+    "id": 281216,
+    "firstName": "Yunying",
+    "lastName": "CAI",
+    "position": "Account manager",
+    "companyName": "Allin Base B.V"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/maciej-wronski",
+    "id": 281214,
+    "firstName": "Maciek",
+    "lastName": "Wroński",
+    "position": "E-commerce and development director",
+    "companyName": "STYRNET.PL"
+  },
+  {
+    "id": 281213,
+    "firstName": "Damian",
+    "lastName": "Mangold",
+    "position": "OWNER",
+    "companyName": "STYRNET.PL"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/giovanni-tuccari-2b5289114",
+    "id": 281211,
+    "firstName": "Giovanni",
+    "lastName": "Tuccari",
+    "position": "CEO & Co-founder",
+    "companyName": "CleanOS"
+  },
+  {
+    "linkedinAccount": "https://be.linkedin.com/in/eoin-kehoe-7a7b952",
+    "id": 281206,
+    "firstName": "Eoin",
+    "lastName": "Kehoe",
+    "position": "Owner",
+    "companyName": "Unibuild "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/andre-weise-b2936628b",
+    "id": 281205,
+    "firstName": "Andre",
+    "lastName": "Weise",
+    "position": "Geschäftsführer",
+    "companyName": "Senobox GmbH"
+  },
+  {
+    "id": 281204,
+    "firstName": "Ingo",
+    "lastName": "Hecking",
+    "position": "Managing Director",
+    "companyName": "loud + proud GmbH"
+  },
+  {
+    "linkedinAccount": "https://lt.linkedin.com/in/tomas-lileikis-b490b155",
+    "id": 281203,
+    "firstName": "Tomas",
+    "lastName": "Lileikis",
+    "position": "Head of Business Development and Partnerships",
+    "companyName": "VENIPAK"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/bjoern-becker-15429335",
+    "id": 281202,
+    "firstName": "Bjoern",
+    "lastName": "Becker",
+    "position": "Monbeck GmbH & Co. KG",
+    "companyName": "Monbeck GmbH & Co. KG"
+  },
+  {
+    "id": 281201,
+    "firstName": "Oliver",
+    "lastName": "Hickfang",
+    "position": "Head of Marketing",
+    "companyName": "SINC "
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/madanir1",
+    "id": 281200,
+    "firstName": "rachid",
+    "lastName": "madani",
+    "position": "dirigeants ",
+    "companyName": "madani rachid"
+  },
+  {
+    "id": 281199,
+    "firstName": "Raymond",
+    "lastName": "Chan",
+    "position": "Co-Owner",
+    "companyName": "NOTICE BV"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/katrinasanchez",
+    "id": 281198,
+    "firstName": "Katrina",
+    "lastName": "Sanchez",
+    "position": "Principal Business Development",
+    "companyName": "Zalando SE"
+  },
+  {
+    "linkedinAccount": "https://at.linkedin.com/in/wolfgang-weingraber-889145135",
+    "id": 281197,
+    "firstName": "Wolfgang",
+    "lastName": "Weingraber",
+    "position": "CEO",
+    "companyName": "ByeAgain GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sonanazaryan",
+    "id": 281196,
+    "firstName": "Sona",
+    "lastName": "Nazaryan",
+    "position": "Large Enterprise Account Manager",
+    "companyName": "PayPal PLC, German Office"
+  },
+  {
+    "id": 281194,
+    "firstName": "Sandra",
+    "lastName": "Gubensek",
+    "position": "CEO",
+    "companyName": "U Studio s.p."
+  },
+  {
+    "linkedinAccount": "https://eg.linkedin.com/in/ibrahim-hussien-93a08ba5",
+    "id": 281189,
+    "firstName": "Hussein",
+    "lastName": "Ibrahim",
+    "position": "Head of Instant Payment Network",
+    "companyName": "Central Bank of Egypt"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/marten-lehmann",
+    "id": 281188,
+    "firstName": "Marten",
+    "lastName": "Lehmann",
+    "position": "CEO",
+    "companyName": "Variomedia AG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sergej-reznik",
+    "id": 281187,
+    "firstName": "Sergej",
+    "lastName": "Reznik",
+    "position": "CEO",
+    "companyName": "Project Joker GmbH"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/hakki-unal-3760b21a4",
+    "id": 281185,
+    "firstName": "Hakki",
+    "lastName": "Unal",
+    "position": "Directore",
+    "companyName": "Foufou"
+  },
+  {
+    "linkedinAccount": "https://ie.linkedin.com/in/akshaykumar176",
+    "id": 281182,
+    "firstName": "Akshay",
+    "lastName": "kumar",
+    "position": "E-commerce Marketing Manager",
+    "companyName": "Pamela scott"
+  },
+  {
+    "linkedinAccount": "https://sg.linkedin.com/in/prasanna-venkatesan-sampathkumar-98752416",
+    "id": 281181,
+    "firstName": "Prasanna Venkatesan",
+    "lastName": "Sampath ",
+    "position": "Founder",
+    "companyName": "Arkamart "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/samuel-houcken-b39475360",
+    "id": 281180,
+    "firstName": "Samuel",
+    "lastName": "Houcken",
+    "position": "E-Commerce Manager",
+    "companyName": "Ophardt Hygiene Technik GmbH"
+  },
+  {
+    "id": 281179,
+    "firstName": "Samya",
+    "lastName": "Boualam",
+    "position": "Founder",
+    "companyName": "Stonewellco LLC"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sudhir-lund-642112368",
+    "id": 281178,
+    "firstName": "Sudhir ",
+    "lastName": "Lund ",
+    "position": "CEO ",
+    "companyName": "Elara GmbH "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sandra-juettner",
+    "id": 281176,
+    "firstName": "Sandra",
+    "lastName": "Jüttner",
+    "position": "Project Manager",
+    "companyName": "SOWHAT! the Unite+ Agency "
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/sorchadegroen",
+    "id": 281175,
+    "firstName": "Sorcha",
+    "lastName": "de Groen",
+    "position": "E-commerce Specialist",
+    "companyName": "G&B Home and Living"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/robert-vossen",
+    "id": 281169,
+    "firstName": "Robert",
+    "lastName": "Vossen",
+    "position": "CEO & Co-Founder",
+    "companyName": "Signalist"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/muhammad-shariq-abbas-0226aa28/en",
+    "id": 281168,
+    "firstName": "Muhammad Shariq",
+    "lastName": "Abbas",
+    "position": "Retailer",
+    "companyName": "Abbas"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/muhammad-shariq-abbas-0226aa28/en",
+    "id": 281167,
+    "firstName": "Muhammad Shariq",
+    "lastName": "Abbas",
+    "position": "Retailer",
+    "companyName": "Abbas"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/junaidamjad047/ar",
+    "id": 281162,
+    "firstName": "Junaid ",
+    "lastName": "Amjad ",
+    "position": "Head of Business Development ",
+    "companyName": "KOMPAC IT SOLUTIONS LLC"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/damian-m-taylor-11741243",
+    "id": 281159,
+    "firstName": "Damian",
+    "lastName": "Taylor",
+    "position": "Founding Partner, Lead - Business Development",
+    "companyName": "Holon Law Partners"
+  },
+  {
+    "linkedinAccount": "https://lt.linkedin.com/in/efraincuello",
+    "id": 281157,
+    "firstName": "Efrain",
+    "lastName": "Cuello",
+    "position": "Owner",
+    "companyName": "Commercio Connect"
+  },
+  {
+    "linkedinAccount": "https://il.linkedin.com/in/omritishel",
+    "id": 281156,
+    "firstName": "Omri",
+    "lastName": "Tishel",
+    "position": "Chief Revenue Officer ",
+    "companyName": "Weft"
+  },
+  {
+    "id": 281155,
+    "firstName": "Rajan",
+    "lastName": "Thakur",
+    "position": "Ceo",
+    "companyName": "Vertical3dtech"
+  },
+  {
+    "id": 281154,
+    "firstName": "Lisa",
+    "lastName": "Müller ",
+    "position": "Founder ",
+    "companyName": "Shapeandstyle "
+  },
+  {
+    "linkedinAccount": "https://gh.linkedin.com/in/carl-jemariah-0b276439",
+    "id": 281152,
+    "firstName": "Carl",
+    "lastName": "Jemariah",
+    "position": "CEO",
+    "companyName": "Ocean Heights "
+  },
+  {
+    "linkedinAccount": "https://il.linkedin.com/in/zigdon",
+    "id": 281151,
+    "firstName": "Nir",
+    "lastName": "Zigdon",
+    "position": "Founder",
+    "companyName": "eCommunity "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sonja-bergmann-202b9830",
+    "id": 281149,
+    "firstName": "Sonja",
+    "lastName": "Bergmann",
+    "position": "Online Fundraising Managerin",
+    "companyName": "Oxfam Deutschland e.V."
+  },
+  {
+    "id": 281148,
+    "firstName": "Kinda",
+    "lastName": "Dalla",
+    "position": "Director, Corporate Development   ",
+    "companyName": "Vinted  "
+  },
+  {
+    "id": 281145,
+    "firstName": "Elisa",
+    "lastName": "Plattner",
+    "position": "Lead Digital Content Management",
+    "companyName": "IDM Südtirol"
+  },
+  {
+    "id": 281144,
+    "firstName": "Tanja",
+    "lastName": "Dickert",
+    "position": "CEO",
+    "companyName": "Ahoj! Souvenirmanufaktur"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/elodie-staib-520a1438b",
+    "id": 281142,
+    "firstName": "ELODIE",
+    "lastName": "STAIB",
+    "position": "PPG",
+    "companyName": "PPG"
+  },
+  {
+    "id": 281141,
+    "firstName": "Sascha",
+    "lastName": "Manhart",
+    "position": "Head of Marketing & eCommerce",
+    "companyName": "Yaasa"
+  },
+  {
+    "id": 281140,
+    "firstName": "Sascha",
+    "lastName": "Manhart",
+    "position": "Head of Marketing & eCommerce",
+    "companyName": "Yaasa"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/awadwa",
+    "id": 281139,
+    "firstName": "Akash",
+    "lastName": "Wadwa",
+    "position": "CEO",
+    "companyName": "HSP Hanse Shopping GmbH"
+  },
+  {
+    "id": 281138,
+    "firstName": "Michael ",
+    "lastName": "Bol",
+    "position": "Ownet",
+    "companyName": "Bol E-Commerce "
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/isaac-arevalo-perel",
+    "id": 281137,
+    "firstName": "Isaac",
+    "lastName": "Arevalo",
+    "position": "Director, Supply Chain EUME",
+    "companyName": "AG1"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/caroline-oliveira-00ab75169",
+    "id": 281135,
+    "firstName": "Caroline",
+    "lastName": "Oliveira",
+    "position": "Senior Data Analyst",
+    "companyName": "rebuy"
+  },
+  {
+    "linkedinAccount": "https://ua.linkedin.com/in/viktor-baranovskiy-0613728",
+    "id": 281134,
+    "firstName": "Viktor",
+    "lastName": "Baranovszkij",
+    "position": "Inhaber",
+    "companyName": "Viktor Baranovszkij "
+  },
+  {
+    "linkedinAccount": "https://ua.linkedin.com/in/viktor-baranovskiy-0613728",
+    "id": 281133,
+    "firstName": "Viktor",
+    "lastName": "Baranovszkij",
+    "position": "Inhaber",
+    "companyName": "Viktor Baranovszkij "
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/robertmuszynski",
+    "id": 281132,
+    "firstName": "Robert",
+    "lastName": "Muszynski",
+    "position": "CREATIVE BIO LAB SPÓŁKA Z O.O.",
+    "companyName": "CREATIVE BIO LAB SPÓŁKA Z O.O."
+  },
+  {
+    "id": 281131,
+    "firstName": "Manfred",
+    "lastName": "Volksdorf",
+    "position": "Mitarbeiter",
+    "companyName": "VTP"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/lynn-marie-zapp-80574618a",
+    "id": 281130,
+    "firstName": "Lynn",
+    "lastName": "Zapp",
+    "position": "CEO",
+    "companyName": "littleplan UG"
+  },
+  {
+    "linkedinAccount": "https://cz.linkedin.com/in/radek-prudil",
+    "id": 281129,
+    "firstName": "Radek",
+    "lastName": "Prudil",
+    "position": "Ceo",
+    "companyName": "Mamutex"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/gardun",
+    "id": 281128,
+    "firstName": "Gardun",
+    "lastName": "Abdullah",
+    "position": "Ceo",
+    "companyName": "Garaufi"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/mehakkathpalia",
+    "id": 281127,
+    "firstName": "MEHAK",
+    "lastName": "KATHPALIA",
+    "position": "Senior Content Strategy and Enablement Manager",
+    "companyName": "Zalando"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/pradun",
+    "id": 281122,
+    "firstName": "Andrey",
+    "lastName": "Pradun",
+    "position": "CEO/co-founder",
+    "companyName": "Kea Labs"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/maxwell-nartey-b792a19b",
+    "id": 281120,
+    "firstName": "Maxwell ",
+    "lastName": "Nartey",
+    "position": " CEO ",
+    "companyName": "M-Nart Beauty & Cosmetics "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/max-klinger",
+    "id": 281119,
+    "firstName": "Max",
+    "lastName": "Klinger",
+    "position": "CEO",
+    "companyName": "Taurus Data GmbH"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/erion",
+    "id": 281118,
+    "firstName": "Erion",
+    "lastName": "Vrella",
+    "position": "CEO",
+    "companyName": "GENZ DIGITAL"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/hanns-christian-nicken-b24250235",
+    "id": 281117,
+    "firstName": "Hanns-Christian",
+    "lastName": "Nicken",
+    "position": "Product Lead eCommerce Applications",
+    "companyName": "tesa SE"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/yvd1996",
+    "id": 281116,
+    "firstName": "Yannick",
+    "lastName": "van Duuren",
+    "position": "coziro.fr",
+    "companyName": "coziro.fr"
+  },
+  {
+    "id": 281114,
+    "firstName": "Jacek",
+    "lastName": "Nowacki",
+    "position": "CEO",
+    "companyName": "Batimex "
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/shahad-ali-844255267",
+    "id": 281113,
+    "firstName": "SHAHAD",
+    "lastName": "Ali",
+    "position": "Director ",
+    "companyName": "S.p.a sales Ltd "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/irma-kacharava-7b1b741dfaaaf28",
+    "id": 281112,
+    "firstName": "Irma",
+    "lastName": "Kacharava",
+    "position": "CEO INTERNATIONAL PR",
+    "companyName": "PRMedia4you"
+  },
+  {
+    "linkedinAccount": "https://cz.linkedin.com/in/lukas-lesovsky-5445aa127",
+    "id": 281111,
+    "firstName": "Lukáš",
+    "lastName": "Lesovský",
+    "position": "CEO",
+    "companyName": "Sportega"
+  },
+  {
+    "id": 281110,
+    "firstName": "Naresh",
+    "lastName": "Purohit",
+    "position": "Founder",
+    "companyName": "iAnanas"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/ons-ben-aissa-708aa2212",
+    "id": 281109,
+    "firstName": "Ons",
+    "lastName": "Ben Aissa",
+    "position": "ONSITE DIGITAL",
+    "companyName": "ONSITE DIGITAL"
+  },
+  {
+    "id": 281108,
+    "firstName": "Jamahl",
+    "lastName": "Schoonhoven",
+    "position": "Cco",
+    "companyName": "DotWaves"
+  },
+  {
+    "linkedinAccount": "https://cz.linkedin.com/in/olga-fytsyk-22391067",
+    "id": 281107,
+    "firstName": "Olga",
+    "lastName": "Fytsyk",
+    "position": "CMO & Co - Founder",
+    "companyName": "Seonali"
+  },
+  {
+    "linkedinAccount": "https://ch.linkedin.com/in/gtlang",
+    "id": 281106,
+    "firstName": "Torsten",
+    "lastName": "Lang",
+    "position": "Inhaber",
+    "companyName": "Ambra"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/mehmet-safa-şahkulubey-5b9793132",
+    "id": 281105,
+    "firstName": "Mehmet",
+    "lastName": "Sahkulubey",
+    "position": "Manager",
+    "companyName": "Metazon"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/mehmet-safa-şahkulubey-5b9793132",
+    "id": 281104,
+    "firstName": "Mehmet Safa",
+    "lastName": "Sahkulubey",
+    "position": "Co Founder",
+    "companyName": "Metazon"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/paskal-serafimovski-350b5b157",
+    "id": 281103,
+    "firstName": "Paskal",
+    "lastName": "Serafimovski",
+    "position": "Owner",
+    "companyName": "AP Supply LLC"
+  },
+  {
+    "id": 281102,
+    "firstName": "Dalibor",
+    "lastName": "Pejovic",
+    "position": "Ceo",
+    "companyName": "It soul doo"
+  },
+  {
+    "linkedinAccount": "https://il.linkedin.com/in/ofiramsalem",
+    "id": 281101,
+    "firstName": "Ofir",
+    "lastName": "Amsalem ",
+    "position": "E-commerce VP",
+    "companyName": "Source Outdoor"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/stephan-lahn-03886431",
+    "id": 281100,
+    "firstName": "Stephan",
+    "lastName": "Lahn",
+    "position": "Digital Creator",
+    "companyName": "Stephan Lahn"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/muhammad-qasim-4b571b139",
+    "id": 281099,
+    "firstName": "MUHAMMAD",
+    "lastName": "QASIM",
+    "position": "CEO",
+    "companyName": "fury sportz limited"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/alastairmorris",
+    "id": 281098,
+    "firstName": "Alastair",
+    "lastName": "Morris",
+    "position": "Managing Director",
+    "companyName": "Accu"
+  },
+  {
+    "id": 281097,
+    "firstName": "maulik",
+    "lastName": "Kachhadiya",
+    "position": "Director ",
+    "companyName": "NMD Trendz "
+  },
+  {
+    "id": 281096,
+    "firstName": "Chris ",
+    "lastName": "Stephens",
+    "position": "Owner",
+    "companyName": "Hair by Chris "
+  },
+  {
+    "id": 281094,
+    "firstName": "Eric",
+    "lastName": "Slaager",
+    "position": "Owner",
+    "companyName": "Advantic Commerce"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/nadine-pohli",
+    "id": 281093,
+    "firstName": "Nadine",
+    "lastName": "Pohli",
+    "position": "CEO",
+    "companyName": "Nadine Pohli Seelenfrieden "
+  },
+  {
+    "id": 281092,
+    "firstName": "Justin",
+    "lastName": "Prause",
+    "position": "Inhaber ",
+    "companyName": "Campbell & Prause GbR"
+  },
+  {
+    "id": 281091,
+    "firstName": "Justin",
+    "lastName": "Prause",
+    "position": "Inhaber ",
+    "companyName": "Campbell & Prause GbR"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/sabrina-campbell-mba",
+    "id": 281090,
+    "firstName": "Sabrina",
+    "lastName": "Campbell",
+    "position": "Inhaber",
+    "companyName": "Campbell & Prause GbR"
+  },
+  {
+    "id": 281086,
+    "firstName": "Nancy ",
+    "lastName": "Dembia ",
+    "position": "Director ",
+    "companyName": "Artemee"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/niron-mahalingam-36145125",
+    "id": 281085,
+    "firstName": "Niroan",
+    "lastName": "Mahalingam",
+    "position": "Hotelbedarf-Online.de / PHP Profes",
+    "companyName": "Hotelbedarf-Online.de / PHP Profes"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/marjorie-megyaszai-39512693",
+    "id": 281084,
+    "firstName": "Marjorie",
+    "lastName": "Megyaszai",
+    "position": "Hotelbedarf-Online.de / PHP Profes",
+    "companyName": "Hotelbedarf-Online.de / PHP Profes"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/mariyakoteva",
+    "id": 281083,
+    "firstName": "Mariya",
+    "lastName": "Koteva",
+    "position": "Retail Technology Team Lead",
+    "companyName": "Fenix Outdoor"
+  },
+  {
+    "id": 281081,
+    "firstName": "Hench",
+    "lastName": "Hsu",
+    "position": "Owner",
+    "companyName": "Invigo"
+  },
+  {
+    "id": 281080,
+    "firstName": "abdessalam",
+    "lastName": "aissiou",
+    "position": "General manager ",
+    "companyName": "prime computer dz"
+  },
+  {
+    "id": 281079,
+    "firstName": "Mael",
+    "lastName": "Boukraa",
+    "position": "CEO ",
+    "companyName": "Titaniumlicence"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/maximilian-franke-610388206",
+    "id": 281077,
+    "firstName": "Maximilian",
+    "lastName": "Franke",
+    "position": "CEO",
+    "companyName": "Spoondrink GmbH"
+  },
+  {
+    "id": 281076,
+    "firstName": "MUSTAFA",
+    "lastName": "DYONMEZ",
+    "position": "directeur",
+    "companyName": "boon 16"
+  },
+  {
+    "id": 281070,
+    "firstName": "Kamran",
+    "lastName": "Butt",
+    "position": "Cofounder ",
+    "companyName": "heimtexx"
+  },
+  {
+    "id": 281069,
+    "firstName": "alice",
+    "lastName": "milbratz",
+    "position": "CEO",
+    "companyName": "isso nao é um jogo"
+  },
+  {
+    "id": 281068,
+    "firstName": "SHARANYA",
+    "lastName": "Kanagarajh",
+    "position": "Director",
+    "companyName": "JVOX Mobile Limited"
+  },
+  {
+    "id": 281067,
+    "firstName": "Sanjeev ",
+    "lastName": "Krishnarajah",
+    "position": "Product Director ",
+    "companyName": "Jvox Mobile "
+  },
+  {
+    "id": 281064,
+    "firstName": "Ümran ",
+    "lastName": "Ergi ",
+    "position": "Geschäftsführer ",
+    "companyName": "LED-EINBAUSTRAHLER-24.DE"
+  },
+  {
+    "id": 281060,
+    "firstName": "Michal",
+    "lastName": "Kováč",
+    "position": "CEO",
+    "companyName": "Management & Sport s.r.o."
+  },
+  {
+    "linkedinAccount": "https://rs.linkedin.com/in/andrija-nikolic1",
+    "id": 281059,
+    "firstName": "Andrija",
+    "lastName": "Nikolic",
+    "position": "Implementation manager",
+    "companyName": "Gorgias Inc."
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/erva-dirican-kircali-5095b5194",
+    "id": 281058,
+    "firstName": "Erva Hazal",
+    "lastName": "Dirican Kircali",
+    "position": "Owner",
+    "companyName": "Erva Hazal Dirican Kırcalı"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/axel-vetter-axan-gmbh",
+    "id": 281057,
+    "firstName": "Axel",
+    "lastName": "Vetter",
+    "position": "Owner",
+    "companyName": "BENZ Handelsgesellschaft mbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/miraç-işcan",
+    "id": 281055,
+    "firstName": "Mirac",
+    "lastName": "Iscan",
+    "position": "Software Entwickler ",
+    "companyName": "Vency Textile GmbH"
+  },
+  {
+    "linkedinAccount": "https://rs.linkedin.com/in/vladimirvckv",
+    "id": 281051,
+    "firstName": "Vladimir",
+    "lastName": "Vuckovic",
+    "position": "COO",
+    "companyName": "W3 Lab"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/florian-r-zinnecker-114758264",
+    "id": 281050,
+    "firstName": "Florian",
+    "lastName": "Zinnecker",
+    "position": "Head of E-Commerce",
+    "companyName": "C3 marketing agentur GmbH"
+  },
+  {
+    "id": 281049,
+    "firstName": "Muhammad Haroon",
+    "lastName": "Sarwar",
+    "position": "Growth Manager",
+    "companyName": "Kyzenn"
+  },
+  {
+    "id": 281048,
+    "firstName": "GULSAH",
+    "lastName": "ALGIN",
+    "position": "CO-FOUNDER",
+    "companyName": "FEVUP BRANDS E-TİCARET VE BİLİŞİM TEKNOLOJİLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/ferhan-yildizli",
+    "id": 281047,
+    "firstName": "FERHAN",
+    "lastName": "Yıldızlı",
+    "position": "CO-FOUNDER",
+    "companyName": "FEVUP BRANDS E-TİCARET VE BİLİŞİM TEKNOLOJİLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/katarzyna-nasuta-3b78b3127",
+    "id": 281045,
+    "firstName": "Katarzyna",
+    "lastName": "Nasuta",
+    "position": "Marketing",
+    "companyName": "IT REMARKETING"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/łukasz-konecki-830a26152",
+    "id": 281044,
+    "firstName": "Lukasz",
+    "lastName": "Konecki",
+    "position": "Marketing",
+    "companyName": "IT REMARKETING"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/katarzyna-kwiatkowska-59a59093",
+    "id": 281042,
+    "firstName": "Katarzyna",
+    "lastName": "Kwiatkowska",
+    "position": "Marketing",
+    "companyName": "IT REMARKETING"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/maciej-kwiatkowski-5a0255",
+    "id": 281041,
+    "firstName": "Maciej",
+    "lastName": "Kwiatkowski",
+    "position": "Marketing",
+    "companyName": "IT REMARKETING"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/bhubaneswari-mohanty-50857082",
+    "id": 281040,
+    "firstName": "Bhubaneswari",
+    "lastName": "Mohanty",
+    "position": "Founder & CEO",
+    "companyName": "North"
+  },
+  {
+    "id": 281039,
+    "firstName": "Ismail",
+    "lastName": "Uyaniker",
+    "position": "Gründer",
+    "companyName": "Ghetto University"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/aliadnan1981/de",
+    "id": 281038,
+    "firstName": "Adnan",
+    "lastName": "Ali",
+    "position": "Manager",
+    "companyName": "iPoint E-Commerce LLC"
+  },
+  {
+    "id": 281034,
+    "firstName": "Rohullah",
+    "lastName": "Stanakzai",
+    "position": "Managing Director",
+    "companyName": "Amo Bazar"
+  },
+  {
+    "id": 281033,
+    "firstName": "Faria",
+    "lastName": "Jabeen",
+    "position": "Manager",
+    "companyName": "Sell Omni Hub Ltd"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/muhammad-umer-farooq-b9b677256",
+    "id": 281032,
+    "firstName": "Muhammad Umer",
+    "lastName": "Farooq",
+    "position": "Director",
+    "companyName": "Sell Omni Hub Ltd"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/muhammad-qasim-4b571b139",
+    "id": 281031,
+    "firstName": "MUHAMMAD",
+    "lastName": "QASIM",
+    "position": "CEO",
+    "companyName": "fury sportz limited"
+  },
+  {
+    "linkedinAccount": "https://lt.linkedin.com/in/mustansariqbal",
+    "id": 281030,
+    "firstName": "Mustansar",
+    "lastName": "Iqbal",
+    "position": "Founder",
+    "companyName": "Wild"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/mianhayat",
+    "id": 281029,
+    "firstName": "Mian",
+    "lastName": "hayat",
+    "position": "CEO",
+    "companyName": "Devjion"
+  },
+  {
+    "linkedinAccount": "https://me.linkedin.com/in/nevena-marketing-seo",
+    "id": 281028,
+    "firstName": "Nevena",
+    "lastName": "Skuletic",
+    "position": "Ecommerce Manager",
+    "companyName": "Mühldorfer"
+  },
+  {
+    "linkedinAccount": "https://rs.linkedin.com/in/djokovicdarko",
+    "id": 281027,
+    "firstName": "Darko",
+    "lastName": "Djokovic",
+    "position": "CEO",
+    "companyName": "Builtt LLC"
+  },
+  {
+    "id": 281026,
+    "firstName": "Mohamed",
+    "lastName": "Attia",
+    "position": "CEO",
+    "companyName": "Synthetic Machines"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/hendrikschaefer",
+    "id": 281025,
+    "firstName": "Hendrik",
+    "lastName": "Schaefer",
+    "position": "Owner",
+    "companyName": "Railmate"
+  },
+  {
+    "id": 281024,
+    "firstName": "Marco",
+    "lastName": "Zander",
+    "position": "Gesellschafter",
+    "companyName": "Simon, Karina u. Zander, Marco GbR"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/baradwaaj-ramanujam",
+    "id": 281022,
+    "firstName": "Baradwaaj",
+    "lastName": "Ramanujam",
+    "position": "Senior Director",
+    "companyName": "Delivery Hero"
+  },
+  {
+    "id": 281020,
+    "firstName": "beyzanur",
+    "lastName": "kuşoğlu",
+    "position": "purchasing marketing",
+    "companyName": "Şato Ayakkabı ve Deri Sanayi ve Ticaret Ltd. Şti"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/elnur-salmanov-a8b4b862",
+    "id": 281018,
+    "firstName": "Elnur",
+    "lastName": "Salmanov",
+    "position": "Owner",
+    "companyName": "Azbros llc"
+  },
+  {
+    "id": 281017,
+    "firstName": "Roua",
+    "lastName": "Moger",
+    "position": "CEO",
+    "companyName": "Tsubaki Beauty UG"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/gochiori",
+    "id": 281016,
+    "firstName": "Godswill",
+    "lastName": "Chiori",
+    "position": "Director",
+    "companyName": "Villager Clothing Ltd"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/navid-ahemad-29029351",
+    "id": 281015,
+    "firstName": "Navid",
+    "lastName": "Ahemad",
+    "position": "Director ",
+    "companyName": "New Gem Services limited "
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/rnwadinobi",
+    "id": 281007,
+    "firstName": "Robert",
+    "lastName": "Nwadinobi",
+    "position": "Founder",
+    "companyName": "The Aartisian "
+  },
+  {
+    "id": 281006,
+    "firstName": "Mahmood",
+    "lastName": "MAK",
+    "position": "President",
+    "companyName": "One Global Commerce"
+  },
+  {
+    "id": 281004,
+    "firstName": "Zeshan",
+    "lastName": "Afzal",
+    "position": "Salesman",
+    "companyName": "Steinbock "
+  },
+  {
+    "id": 281003,
+    "firstName": "Zeshan",
+    "lastName": "Afzal",
+    "position": "Salesman",
+    "companyName": "Steinbock "
+  },
+  {
+    "linkedinAccount": "https://cz.linkedin.com/in/mahmoudelgales",
+    "id": 281002,
+    "firstName": "Mahmoud",
+    "lastName": "ELgales",
+    "position": "Head Of Performance ",
+    "companyName": "Business Factory"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/ganiyah-otubambo-assoc-cipd-87521a226",
+    "id": 281000,
+    "firstName": "Ganiyah",
+    "lastName": "Otubambo",
+    "position": "Human resource officer",
+    "companyName": "Hitbay Aparels limited"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/alexey-trudov",
+    "id": 280999,
+    "firstName": "Aleksei",
+    "lastName": "Trudov",
+    "position": "Independent business consultant",
+    "companyName": "Aleksei Trudov"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/thijn-h-9b2b17234",
+    "id": 280998,
+    "firstName": "Thijn",
+    "lastName": "Hogeland",
+    "position": "CEO & Founder",
+    "companyName": "Golfimprove"
+  },
+  {
+    "linkedinAccount": "https://ua.linkedin.com/in/rohan-sharma-a234391ba",
+    "id": 280996,
+    "firstName": "Rohan ",
+    "lastName": "Sharma ",
+    "position": "Shareholder",
+    "companyName": "Lavyren UG"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/olawale-esan-3931101",
+    "id": 280995,
+    "firstName": "Olawale",
+    "lastName": "Esan",
+    "position": "Manager",
+    "companyName": "1Global"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/callumdgriffiths",
+    "id": 280993,
+    "firstName": "Callum",
+    "lastName": "Griffiths",
+    "position": "MD EMEA",
+    "companyName": "ThePetFoodPeople"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/marielovede",
+    "id": 280992,
+    "firstName": "Patrick",
+    "lastName": "Wernitz",
+    "position": "Inhaber",
+    "companyName": "Marielove"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/daniela-riepl-861270153",
+    "id": 280991,
+    "firstName": "Daniela",
+    "lastName": "Riepl",
+    "position": "SE",
+    "companyName": "ZOOVU"
+  },
+  {
+    "linkedinAccount": "https://si.linkedin.com/in/boriskozlevcar",
+    "id": 280990,
+    "firstName": "Boris",
+    "lastName": "Kozlevcar",
+    "position": "CEO",
+    "companyName": "JK LAW"
+  },
+  {
+    "id": 280989,
+    "firstName": "Sal",
+    "lastName": "Riani",
+    "position": "CTO ",
+    "companyName": "Boerschappen"
+  },
+  {
+    "id": 280987,
+    "firstName": "Sam",
+    "lastName": "Ghaziani",
+    "position": "CEO",
+    "companyName": "Affinity Circle"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/daravyange",
+    "id": 280986,
+    "firstName": "Daravy",
+    "lastName": "Ange",
+    "position": "CEO ",
+    "companyName": "La Smole"
+  },
+  {
+    "id": 280984,
+    "firstName": "Precious",
+    "lastName": "Israel",
+    "position": "Director",
+    "companyName": "Hitbay Aparels limited"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/sheikhsabi",
+    "id": 280983,
+    "firstName": "Muhammad",
+    "lastName": "Sabayyal",
+    "position": "CEO",
+    "companyName": "Volt Signs"
+  },
+  {
+    "id": 280982,
+    "firstName": "Koonari",
+    "lastName": "M.A",
+    "position": "CEO",
+    "companyName": "Mak International Trading "
+  },
+  {
+    "id": 280981,
+    "firstName": "David ",
+    "lastName": "Galenziok ",
+    "position": "Owner ",
+    "companyName": "Rebell Fashion Company "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/grafruessel/en",
+    "id": 280980,
+    "firstName": "Nikolai",
+    "lastName": "Graf-Rüseel",
+    "position": "Partner Manager",
+    "companyName": "Elementor"
+  },
+  {
+    "linkedinAccount": "https://si.linkedin.com/in/eetutourunen",
+    "id": 280979,
+    "firstName": "Eetu",
+    "lastName": "Tourunen",
+    "position": "Head of E-Commerce",
+    "companyName": "CHIPOLO, d.o.o."
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/ahmethalatci",
+    "id": 280978,
+    "firstName": "Ahmet",
+    "lastName": "Halatci",
+    "position": "Founder",
+    "companyName": "HTC Digital"
+  },
+  {
+    "id": 280977,
+    "firstName": "Michelle",
+    "lastName": "Ordaz",
+    "position": "PDG ",
+    "companyName": "EVOX FIT"
+  },
+  {
+    "id": 280975,
+    "firstName": "Aretha CARNEIRO",
+    "lastName": "Aretha",
+    "position": "E commerce",
+    "companyName": "Maison Corvisart"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/corentin-calvo-89452a177",
+    "id": 280974,
+    "firstName": "Corentin",
+    "lastName": "Calvo ",
+    "position": "PDG",
+    "companyName": "SND SYSTEM "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/stefan-pokorny-9b263614a",
+    "id": 280973,
+    "firstName": "Stefan",
+    "lastName": "Pokorny",
+    "position": "CEO/Founder",
+    "companyName": "Tijara24"
+  },
+  {
+    "id": 280966,
+    "firstName": "Andreas",
+    "lastName": "Staroselski",
+    "position": "CEO",
+    "companyName": "STAROSELSKI"
+  },
+  {
+    "id": 280962,
+    "firstName": "Christina",
+    "lastName": "Löwenstein",
+    "position": "Team Lead eCommerce Marketing",
+    "companyName": "Cosnova GmbH"
+  },
+  {
+    "id": 280961,
+    "firstName": "Gökhan",
+    "lastName": "Cengiz",
+    "position": "Team Lead Sales eCommerce Business Development",
+    "companyName": "Cosnova GmbH"
+  },
+  {
+    "linkedinAccount": "https://in.linkedin.com/in/joeg1",
+    "id": 280959,
+    "firstName": "George Job Abeth ",
+    "lastName": "GeorgeWilliam",
+    "position": "Chief Sales Officer",
+    "companyName": "Colan Infotech"
+  },
+  {
+    "id": 280958,
+    "firstName": "Christian",
+    "lastName": "Fischer",
+    "position": "CEO",
+    "companyName": "Q-sell Unternehmergesellschaft (haftungsbeschränkt)"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/maria-clara-batalha",
+    "id": 280957,
+    "firstName": "Maria",
+    "lastName": "Batalha",
+    "position": "Marketplace Lead",
+    "companyName": "Contorion"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/martin-quandt-8b0707170",
+    "id": 280956,
+    "firstName": "Martin",
+    "lastName": "Quandt",
+    "position": "COO",
+    "companyName": "Vanderstorm Ventures GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://at.linkedin.com/in/michaelweidinger1",
+    "id": 280955,
+    "firstName": "Michael",
+    "lastName": "Weidinger",
+    "position": "Performance Marketing & Data Berater",
+    "companyName": "Michael Weidinger e.U."
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/yusuf-richard-llm-42908723a",
+    "id": 280954,
+    "firstName": "Richard",
+    "lastName": "Yusuf",
+    "position": "CEO ",
+    "companyName": "Hitbay Aparels limited"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/leon-balzer/en",
+    "id": 280949,
+    "firstName": "Leon",
+    "lastName": "Balzer",
+    "position": "Head of Digital Operations",
+    "companyName": "Brands Fashion GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/luca-zeitvogel-a51b08169",
+    "id": 280948,
+    "firstName": "Luca",
+    "lastName": "Zeitvogel",
+    "position": "Amazon Account Manager",
+    "companyName": "Snocks GmbH"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/yannick-matondo-kabwau-140176117",
+    "id": 280946,
+    "firstName": "Yannick Matondo",
+    "lastName": "Kabwau ",
+    "position": "CEO",
+    "companyName": "Royal Rita"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/aashimasharma",
+    "id": 280945,
+    "firstName": "Aashima",
+    "lastName": "Sharma",
+    "position": "Managing Director ",
+    "companyName": "Lavyren UG"
+  },
+  {
+    "id": 280940,
+    "firstName": "Justin",
+    "lastName": "Fehse",
+    "position": "C.E.O",
+    "companyName": "Menges Perfmry"
+  },
+  {
+    "linkedinAccount": "https://dk.linkedin.com/in/karim-hassan-653981190",
+    "id": 280939,
+    "firstName": "Karim ",
+    "lastName": "Hassan ",
+    "position": "Operations Manager ",
+    "companyName": "WebrinQ A/S"
+  },
+  {
+    "linkedinAccount": "https://dk.linkedin.com/in/karim-hassan-653981190",
+    "id": 280938,
+    "firstName": "Karim ",
+    "lastName": "Hassan ",
+    "position": "Operations Manager ",
+    "companyName": "WebrinQ A/S"
+  },
+  {
+    "id": 280937,
+    "firstName": "Wouter",
+    "lastName": "Haisch",
+    "position": "Ceo ",
+    "companyName": "Hikemeister bv"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/awais-amjad-6b8153a2",
+    "id": 280936,
+    "firstName": "Awais",
+    "lastName": "Amjad",
+    "position": "Director",
+    "companyName": "AEG Technologies LTD"
+  },
+  {
+    "id": 280935,
+    "firstName": "Mohammad",
+    "lastName": "Yousufi",
+    "position": "Owner",
+    "companyName": "High End Frau"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/rihab-seb",
+    "id": 280932,
+    "firstName": "Rihab",
+    "lastName": "Sebaaly",
+    "position": "Ceo",
+    "companyName": "Brandee by Rihab"
+  },
+  {
+    "id": 280931,
+    "firstName": "Angelo",
+    "lastName": "van Huut",
+    "position": "Owner",
+    "companyName": "Grodt Trading"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/erwin-rapp-8b8a65202",
+    "id": 280930,
+    "firstName": "Erwin",
+    "lastName": "rapp",
+    "position": "Head of sales",
+    "companyName": "Mainwebsolutions "
+  },
+  {
+    "id": 280929,
+    "firstName": "Yagnesh",
+    "lastName": "Parekh",
+    "position": "CEO",
+    "companyName": "Beauty Beacon"
+  },
+  {
+    "id": 280928,
+    "firstName": "Sven",
+    "lastName": "Isenberg",
+    "position": "Geschäftsführer",
+    "companyName": "Trupanion"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/thomaskehm/en",
+    "id": 280927,
+    "firstName": "Thomas",
+    "lastName": "Kehm",
+    "position": "Co Founder",
+    "companyName": "Krohm Brands GmbH"
+  },
+  {
+    "linkedinAccount": "https://se.linkedin.com/in/vaishali-kaim-940b6a97",
+    "id": 280926,
+    "firstName": "vaishali",
+    "lastName": "kaim",
+    "position": "marketplace manager ",
+    "companyName": "teenage engineering "
+  },
+  {
+    "linkedinAccount": "https://se.linkedin.com/in/vaishali-kaim-940b6a97",
+    "id": 280925,
+    "firstName": "Vaishali ",
+    "lastName": "kaim",
+    "position": "marketplace sr manager ",
+    "companyName": "teenage engineering "
+  },
+  {
+    "id": 280924,
+    "firstName": "Ray",
+    "lastName": "de Seriere du Bizournet",
+    "position": "CEO",
+    "companyName": "LuxaLife"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/oliverschroer",
+    "id": 280923,
+    "firstName": "Oliver",
+    "lastName": "Schroer",
+    "position": "CEO",
+    "companyName": "squadt GmbH"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/mehmet-metin-okur-1206b929",
+    "id": 280922,
+    "firstName": "Mehmet",
+    "lastName": "okur",
+    "position": "CEO",
+    "companyName": "sefamerve"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/marcel-meineke",
+    "id": 280921,
+    "firstName": "Marcel",
+    "lastName": "Meineke",
+    "position": "Inhaber / Founder",
+    "companyName": "Ads Kitchen"
+  },
+  {
+    "id": 280920,
+    "firstName": "Isabel",
+    "lastName": "Baldeon",
+    "position": "Creator Manager",
+    "companyName": "Genuss Berlin"
+  },
+  {
+    "id": 280917,
+    "firstName": "Matt",
+    "lastName": "Gibbins",
+    "position": "Head Developer",
+    "companyName": "Red Light Therapy Ltd"
+  },
+  {
+    "linkedinAccount": "https://es.linkedin.com/in/dangibbins",
+    "id": 280916,
+    "firstName": "Daniel",
+    "lastName": "Gibbins",
+    "position": "CEO",
+    "companyName": "Red Light Therapy Ltd"
+  },
+  {
+    "id": 280915,
+    "firstName": "Simon",
+    "lastName": "Dubbel",
+    "position": "IT-Manager",
+    "companyName": "Teppichversand24 GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/ralph-hossdorf-469009313",
+    "id": 280914,
+    "firstName": "Ralph",
+    "lastName": "Hossdorf",
+    "position": "CEO",
+    "companyName": "Teppichversand24 GmbH"
+  },
+  {
+    "linkedinAccount": "https://ua.linkedin.com/in/alexeyryabenkov/de",
+    "id": 280912,
+    "firstName": "Oleksii",
+    "lastName": "Riabenkov",
+    "position": "CIO",
+    "companyName": "Ascania"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/jonny-beattie",
+    "id": 280911,
+    "firstName": "Jonny",
+    "lastName": "Beattie",
+    "position": "Co-Founder ",
+    "companyName": "Mönch Watch Company "
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/joren-bos-80a7831b6",
+    "id": 280910,
+    "firstName": "Joren",
+    "lastName": "Bos",
+    "position": "Ceo",
+    "companyName": "Racesokken.nl"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/brent-bos-988175176",
+    "id": 280909,
+    "firstName": "Brent",
+    "lastName": "Bos",
+    "position": "Ceo",
+    "companyName": "Racesokken.nl"
+  },
+  {
+    "id": 280908,
+    "firstName": "Claudia",
+    "lastName": "Krüger",
+    "position": "Geschäftsleitung",
+    "companyName": "neusta GmbH"
+  },
+  {
+    "linkedinAccount": "https://se.linkedin.com/in/dinofaderek",
+    "id": 280906,
+    "firstName": "Dino",
+    "lastName": "Gandara",
+    "position": "Global Sales & Partnerships Manager",
+    "companyName": "Instabee Group AB"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sindhusomanjohn",
+    "id": 280902,
+    "firstName": "Sindhu",
+    "lastName": "Soman John",
+    "position": "Product Marketing Manager",
+    "companyName": "Zalando Marketing Services"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/nick-richter-8b547959",
+    "id": 280901,
+    "firstName": "Nick",
+    "lastName": "Richter",
+    "position": "Head of Digital Touchpoints",
+    "companyName": "Volkswagen"
+  },
+  {
+    "id": 280900,
+    "firstName": "Durk",
+    "lastName": "van Hijum",
+    "position": "COO",
+    "companyName": "MR. Riegillio"
+  },
+  {
+    "id": 280899,
+    "firstName": "Alexandr",
+    "lastName": "Zabrodskyi ",
+    "position": "Director ",
+    "companyName": "Post International"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/fabianhielscher",
+    "id": 280897,
+    "firstName": "Fabian",
+    "lastName": "Hielscher",
+    "position": "Market Lead - RCS for Business",
+    "companyName": "Google"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/tunahan-tetik-6b2aa1151",
+    "id": 280892,
+    "firstName": "Tunahan",
+    "lastName": "Tetik",
+    "position": "CEO",
+    "companyName": "Teppich Tetik GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/lauramariaschmidt",
+    "id": 280891,
+    "firstName": "Laura",
+    "lastName": "Schmidt",
+    "position": "Group Lead Marketplaces",
+    "companyName": "SNOCKS GmbH"
+  },
+  {
+    "id": 280890,
+    "firstName": "david",
+    "lastName": "buchheister",
+    "position": "General Manager",
+    "companyName": "Opitz EDV Systeme GmbH"
+  },
+  {
+    "linkedinAccount": "https://hr.linkedin.com/in/zvonimir-pelko-b4388832",
+    "id": 280889,
+    "firstName": "Zvonimir",
+    "lastName": "Pelko",
+    "position": "Global Digital Business & Growth Manager",
+    "companyName": "JGL Pharma"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/larstoma",
+    "id": 280888,
+    "firstName": "Lars",
+    "lastName": "Tomaszewska",
+    "position": "Head of E-Commerce",
+    "companyName": "travelite GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/grzegorz-karol-piasecki",
+    "id": 280887,
+    "firstName": "Grzegorz",
+    "lastName": "Piasecki",
+    "position": "KAZAR GROUP SPÓŁKA AKCYJNA",
+    "companyName": "KAZAR GROUP SPÓŁKA AKCYJNA"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/zhihui-ou-13b2b1102/de",
+    "id": 280886,
+    "firstName": "Zhihui",
+    "lastName": "Ou",
+    "position": "OLEIO GmbH",
+    "companyName": "OLEIO GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/vincent-konstantin-haentzsch",
+    "id": 280885,
+    "firstName": "Vincent-Konstantin",
+    "lastName": "Haentzsch",
+    "position": "Senior Manager & Head of Retail ",
+    "companyName": "Zühlke Engineering GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/daniel-neumann-a69667b7",
+    "id": 280883,
+    "firstName": "Daniel",
+    "lastName": "Neumann",
+    "position": "Teamlead Merchandise Planning",
+    "companyName": "Zalando SE"
+  },
+  {
+    "id": 280881,
+    "firstName": "Ingo",
+    "lastName": "Peters",
+    "position": "CEO",
+    "companyName": "TeppichKontor GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/safakebcinoglu",
+    "id": 280880,
+    "firstName": "Safak ",
+    "lastName": "Ebcinoglu",
+    "position": "Principle Strategic Sales & Partnerships ",
+    "companyName": "kleinanzeigen.de GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/christopher-schimmel",
+    "id": 280878,
+    "firstName": "Christopher",
+    "lastName": "Schimmel",
+    "position": "Geschäftsführer",
+    "companyName": "Bruno Interior GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/cheryl-chan-gorgs-9b001921",
+    "id": 280877,
+    "firstName": "Cheryl",
+    "lastName": "Chan-Gorgs",
+    "position": "Senior Project Manager ",
+    "companyName": "Gebr. Heinemann SE&Co KG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/anne-golombeck-14332218a",
+    "id": 280875,
+    "firstName": "Anne",
+    "lastName": "Golombeck",
+    "position": "Sr. PP Manager",
+    "companyName": "kfzteile24"
+  },
+  {
+    "id": 280874,
+    "firstName": "Gareth",
+    "lastName": "Owen",
+    "position": "Warehouse Manager",
+    "companyName": "032c System GmbH"
+  },
+  {
+    "id": 280873,
+    "firstName": "Ina",
+    "lastName": "Steinert",
+    "position": "erdbär GmbH",
+    "companyName": "erdbär GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/kirill-rung-4aa792124",
+    "id": 280872,
+    "firstName": "Kirill",
+    "lastName": "Rung",
+    "position": "Chief of Staff",
+    "companyName": "032c System GmbH"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/radomir-kiepas-5b4156a7",
+    "id": 280871,
+    "firstName": "Radomir",
+    "lastName": "Kiepas",
+    "position": "B2B Development Partner, Head of Marketplaces",
+    "companyName": "Kazar Group S.A"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/nils-wrede-211735203",
+    "id": 280867,
+    "firstName": "Nils",
+    "lastName": "Wrede",
+    "position": "Leiter Marketing & Vetrieb",
+    "companyName": "IDEAL GROUP"
+  },
+  {
+    "id": 280865,
+    "firstName": "Marharyta",
+    "lastName": "Chuhriieva",
+    "position": "data analyst",
+    "companyName": "lets gastro"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/norman-kermas-a11734127",
+    "id": 280864,
+    "firstName": "Norman",
+    "lastName": "Kermas",
+    "position": "Operations Manager",
+    "companyName": "McFilter - Alexander Patzig"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/stefan-wingendorf",
+    "id": 280863,
+    "firstName": "Stefan",
+    "lastName": "Wingendorf",
+    "position": "Head of Sales & Business Development",
+    "companyName": "Let'sGastro - Marktplatz GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/konstantin-pinski",
+    "id": 280862,
+    "firstName": "Konstantin ",
+    "lastName": "Pinski",
+    "position": "CEO",
+    "companyName": "Let'sGastro - Marktplatz GmbH"
+  },
+  {
+    "id": 280861,
+    "firstName": "Ülkücan",
+    "lastName": "Öz",
+    "position": "Inhaber",
+    "companyName": "Ülkücan Öz - MyBedesten"
+  },
+  {
+    "id": 280860,
+    "firstName": "Serkan",
+    "lastName": "Aksu",
+    "position": "Inhaber",
+    "companyName": "hadigo"
+  },
+  {
+    "linkedinAccount": "https://at.linkedin.com/in/peter-probst-044bb5133",
+    "id": 280857,
+    "firstName": "Peter",
+    "lastName": "Probst",
+    "position": "Business Development Manager",
+    "companyName": "ACL - advanced commerce labs GmbH"
+  },
+  {
+    "linkedinAccount": "https://ch.linkedin.com/in/dominikwensauer",
+    "id": 280856,
+    "firstName": "Dominik",
+    "lastName": "Wensauer",
+    "position": "Lead B2C",
+    "companyName": "goodvibe.ch GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/dalina-häring-ebusiness",
+    "id": 280855,
+    "firstName": "Dalina",
+    "lastName": "Häring",
+    "position": "E-Business Managerin",
+    "companyName": "KAISER+KRAFT GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/markusreiners/de",
+    "id": 280852,
+    "firstName": "Markus",
+    "lastName": "Reiners",
+    "position": "VP Sales, Marketing & Product Development",
+    "companyName": "Aosom"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/amy-van-noord-b9ab241b0",
+    "id": 280851,
+    "firstName": "Amy",
+    "lastName": "Noord",
+    "position": "Ceo",
+    "companyName": "Coolenator"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/jayna-thanki",
+    "id": 280849,
+    "firstName": "Jayna",
+    "lastName": "Thanki",
+    "position": "Founder ",
+    "companyName": "Thanki Silhouette ltd"
+  },
+  {
+    "id": 280848,
+    "firstName": "Matthew",
+    "lastName": "O’Connor",
+    "position": "Founder",
+    "companyName": "We Are The Alchemy Ltd"
+  },
+  {
+    "id": 280847,
+    "firstName": "Matthew",
+    "lastName": "O’Connor",
+    "position": "Founder",
+    "companyName": "We Are The Alchemy Ltd"
+  },
+  {
+    "id": 280846,
+    "firstName": "Meryem",
+    "lastName": "Hadjili",
+    "position": "CEO ",
+    "companyName": "Meryem "
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/melis-kilavuz-56a989153",
+    "id": 280845,
+    "firstName": "Melis",
+    "lastName": "Kilavuz",
+    "position": "Head of Product & Business Development ",
+    "companyName": "Miski Willow GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sumit-dhawan-475b67116",
+    "id": 280844,
+    "firstName": "Sumit",
+    "lastName": "Dhawan",
+    "position": "Geschäftsführer",
+    "companyName": "Taxenbetrieb Dhawan"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/martin19",
+    "id": 280842,
+    "firstName": "S.",
+    "lastName": "Martinez",
+    "position": "CEO",
+    "companyName": "SMART Inc."
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/abhishar-singh",
+    "id": 280841,
+    "firstName": "Abhishar",
+    "lastName": "Singh",
+    "position": "Director",
+    "companyName": "ClickShop Online Ltd"
+  },
+  {
+    "linkedinAccount": "https://cz.linkedin.com/in/vondracek",
+    "id": 280840,
+    "firstName": "Daniel",
+    "lastName": "Vondracek",
+    "position": "e-commerce consultant",
+    "companyName": "PearControl"
+  },
+  {
+    "id": 280839,
+    "firstName": "Laura",
+    "lastName": "Siksne",
+    "position": "CEO",
+    "companyName": "MB GRANDE LT"
+  },
+  {
+    "id": 280838,
+    "firstName": "omar",
+    "lastName": "frix",
+    "position": "managing partner",
+    "companyName": "eazyy"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/ali-bayat-612695134",
+    "id": 280837,
+    "firstName": "Ali",
+    "lastName": "Bayat",
+    "position": "Ceo",
+    "companyName": "Van Elon Detachering"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/stefan-adrian-kiss-b0b0b949",
+    "id": 280836,
+    "firstName": "Stefan-Adrian",
+    "lastName": "Kiss",
+    "position": "Head of Marketplaces",
+    "companyName": "Eris Car-Design GmbH"
+  },
+  {
+    "linkedinAccount": "https://ua.linkedin.com/in/oleg-dychok-b809401b",
+    "id": 280835,
+    "firstName": "Oleg",
+    "lastName": "Dychok",
+    "position": "Principal Program Manager",
+    "companyName": "Zalando"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/riley-struiken-b02480169",
+    "id": 280834,
+    "firstName": "Riley",
+    "lastName": "Struiken",
+    "position": "Owner",
+    "companyName": "RS Enterprise"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/elvistomljenovic",
+    "id": 280833,
+    "firstName": "Elvis",
+    "lastName": "Tomljenovic",
+    "position": "Manganel UG (haftungsbeschränkt)",
+    "companyName": "Manganel UG (haftungsbeschränkt)"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/riyaz-mohammed-5055a9185",
+    "id": 280832,
+    "firstName": "Riyaz",
+    "lastName": "Mohammed",
+    "position": "Director ",
+    "companyName": "Limrah Traders "
+  },
+  {
+    "id": 280831,
+    "firstName": "Wolfgang",
+    "lastName": "Hoffmann",
+    "position": "Inhaber",
+    "companyName": "Campbee"
+  },
+  {
+    "id": 280830,
+    "firstName": "Michael",
+    "lastName": "Kop",
+    "position": "CEO",
+    "companyName": "Expact Trading SL"
+  },
+  {
+    "id": 280829,
+    "firstName": "Vivien",
+    "lastName": "Hoffmann",
+    "position": "CMO",
+    "companyName": "Tijara24"
+  },
+  {
+    "id": 280828,
+    "firstName": "Leon",
+    "lastName": "Berge",
+    "position": "Owner",
+    "companyName": "Black Gecko"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/karim-elloumi-759525198",
+    "id": 280824,
+    "firstName": "karim",
+    "lastName": "elloumi",
+    "position": "director",
+    "companyName": "la cigale provençale"
+  },
+  {
+    "id": 280823,
+    "firstName": "ibrahim",
+    "lastName": "colak",
+    "position": "Owner ",
+    "companyName": "Sensei Matcha"
+  },
+  {
+    "id": 280822,
+    "firstName": "ibrahim",
+    "lastName": "colak",
+    "position": "Owner ",
+    "companyName": "Sensei Matcha"
+  },
+  {
+    "id": 280821,
+    "firstName": "ibrahim",
+    "lastName": "colak",
+    "position": "Owner ",
+    "companyName": "Sensei Matcha"
+  },
+  {
+    "id": 280819,
+    "firstName": "Dirk",
+    "lastName": "Mortag",
+    "position": "Founder",
+    "companyName": "Dirk Mortag"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/janboeschoten",
+    "id": 280818,
+    "firstName": "Jan",
+    "lastName": "Boeschoten",
+    "position": "Founder",
+    "companyName": "JB"
+  },
+  {
+    "id": 280817,
+    "firstName": "Samy Marcel",
+    "lastName": "Masmoudi",
+    "position": "Owner",
+    "companyName": "MSM TECHNOLOGIES "
+  },
+  {
+    "id": 280816,
+    "firstName": "Dion",
+    "lastName": "Van Dartel",
+    "position": "CEO",
+    "companyName": "EVD Group BV"
+  },
+  {
+    "id": 280815,
+    "firstName": "Bianca",
+    "lastName": "Eifert-Koch",
+    "position": "Head of Marketing",
+    "companyName": "Elbenwald GmbH"
+  },
+  {
+    "id": 280814,
+    "firstName": "Clarisse",
+    "lastName": "Pieter",
+    "position": " Global Expansion Manager",
+    "companyName": "Glow25"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/alexander-joechl",
+    "id": 280813,
+    "firstName": "Alexander",
+    "lastName": "Jöchl",
+    "position": "Museumdirector",
+    "companyName": "Samurai Museum Berlin"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/stephenbeattie",
+    "id": 280812,
+    "firstName": "Stephen",
+    "lastName": "Beattie",
+    "position": "Director ",
+    "companyName": "Best Beats Limited "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/alina-wedler-120478382",
+    "id": 280811,
+    "firstName": "Alina",
+    "lastName": "Wedler",
+    "position": "Geschäftsführer ",
+    "companyName": "Monster24 GmbH"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/luiza-kudzia-żelazko-a439255a",
+    "id": 280810,
+    "firstName": "Luiza",
+    "lastName": "Zelazko",
+    "position": "Head of Sales&Customer Success",
+    "companyName": "Globkurier / Grupa z Natury"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/mert-mustafa-pektas-208526256/tr",
+    "id": 280809,
+    "firstName": "Mert",
+    "lastName": "Pektas",
+    "position": "Geschäftsführer",
+    "companyName": "CC Trade24 UG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/kaiklement",
+    "id": 280805,
+    "firstName": "Kai",
+    "lastName": "Klement",
+    "position": "CEO",
+    "companyName": "BSW Handels GmbH"
+  },
+  {
+    "id": 280804,
+    "firstName": "Marcel",
+    "lastName": "Kuda",
+    "position": "E-Commerce Mitarbeiter",
+    "companyName": "SPORT KLAHSEN GMBH + CO. KG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/knightheart",
+    "id": 280803,
+    "firstName": "Matthias",
+    "lastName": "Neidhardt",
+    "position": "IT",
+    "companyName": "casadin GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/wschwabauer",
+    "id": 280802,
+    "firstName": "Wadim",
+    "lastName": "Schwabauer",
+    "position": "CEO",
+    "companyName": "torabwerk"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/luizdavi",
+    "id": 280801,
+    "firstName": "Luiz Davi",
+    "lastName": "Leitao Martins",
+    "position": "pm",
+    "companyName": "idealo gmbh"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/alexander-marschall-20940635",
+    "id": 280799,
+    "firstName": "Alexander",
+    "lastName": "Marschall",
+    "position": "CEO",
+    "companyName": "vinocentral GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jan-claus-864245257",
+    "id": 280795,
+    "firstName": "Jan",
+    "lastName": "Claus",
+    "position": "Fachinformatiker/E-Commerce Manager",
+    "companyName": "Vockeroth"
+  },
+  {
+    "id": 280794,
+    "firstName": "Enrico",
+    "lastName": "Mickan",
+    "position": "Managing Director, Co-founder",
+    "companyName": "Flowers for Society GmbH"
+  },
+  {
+    "id": 280793,
+    "firstName": "Gökhan",
+    "lastName": "Senli",
+    "position": "CEO",
+    "companyName": "P80 Phyto Prime "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/thomas-lübbe-48a83aba",
+    "id": 280792,
+    "firstName": "Thomas",
+    "lastName": "Lübbe",
+    "position": "Head of Sales",
+    "companyName": "Systrion GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/andrejez/de",
+    "id": 280791,
+    "firstName": "Andre",
+    "lastName": "Jez",
+    "position": "GTM",
+    "companyName": "Fastly"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/uwe-paasch-ef",
+    "id": 280789,
+    "firstName": "Uwe",
+    "lastName": "Paasch",
+    "position": "Technical Sales Manager",
+    "companyName": "Clever Etiketten GmbH"
+  },
+  {
+    "id": 280787,
+    "firstName": "Dominik",
+    "lastName": "Baumgartner",
+    "position": "Founder and Owner",
+    "companyName": "poleware trading gmbh"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jörn-mann-7137a547",
+    "id": 280786,
+    "firstName": "Jörn",
+    "lastName": "Mann",
+    "position": "Founder & CEO",
+    "companyName": "TicTex GmbH"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/igor-matwijcio",
+    "id": 280785,
+    "firstName": "Igor",
+    "lastName": "Matwijcio",
+    "position": "CEO",
+    "companyName": "DMT"
+  },
+  {
+    "id": 280784,
+    "firstName": "Andreas",
+    "lastName": "Morkel",
+    "position": "LiberSave",
+    "companyName": "LiberSave"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/stuart-mitchell-4647b898",
+    "id": 280783,
+    "firstName": "Stuart",
+    "lastName": "Mitchell",
+    "position": "E-Commerce Executive",
+    "companyName": "Stone Refurb"
+  },
+  {
+    "id": 280782,
+    "firstName": "Björn",
+    "lastName": "Naujoks",
+    "position": "Inhaber ",
+    "companyName": "Man of Games"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/patrick-sauerborn-286989332",
+    "id": 280778,
+    "firstName": "Patrick",
+    "lastName": "Sauerborn",
+    "position": "MD",
+    "companyName": "Entdecker GmbH"
+  },
+  {
+    "id": 280777,
+    "firstName": "Forence",
+    "lastName": "Weber",
+    "position": "Senior Operations Manager",
+    "companyName": "Contorion GmbH"
+  },
+  {
+    "id": 280776,
+    "firstName": "Rafał",
+    "lastName": "Prucnal",
+    "position": "Prezes ",
+    "companyName": "Grupa od "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/christoph-knaut",
+    "id": 280775,
+    "firstName": "Christoph",
+    "lastName": "Knaut",
+    "position": "Head of E-Commerce",
+    "companyName": "MVG Mathé-Schmierstofftechnik GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/kosove-arifaj-mba-8350a8204",
+    "id": 280774,
+    "firstName": "Kosove",
+    "lastName": "Arifaj",
+    "position": "Homeface GmbH",
+    "companyName": "Homeface GmbH"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/jacek-matlakiewicz-96a74124",
+    "id": 280772,
+    "firstName": "Jacek",
+    "lastName": "Matlakiewicz",
+    "position": "CEO",
+    "companyName": "La Rosa Profesionales Sp. z o. o."
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/m-muaz-unes-25764963",
+    "id": 280771,
+    "firstName": "Muaz",
+    "lastName": "Ünes",
+    "position": "Manager",
+    "companyName": "Inoverse GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/pouyansalehi1",
+    "id": 280769,
+    "firstName": "Pouyan",
+    "lastName": "Salehi",
+    "position": "Senior IT and Data Manager",
+    "companyName": "F&P Stock Solutions"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/filip-sakowski-356aba236",
+    "id": 280768,
+    "firstName": "Filip",
+    "lastName": "Sakowski",
+    "position": "Marketplace Manager",
+    "companyName": "blue shadow"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/nurdeniz-özbek-aaa29525a",
+    "id": 280767,
+    "firstName": "Nurdeniz",
+    "lastName": "Okay",
+    "position": "Geschäftsführerin",
+    "companyName": "resoulute"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/maria-komissarova-71397a91",
+    "id": 280766,
+    "firstName": "Maria",
+    "lastName": "Komissarova",
+    "position": "KEEN EUROPE OUTDOOR B.V.",
+    "companyName": "KEEN EUROPE OUTDOOR B.V."
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/tobias-nawo-621a1397",
+    "id": 280765,
+    "firstName": "Tobias",
+    "lastName": "Nawo",
+    "position": "Projektmanager",
+    "companyName": "STEIN HGS GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/daniel-fricke-290308246",
+    "id": 280764,
+    "firstName": "Andreas",
+    "lastName": "Fricke",
+    "position": "E-Commerce Manager",
+    "companyName": "Fitzner GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/denizgokce",
+    "id": 280763,
+    "firstName": "Deniz",
+    "lastName": "Gokce",
+    "position": "Senior Software Engineer",
+    "companyName": "Flaconi GmbH"
+  },
+  {
+    "linkedinAccount": "https://pt.linkedin.com/in/tatianadsmaia",
+    "id": 280762,
+    "firstName": "Tatiana",
+    "lastName": "Maia",
+    "position": "Cybersecurity Advisor",
+    "companyName": "Ethiack"
+  },
+  {
+    "linkedinAccount": "https://at.linkedin.com/in/daniel-malaffa-15b24111a",
+    "id": 280761,
+    "firstName": "Daniel",
+    "lastName": "Malaffa",
+    "position": "Key-Account-Manager",
+    "companyName": "C. Kreul GmbH & Co KG"
+  },
+  {
+    "id": 280760,
+    "firstName": "Aleksander",
+    "lastName": "Filipowicz",
+    "position": "Manager",
+    "companyName": "„BRAWO” SP. Z O.O."
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jerome-weber-87148014b",
+    "id": 280759,
+    "firstName": "Jérôme",
+    "lastName": "Weber",
+    "position": "Product Owner Commerce Solutions",
+    "companyName": "bike-components"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/torsten-laube-4782141/en",
+    "id": 280758,
+    "firstName": "Torsten",
+    "lastName": "Laube",
+    "position": "Head of ecommerce IT",
+    "companyName": "Gärtner Pötschke GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/marie-nägler-504079110",
+    "id": 280757,
+    "firstName": "Marie",
+    "lastName": "Nägler",
+    "position": "Senior Consumer Insights Manager",
+    "companyName": "Zwilling"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/mehrashojjat",
+    "id": 280754,
+    "firstName": "Mehras",
+    "lastName": "Hojjat",
+    "position": "Founder",
+    "companyName": "rovi.so"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/andreas-ott-947a67190",
+    "id": 280751,
+    "firstName": "Andreas ",
+    "lastName": "Ott",
+    "position": "CEO",
+    "companyName": "LOULEX GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jan-ralf-siebels",
+    "id": 280750,
+    "firstName": "Jan",
+    "lastName": "Siebels",
+    "position": "CSM",
+    "companyName": "aklamio GmbH"
+  },
+  {
+    "linkedinAccount": "https://at.linkedin.com/in/christakie",
+    "id": 280749,
+    "firstName": "Christa",
+    "lastName": "Kietaibl",
+    "position": "Landingpage Specialist",
+    "companyName": "Christa Kietaibl"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/markus-widera-ba78b822a",
+    "id": 280748,
+    "firstName": "Markus",
+    "lastName": "Widera",
+    "position": "Hees Bürowelt GmbH",
+    "companyName": "Hees Bürowelt GmbH"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/berent3010",
+    "id": 280747,
+    "firstName": "Anna",
+    "lastName": "Berent",
+    "position": "CEO ",
+    "companyName": "SALE4YOU "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/aliegunay",
+    "id": 280744,
+    "firstName": "Ali",
+    "lastName": "Günay",
+    "position": "CEO",
+    "companyName": "Hohen Ventures"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/taimurajmal",
+    "id": 280743,
+    "firstName": "Taimur",
+    "lastName": "Ajmal",
+    "position": "Engineering Manager",
+    "companyName": "On"
+  },
+  {
+    "id": 280742,
+    "firstName": "Seraj",
+    "lastName": "Din",
+    "position": "Manager ",
+    "companyName": "TaggedV LTD "
+  },
+  {
+    "id": 280741,
+    "firstName": "Tej",
+    "lastName": "nepali",
+    "position": "CEO",
+    "companyName": "Restaurant Hub BV"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/jasperblok",
+    "id": 280738,
+    "firstName": "Jasper",
+    "lastName": "Blok",
+    "position": "Ceo",
+    "companyName": "Bazr Shopping Network BV"
+  },
+  {
+    "id": 280737,
+    "firstName": "Aabha",
+    "lastName": "Poddar",
+    "position": "SEO Manager",
+    "companyName": "Santosh Textile"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/margot-dobrska-8182739",
+    "id": 280736,
+    "firstName": "Margot",
+    "lastName": "DOBRSKA",
+    "position": "Founder – Brand & Business Development",
+    "companyName": "Rituelly"
+  },
+  {
+    "id": 280735,
+    "firstName": "Julian",
+    "lastName": "Griffin",
+    "position": "COO",
+    "companyName": "Nays GmbH"
+  },
+  {
+    "id": 280734,
+    "firstName": "Anja",
+    "lastName": "Gerding",
+    "position": "KIND DER STADT Hamburg e.K.",
+    "companyName": "KIND DER STADT Hamburg e.K."
+  },
+  {
+    "id": 280733,
+    "firstName": "Helge",
+    "lastName": "Nagel",
+    "position": "Inhaber",
+    "companyName": "Elbkrämer"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jutta-teschner-1556831a",
+    "id": 280732,
+    "firstName": "Jutta",
+    "lastName": "Teschner ",
+    "position": "CEO",
+    "companyName": "fishbelly"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/junaidamjad047/ar",
+    "id": 280731,
+    "firstName": "JUNAID",
+    "lastName": "AMJAD",
+    "position": "Head of Marketing",
+    "companyName": "Kompac IT Solutions LLC"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/robert-tessmer-22b61020b",
+    "id": 280730,
+    "firstName": "Robert",
+    "lastName": "Tessmer",
+    "position": "Head of Sales",
+    "companyName": "24tainer.com // SFTT Handel GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/gizemkaracay",
+    "id": 280729,
+    "firstName": "Gizem",
+    "lastName": "Karacay",
+    "position": "marketing consultant ",
+    "companyName": "DCMN"
+  },
+  {
+    "linkedinAccount": "https://at.linkedin.com/in/reinhardkonrad",
+    "id": 280728,
+    "firstName": "Reinhard",
+    "lastName": "Konrad",
+    "position": "Geschäftsführer",
+    "companyName": "R. Konrad GmbH"
+  },
+  {
+    "id": 280727,
+    "firstName": "Holger",
+    "lastName": "Jahns",
+    "position": "Hacke & Spitze",
+    "companyName": "Hacke & Spitze"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/yinan-w-a2b86649",
+    "id": 280726,
+    "firstName": "Yinan",
+    "lastName": "Wang",
+    "position": "Operation Manager",
+    "companyName": "Wen2Win GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jensdembski",
+    "id": 280725,
+    "firstName": "Jens",
+    "lastName": "Dembski",
+    "position": "CPO",
+    "companyName": "asgoodasnew.de"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/irma-kacharava-7b1b741dfaaaf28",
+    "id": 280724,
+    "firstName": "Irma",
+    "lastName": "Kacharava",
+    "position": "International PR and Media ",
+    "companyName": "PRMedia4you"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/luisa-beckemeyer-0005b012b",
+    "id": 280723,
+    "firstName": "Luisa",
+    "lastName": "Beckemeyer",
+    "position": "Digital Marketing Specialist DACH",
+    "companyName": "Hill's Pet Nutrition GmbH (Colgate-Palmolive)"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/luisa-beckemeyer-0005b012b",
+    "id": 280722,
+    "firstName": "Luisa",
+    "lastName": "Beckemeyer",
+    "position": "Digital Marketing Specialist DACH",
+    "companyName": "Hill's Pet Nutrition GmbH (Colgate-Palmolive)"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/hannesglaeser",
+    "id": 280721,
+    "firstName": "Hannes",
+    "lastName": "Gläser",
+    "position": "Head of Digital, CX & Data Analytics",
+    "companyName": "RB Leipzig"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/marcel-toben",
+    "id": 280720,
+    "firstName": "Marcel",
+    "lastName": "Toben",
+    "position": "Head of Economics & Experimentation",
+    "companyName": "Zalando"
+  },
+  {
+    "linkedinAccount": "https://cz.linkedin.com/in/lukasflaishans",
+    "id": 280718,
+    "firstName": "Lukas",
+    "lastName": "Flaishans",
+    "position": "Co-Founder",
+    "companyName": "FlashEdge"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/mirjam-hlastan",
+    "id": 280717,
+    "firstName": "Mirjam",
+    "lastName": "Hlastan",
+    "position": "FOUNDER",
+    "companyName": "MIRJAMHLASTAN DOT COM"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/kien-keung-chan-17806297",
+    "id": 280716,
+    "firstName": "Kien Keung",
+    "lastName": "Chan",
+    "position": "Media Sales Developer",
+    "companyName": "Atolls Germany GmbH"
+  },
+  {
+    "id": 280715,
+    "firstName": "Jörg",
+    "lastName": "Kanz",
+    "position": "Head of Datamanagement & Marketplaces",
+    "companyName": "alca mobil logistics + services gmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/alexandra-freutel-8b80ab2a0",
+    "id": 280714,
+    "firstName": "Alexandra",
+    "lastName": "Freutel",
+    "position": "Head of E-Commerce",
+    "companyName": "alca mobil logistics + services gmbH"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/pierre-bilongo-735aa440",
+    "id": 280712,
+    "firstName": "Pierre",
+    "lastName": "Bilongo",
+    "position": "Owner",
+    "companyName": "Bilomax"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/alessandromambrini",
+    "id": 280711,
+    "firstName": "Alessandro",
+    "lastName": "Mambrini",
+    "position": "Shift Management GmbH",
+    "companyName": "Shift Management GmbH"
+  },
+  {
+    "id": 280710,
+    "firstName": "Yoram",
+    "lastName": "Lippold",
+    "position": "Performance Marketing Manager",
+    "companyName": "Modulor GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/ting-cheng",
+    "id": 280709,
+    "firstName": "Ting",
+    "lastName": "Cheng",
+    "position": "Marketing Manager",
+    "companyName": "momogo"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/christoph-appelkamp",
+    "id": 280705,
+    "firstName": "Christoph",
+    "lastName": "Appelkamp",
+    "position": "Geschäftsführer",
+    "companyName": "Sattler E-Commerce Management GmbH"
+  },
+  {
+    "linkedinAccount": "https://cz.linkedin.com/in/petrovskiivan",
+    "id": 280703,
+    "firstName": "Ivan",
+    "lastName": "Petrovski",
+    "position": "Partner Manager",
+    "companyName": "Elavon "
+  },
+  {
+    "id": 280702,
+    "firstName": "Felix",
+    "lastName": "Esterl",
+    "position": "RAAAD.de Bikeshop GmbH",
+    "companyName": "RAAAD.de Bikeshop GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/juliaschoenegger",
+    "id": 280701,
+    "firstName": "Julia",
+    "lastName": "Schoenegger",
+    "position": "SEO Team Lead",
+    "companyName": "Canyon"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/michelle-alles-ba068b235",
+    "id": 280700,
+    "firstName": "Michelle",
+    "lastName": "Alles",
+    "position": "Junior E-Commerce Managerin",
+    "companyName": "travelite GmbH + Co. KG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/mariabettinapreysler",
+    "id": 280699,
+    "firstName": "Maria Bettina",
+    "lastName": "Preysler",
+    "position": "Media Activation Manager",
+    "companyName": "Zalando"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/matthew-vincett-00440923",
+    "id": 280697,
+    "firstName": "Matthew ",
+    "lastName": "Vincett",
+    "position": "Ecommerce Leiter",
+    "companyName": "cdvet Natürprodukte GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/andreas-beschorner-8a0009200",
+    "id": 280696,
+    "firstName": "Andreas",
+    "lastName": "Beschorner",
+    "position": "CEO",
+    "companyName": "KRETA natürlich"
+  },
+  {
+    "id": 280695,
+    "firstName": "Sebastian",
+    "lastName": "Kluwe",
+    "position": "Department Manager",
+    "companyName": "AMF creation GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/yarkho",
+    "id": 280694,
+    "firstName": "Artem",
+    "lastName": "Yarkho",
+    "position": "Head of Marketing",
+    "companyName": "Teltec AG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/marek-kalisch-1887827a",
+    "id": 280693,
+    "firstName": "Marek",
+    "lastName": "Kalisch",
+    "position": "E-Commerce Manager",
+    "companyName": "travelite GmbH + Co. KG"
+  },
+  {
+    "id": 280692,
+    "firstName": "Heike",
+    "lastName": "Neu",
+    "position": "VP AM ",
+    "companyName": "Qwist"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/thomas-weber-b73694289",
+    "id": 280691,
+    "firstName": "Thomas",
+    "lastName": "Weber",
+    "position": "CEO",
+    "companyName": "HJH Office GmbH"
+  },
+  {
+    "id": 280690,
+    "firstName": "Hendrik",
+    "lastName": "Kloppenburg",
+    "position": "Online Marketing Manager",
+    "companyName": "travelite GmbH + Co. KG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/ousmane-ouane/en",
+    "id": 280688,
+    "firstName": "Ousmane",
+    "lastName": "Ouane",
+    "position": "VP of Product & Business Development",
+    "companyName": "Sportstech Brands Holding GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/wbkschulze",
+    "id": 280687,
+    "firstName": "Wiebke",
+    "lastName": "Schulze",
+    "position": "Auszubildende",
+    "companyName": "Helo24 GmbH & Co. KG"
+  },
+  {
+    "id": 280686,
+    "firstName": "Adam",
+    "lastName": "Leis",
+    "position": "Technical Manager",
+    "companyName": "NAKA24 GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/thomas-bietke-a94a67230",
+    "id": 280685,
+    "firstName": "Thomas",
+    "lastName": "Bietke",
+    "position": "Technischer Leiter",
+    "companyName": "DENTTABS"
+  },
+  {
+    "id": 280684,
+    "firstName": "Karolina",
+    "lastName": "Leis",
+    "position": "CEO",
+    "companyName": "NAKA24 GmbH"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/swiniecki",
+    "id": 280683,
+    "firstName": "Slawek ",
+    "lastName": "Winiecki",
+    "position": "Business Development Manager",
+    "companyName": "NAKA24 GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/andré-stark-79472492/en",
+    "id": 280682,
+    "firstName": "Andre",
+    "lastName": "Stark",
+    "position": "Inhaber",
+    "companyName": "Stark Products GmbH"
+  },
+  {
+    "id": 280680,
+    "firstName": "Thomas",
+    "lastName": "Storvestre",
+    "position": "CEO",
+    "companyName": "Global Pharma Group AS"
+  },
+  {
+    "linkedinAccount": "https://no.linkedin.com/in/andreasmeyer92",
+    "id": 280678,
+    "firstName": "Andreas",
+    "lastName": "Meyer",
+    "position": "Operations Leader",
+    "companyName": "Pharma Norge AS"
+  },
+  {
+    "id": 280676,
+    "firstName": "Diego",
+    "lastName": "Albornoz",
+    "position": "COO",
+    "companyName": "DECORAMI GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/gil-maria-leichtle-7368176",
+    "id": 280675,
+    "firstName": "Gil Maria",
+    "lastName": "Leichtle",
+    "position": "CEO",
+    "companyName": "WELLMENT"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/adrian-lutzinski-95830741",
+    "id": 280674,
+    "firstName": "Adrian ",
+    "lastName": "Lutzinski ",
+    "position": "Head of E-Commerce",
+    "companyName": "Dolezych GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/marcel-wrobel",
+    "id": 280673,
+    "firstName": "Marcel",
+    "lastName": "Wrobel",
+    "position": "E-Commerce Manager",
+    "companyName": "Burg Lüling GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/daniel-kordjak-468765113",
+    "id": 280672,
+    "firstName": "Daniel",
+    "lastName": "Kordjak",
+    "position": "BRAWO SP. Z O.O.",
+    "companyName": "BRAWO SP. Z O.O."
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/yan-jin-55a3a8aa",
+    "id": 280671,
+    "firstName": "Yan",
+    "lastName": "Jin",
+    "position": "Head of EU Cross Border Media Sales",
+    "companyName": "Amazon Online Service GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/dhavalushah",
+    "id": 280670,
+    "firstName": "Dhaval",
+    "lastName": "Shah",
+    "position": "Engineering",
+    "companyName": "Zalando SE"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/adrienserres",
+    "id": 280669,
+    "firstName": "Adrien",
+    "lastName": "Serres",
+    "position": "Country Manager Germany",
+    "companyName": "Recommerce Solutions GMBH"
+  },
+  {
+    "id": 280668,
+    "firstName": "Thorsten",
+    "lastName": "Lorenzen",
+    "position": "Florida-Eis Manufaktur GmbH",
+    "companyName": "Florida-Eis Manufaktur GmbH"
+  },
+  {
+    "id": 280667,
+    "firstName": "Robert",
+    "lastName": "Dornheim",
+    "position": "CEO",
+    "companyName": "Norwegian Health AS"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jonas-freitag-a6b8aa226",
+    "id": 280666,
+    "firstName": "Jonas ",
+    "lastName": "Freitag",
+    "position": "Produktmanager, Einkäufen, Kundendienstleitung",
+    "companyName": "A+T Handelsgesellschaft / House Attack"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/benedikt-bücker-504146240",
+    "id": 280665,
+    "firstName": "Benedikt",
+    "lastName": "Bücker",
+    "position": "Junior Business Developer",
+    "companyName": "Atolls"
+  },
+  {
+    "id": 280664,
+    "firstName": "Ackeem",
+    "lastName": "Ngwenya",
+    "position": "CEO",
+    "companyName": "REFRAMD "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/ali-ulvi-haliloglu-7973381b2",
+    "id": 280663,
+    "firstName": "Ali",
+    "lastName": "Haliloglu",
+    "position": "Geschäfstführer",
+    "companyName": "Commerline GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/dr-andreas-butz-99b39293",
+    "id": 280662,
+    "firstName": "Andreas",
+    "lastName": "Butz",
+    "position": "Director",
+    "companyName": "Confectionair GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/pranjali-apurva",
+    "id": 280661,
+    "firstName": "Pranjali",
+    "lastName": "Apurva",
+    "position": "Lead Process Excellence",
+    "companyName": "Zalando SE"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/camilamirandameza",
+    "id": 280660,
+    "firstName": "Camila",
+    "lastName": "Miranda Meza",
+    "position": "Managing Director ",
+    "companyName": "Quintaesencia GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/joerg-abrolat-5a12411",
+    "id": 280659,
+    "firstName": "Jörg",
+    "lastName": "Abrolat",
+    "position": "Working Student Event & Marketing",
+    "companyName": "Solaris SE"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/eileen-reichert-2303631a9",
+    "id": 280658,
+    "firstName": "Eileen",
+    "lastName": "Reichert",
+    "position": "Events Manager - Germany",
+    "companyName": "Qonto"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/tina-muennich-03806a11b",
+    "id": 280657,
+    "firstName": "Tina",
+    "lastName": "Muennich",
+    "position": "Strategic Projectmanagement",
+    "companyName": "1. FC Union Berlin"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/malteguetzlaff",
+    "id": 280656,
+    "firstName": "Malte",
+    "lastName": "Gützlaff",
+    "position": "Head of E-Com | Sales",
+    "companyName": "1.FC Union Berlin e.V."
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/lisa-höger-788547156",
+    "id": 280655,
+    "firstName": "Lisa",
+    "lastName": "Höger",
+    "position": "Manager Content Optimisation team",
+    "companyName": "Lounge by Zalando"
+  },
+  {
+    "id": 280654,
+    "firstName": "André Dirk",
+    "lastName": "Gardeja",
+    "position": "Freizeitglauben Berlin Records CEO",
+    "companyName": "Freizeitglauben Berlin Records"
+  },
+  {
+    "id": 280653,
+    "firstName": "Thomas",
+    "lastName": "Pioch",
+    "position": "CEO",
+    "companyName": "Giseke GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/johannes-albert-entfalte-deinen-laden",
+    "id": 280651,
+    "firstName": "Johannes",
+    "lastName": "Albert",
+    "position": "Founder / CEO",
+    "companyName": "99 Bonbons GmbH / Entfalte deinen Laden "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/soenkeiwers",
+    "id": 280650,
+    "firstName": "Sønke",
+    "lastName": "Iwers",
+    "position": "Lead Commerce Shop",
+    "companyName": "SPIEGEL Verlag"
+  },
+  {
+    "linkedinAccount": "https://ua.linkedin.com/in/alex-periel",
+    "id": 280648,
+    "firstName": "Alex",
+    "lastName": "Periel",
+    "position": "CBDO",
+    "companyName": "SysGears"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/hitzhuber/de",
+    "id": 280647,
+    "firstName": "Heiko",
+    "lastName": "Hitzhuber",
+    "position": "Account Manager",
+    "companyName": "Caljan GmbH"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/mkoekoek",
+    "id": 280646,
+    "firstName": "Maurits",
+    "lastName": "Koekoek",
+    "position": "CTO - Founder",
+    "companyName": "270 Degrees"
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/ibrahim-eltahhan1",
+    "id": 280645,
+    "firstName": "Ibrahim",
+    "lastName": "Eltahhan",
+    "position": "Logistics assistant manager ",
+    "companyName": "Noon.com"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/stephanie-helguero-delboy",
+    "id": 280642,
+    "firstName": "Stephanie",
+    "lastName": "Helguero",
+    "position": "Swiss Krono Deutschland",
+    "companyName": "Swiss Krono Deutschland"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/carsten-sievers-07148383",
+    "id": 280641,
+    "firstName": "Carsten",
+    "lastName": "Sievers",
+    "position": "IT Administration / Ecommerce Manager",
+    "companyName": "Woli GmbH"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/weronika-boniec-bb2432108",
+    "id": 280639,
+    "firstName": "Weronika",
+    "lastName": "Boniec",
+    "position": "PPG Industries",
+    "companyName": "PPG Industries"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sabrina-fuchs-41a7aa241",
+    "id": 280636,
+    "firstName": "Sabrina",
+    "lastName": "Fuchs",
+    "position": "Key Account Manager International",
+    "companyName": "SWISS KRONO TEX GmbH & Co.KG"
+  },
+  {
+    "id": 280635,
+    "firstName": "Sid",
+    "lastName": "Paulus",
+    "position": "Performance Marketeer",
+    "companyName": "Atelier Rebul"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/filinta-kıvılcım-sevimli-2861261b",
+    "id": 280634,
+    "firstName": "Filinta Kıvılcım",
+    "lastName": "Sevimli",
+    "position": "Deputy CEO",
+    "companyName": "Pazarama"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/mutlu-ataol-yeşil-68381352",
+    "id": 280633,
+    "firstName": "Mutlu Ataol",
+    "lastName": "Yeşil",
+    "position": "Director of Strategy and Corporate Performance",
+    "companyName": "Pazarama"
+  },
+  {
+    "linkedinAccount": "https://pk.linkedin.com/in/muhammad-ahmad-9ba618282",
+    "id": 280629,
+    "firstName": "Muhammad",
+    "lastName": "Ahmad",
+    "position": "Director",
+    "companyName": "A&S Dynamics Ltd"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/mariamanifowose",
+    "id": 280624,
+    "firstName": "Mariam",
+    "lastName": "Anifowose",
+    "position": "Director ",
+    "companyName": "Agrosphere Ecospace Limited "
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/juan-carlos-goilo-96874ba",
+    "id": 280623,
+    "firstName": "Johnathan",
+    "lastName": "Goilo",
+    "position": "Owner",
+    "companyName": "Altijd Afgeprijsd"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/sergii-golovko-30801ba8",
+    "id": 280610,
+    "firstName": "Sergii",
+    "lastName": "Golovko",
+    "position": "CEO",
+    "companyName": "Optio Cycle GmbH"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/mukaddas-afzal",
+    "id": 280609,
+    "firstName": "Mukaddas",
+    "lastName": "Afzal",
+    "position": "Manager",
+    "companyName": "Umia Trade Ltd"
+  },
+  {
+    "linkedinAccount": "https://cz.linkedin.com/in/adammaryniok",
+    "id": 280608,
+    "firstName": "Adam",
+    "lastName": "Maryniok",
+    "position": "CFO, Member of the Board",
+    "companyName": "FAVI"
+  },
+  {
+    "linkedinAccount": "https://sd.linkedin.com/in/ghadanfar-elidressi-31524296",
+    "id": 280607,
+    "firstName": "ghadanfar",
+    "lastName": "elidressi",
+    "position": "owner",
+    "companyName": "efaf"
+  },
+  {
+    "linkedinAccount": "https://cz.linkedin.com/in/vondracek",
+    "id": 280606,
+    "firstName": "Daniel",
+    "lastName": "Vondracek",
+    "position": "ecommerce consultant",
+    "companyName": "PearControl"
+  },
+  {
+    "id": 280603,
+    "firstName": "Christoph",
+    "lastName": "Körner",
+    "position": "Geschäftsführer",
+    "companyName": "Infinitum Energie GmbH"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/karolina-broniarz",
+    "id": 280599,
+    "firstName": "Karolina",
+    "lastName": "Michalak",
+    "position": "coo",
+    "companyName": "ecwe"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/torsten-dall-157b94",
+    "id": 280592,
+    "firstName": "Torsten",
+    "lastName": "Dall",
+    "position": "Head of Ecommerce",
+    "companyName": "kela"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/cristina-martens-33253111",
+    "id": 280577,
+    "firstName": "Cristina",
+    "lastName": "Martens",
+    "position": "Expert Online Acquisition",
+    "companyName": "PAYBACK GmbH"
+  },
+  {
+    "id": 280576,
+    "firstName": "Nghia",
+    "lastName": "Tran",
+    "position": "Onlineshop Management",
+    "companyName": "Berliner Kaffeerösterei Giest & Compagnon Produktions & Vertriebs GmbH"
+  },
+  {
+    "id": 280575,
+    "firstName": "René",
+    "lastName": "Staffeldt",
+    "position": "E-Commerce & Onlineshop Management",
+    "companyName": "Berliner Kaffeerösterei Giest & Compagnon Produktions & Vertriebs GmbH"
+  },
+  {
+    "id": 280572,
+    "firstName": "Andreas",
+    "lastName": "Giest",
+    "position": "Geschäftsführer",
+    "companyName": "Berliner Kaffeerösterei Giest & Compagnon Produktions & Vertriebs GmbH"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/neilson-hall-a1a9377b",
+    "id": 280559,
+    "firstName": "Neilson",
+    "lastName": "Hall",
+    "position": "CEO",
+    "companyName": "eCommerce Leader | Retail Media Expert"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/manuel-fuss",
+    "id": 280556,
+    "firstName": "Manuel",
+    "lastName": "Fuß",
+    "position": "Head of AI",
+    "companyName": "RSLT.DIGITAL"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/nazar-lnoks",
+    "id": 280555,
+    "firstName": "Nazar",
+    "lastName": "Mysholivskyi",
+    "position": "Founder & CEO",
+    "companyName": "LNOKS"
+  },
+  {
+    "id": 280549,
+    "firstName": "Thorben",
+    "lastName": "Walter",
+    "position": "CEO",
+    "companyName": "Netwark GmbH"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/joanna-brużewicz-6b1a28194",
+    "id": 280548,
+    "firstName": "Joanna",
+    "lastName": "Hanusewicz",
+    "position": "Product Owner",
+    "companyName": "BAT (British American Tobacco)"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/berkay-yüzgülec",
+    "id": 280545,
+    "firstName": "Berkay",
+    "lastName": "Yüzgülec",
+    "position": "Senior Enterprise Sales Executive",
+    "companyName": "MANGOPAY S.A."
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/brunner-max",
+    "id": 280542,
+    "firstName": "Max",
+    "lastName": "Brunner",
+    "position": "Enterprise Sales Executive",
+    "companyName": "Mangopay"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/mirjaschwartz",
+    "id": 280541,
+    "firstName": "Mirja",
+    "lastName": "Schwartz",
+    "position": "Head of Business Development",
+    "companyName": "showz.ai"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/lennart-von-schlichting",
+    "id": 280537,
+    "firstName": "Lennart",
+    "lastName": "von Schlichting",
+    "position": "Head of Sales - CEE",
+    "companyName": "Mangopay"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/ralf-kuberg-berlin",
+    "id": 280530,
+    "firstName": "Ralf",
+    "lastName": "Kuberg",
+    "position": "E-Com Logistics Advisor",
+    "companyName": "QuestCon e.k."
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/fynn-hülsiggensen-720348186",
+    "id": 280529,
+    "firstName": "Fynn",
+    "lastName": "Hülsiggensen",
+    "position": "Marketing Expert eCommerce",
+    "companyName": "Sartorius AG"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/natalia-nowak-1909b813b",
+    "id": 280527,
+    "firstName": "Natalia",
+    "lastName": "Nowak",
+    "position": "UX & CRO Executive",
+    "companyName": "BAT"
+  },
+  {
+    "id": 280523,
+    "firstName": "Bahadir ",
+    "lastName": "Birkan",
+    "position": "Founder ",
+    "companyName": "Edikidz"
+  },
+  {
+    "id": 280520,
+    "firstName": "Arthur",
+    "lastName": "Vott",
+    "position": "Sales Director",
+    "companyName": "Mangopay"
+  },
+  {
+    "id": 280513,
+    "firstName": "Philip",
+    "lastName": "Olbrich",
+    "position": "Co-CEO",
+    "companyName": "werbeherz UG (haftungsbeschränkt)"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/nadinesanchez",
+    "id": 280512,
+    "firstName": "Nadine",
+    "lastName": "Sanchez",
+    "position": "Buying Team Lead",
+    "companyName": "Zalando"
+  },
+  {
+    "id": 280511,
+    "firstName": "Gnaneswaran ",
+    "lastName": "Kajanan",
+    "position": "Director",
+    "companyName": "Anuka Holding Pvt Ltd"
+  },
+  {
+    "id": 280506,
+    "firstName": "Max",
+    "lastName": "Riis Christensen",
+    "position": "CEO",
+    "companyName": "MakesYouLocal GmbH"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/joshua-adams-510970136",
+    "id": 280501,
+    "firstName": "Joshua",
+    "lastName": "Adams",
+    "position": "Ecommerce Manager",
+    "companyName": "Tetrosyl Group"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/dimitri-archatow-59935541",
+    "id": 280488,
+    "firstName": "Dimitri",
+    "lastName": "Archatow",
+    "position": "CEO",
+    "companyName": "Green Banana Group GmbH"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/oliver-p-463a7770",
+    "id": 280487,
+    "firstName": "Oliver",
+    "lastName": "P…….",
+    "position": "CEO",
+    "companyName": "N.N."
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/gabriel-käsmayr-b244641b0",
+    "id": 280486,
+    "firstName": "Gabriel",
+    "lastName": "Käsmayr",
+    "position": "CMO",
+    "companyName": "heizung-billiger.de"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/raphaeldehne",
+    "id": 280481,
+    "firstName": "Raphael",
+    "lastName": "Dehne",
+    "position": "Head of Online D2C",
+    "companyName": "medisana GmbH"
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/briceherve-kaliboyeni-a34136160",
+    "id": 280480,
+    "firstName": "Brice Hervé",
+    "lastName": "Kaliboyeni",
+    "position": "CEO ",
+    "companyName": "Kbluxuryconciergerie "
+  },
+  {
+    "linkedinAccount": "https://it.linkedin.com/in/marco-bertona-12808b91",
+    "id": 280467,
+    "firstName": "Marco",
+    "lastName": "Bertona",
+    "position": "Head Of Growth",
+    "companyName": "xpate "
+  },
+  {
+    "linkedinAccount": "https://fr.linkedin.com/in/dguizado",
+    "id": 280465,
+    "firstName": "Daniel",
+    "lastName": "Guizado",
+    "position": "International Sales Manager",
+    "companyName": "ElasticSuite / Smile"
+  },
+  {
+    "id": 280462,
+    "firstName": "Frantisek",
+    "lastName": "Novotny",
+    "position": "UX manager",
+    "companyName": "British American Tobacco"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/pawel-ajdamach-03aa7135",
+    "id": 280460,
+    "firstName": "Paweł",
+    "lastName": "Pędzich",
+    "position": "eCommerce Executive",
+    "companyName": "British American Tobacco Polska"
+  },
+  {
+    "id": 280456,
+    "firstName": "Julius",
+    "lastName": "Krüger",
+    "position": "CRM Manager",
+    "companyName": "kfzteile24 GmbH"
+  },
+  {
+    "id": 280446,
+    "firstName": "Tino",
+    "lastName": "Henn",
+    "position": "CEO",
+    "companyName": "Cool Stuff Trading GmbH"
+  },
+  {
+    "linkedinAccount": "https://cz.linkedin.com/in/mario-kováč-237a26119",
+    "id": 280442,
+    "firstName": "Mario",
+    "lastName": "Kovac",
+    "position": "UX Executive",
+    "companyName": "BAT"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/weronika-matusiak-2b78a817b",
+    "id": 280439,
+    "firstName": "Weronika",
+    "lastName": "Matusiak",
+    "position": "E-commerce Product Owner",
+    "companyName": "BAT"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/nickretzmann",
+    "id": 280438,
+    "firstName": "Nick",
+    "lastName": "Retzmann",
+    "position": "Chief Growth and Product Officer",
+    "companyName": "vaibe"
+  },
+  {
+    "id": 280432,
+    "firstName": "Maciej",
+    "lastName": "Nawrot",
+    "position": "Area eCommerce Marketing Technology Platform Manager",
+    "companyName": "British American Tobacco Polska Trading Sp. z o.o."
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/andreas-schrobback",
+    "id": 280430,
+    "firstName": "Andreas",
+    "lastName": "Schrobback",
+    "position": "CEO",
+    "companyName": "AS Unternehmensgruppe Holding GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/nina-spengler-b764b8115",
+    "id": 280429,
+    "firstName": "Nina",
+    "lastName": "Spengler",
+    "position": "Team lead Affiliate Marketing",
+    "companyName": "Springer Nature AG & Co. KGaA "
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/monika-kajko-937b3a40",
+    "id": 280423,
+    "firstName": "Monika",
+    "lastName": "Góralczyk",
+    "position": "eCommerce Business Solutions",
+    "companyName": "British American Tobacco"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/kalinamaka",
+    "id": 280422,
+    "firstName": "Kalina",
+    "lastName": "Maka",
+    "position": "E-commerce Growth Executive",
+    "companyName": "BAT"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/lenakukharets",
+    "id": 280421,
+    "firstName": "Lena",
+    "lastName": "Kukharets",
+    "position": "Head of DACH",
+    "companyName": "Vista"
+  },
+  {
+    "linkedinAccount": "https://lt.linkedin.com/in/rokas-katkevičius-51a4951a3",
+    "id": 280418,
+    "firstName": "Rokas",
+    "lastName": "Katkevičius",
+    "position": "Manager",
+    "companyName": "CleanFilter"
+  },
+  {
+    "linkedinAccount": "https://cz.linkedin.com/in/vmatrosov",
+    "id": 280415,
+    "firstName": "Vladislav",
+    "lastName": "Matrosov",
+    "position": "Co-Founder",
+    "companyName": "GETPROFIT"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/dv-singh-wazir-abb12011",
+    "id": 280413,
+    "firstName": "Dv Singh",
+    "lastName": "Wazir",
+    "position": "Director",
+    "companyName": "Buy 2 sell hub"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/hassan-mehmood-112664173",
+    "id": 280410,
+    "firstName": "Hassan",
+    "lastName": "Mehmood",
+    "position": "Director",
+    "companyName": "Carter Seven"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jan-fischer-991284113",
+    "id": 280403,
+    "firstName": "Jan",
+    "lastName": "Fischer",
+    "position": "Chief Business Development Officer",
+    "companyName": "Smartview360 GmbH"
+  },
+  {
+    "linkedinAccount": "https://bg.linkedin.com/in/chorbanov",
+    "id": 280402,
+    "firstName": "Stefan",
+    "lastName": "Chorbanov",
+    "position": "Human Being",
+    "companyName": "Stenik.bg"
+  },
+  {
+    "id": 280401,
+    "firstName": "Anick",
+    "lastName": "Allamyradov",
+    "position": "Procurement Specialist / Account Manager",
+    "companyName": "Freelance"
+  },
+  {
+    "id": 280400,
+    "firstName": "Nam",
+    "lastName": "Vo",
+    "position": "Head of IT",
+    "companyName": "Logbuch Verlag GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/ionutciobotaru",
+    "id": 280397,
+    "firstName": "Ionut",
+    "lastName": "Ciobotaru",
+    "position": "CEO",
+    "companyName": "HYPD AI"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/miroslav-gajic",
+    "id": 280396,
+    "firstName": "Miroslav ",
+    "lastName": "Gajic",
+    "position": "Ecommerce shop Manager",
+    "companyName": "Caseking"
+  },
+  {
+    "id": 280382,
+    "firstName": "Mathias ",
+    "lastName": "Thaeder ",
+    "position": "Accountant",
+    "companyName": "Buchexpress"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/victormere",
+    "id": 280379,
+    "firstName": "VICTOR ",
+    "lastName": "MERE",
+    "position": "Senior Director Global E-commerce",
+    "companyName": "Freudenberg"
+  },
+  {
+    "linkedinAccount": "https://md.linkedin.com/in/konovalovmm",
+    "id": 280378,
+    "firstName": "Max",
+    "lastName": "Konovalov",
+    "position": "CEO",
+    "companyName": "RocketSEO"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/pschroeter",
+    "id": 280371,
+    "firstName": "Philipp",
+    "lastName": "Schröter",
+    "position": "Team Lead Partner Management DACH",
+    "companyName": "belboon/Daisycon"
+  },
+  {
+    "linkedinAccount": "https://ca.linkedin.com/in/nicolotiu",
+    "id": 280370,
+    "firstName": "Nicolo",
+    "lastName": "Tiu",
+    "position": "Digital Marketing Lead",
+    "companyName": "Nioma"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/julius-van-der-westhuizen",
+    "id": 280369,
+    "firstName": "Julius",
+    "lastName": "Van Der Westhuizen",
+    "position": "Developer",
+    "companyName": "Nioma"
+  },
+  {
+    "linkedinAccount": "https://ca.linkedin.com/in/katebourque",
+    "id": 280364,
+    "firstName": "Kate",
+    "lastName": "Bourque",
+    "position": "CEO",
+    "companyName": "Nioma"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/thomas-goletz",
+    "id": 280360,
+    "firstName": "Thomas",
+    "lastName": "Goletz",
+    "position": "Ceo",
+    "companyName": "MGI AG"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/samantha-candy-9397086a",
+    "id": 280354,
+    "firstName": "Samantha",
+    "lastName": "Candy",
+    "position": "Manager, Final Mile Logistics (EU)",
+    "companyName": "AG1"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/luuktheunis/nl",
+    "id": 280352,
+    "firstName": "Luuk",
+    "lastName": "Theunis",
+    "position": "International Sales Manager",
+    "companyName": "VebaBox"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/yana-ziiodullaieva-460125320",
+    "id": 280346,
+    "firstName": "Yana",
+    "lastName": "Ziiodullaieva",
+    "position": "E-Commerce und Social Media Mitarbeiterin",
+    "companyName": "Algomed"
+  },
+  {
+    "id": 280341,
+    "firstName": "Jörg",
+    "lastName": "Oberdieck",
+    "position": "Global Partner & Account Manager",
+    "companyName": "SQLI Deutschland GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/yuko-t-betts-1a29309",
+    "id": 280338,
+    "firstName": "Yuko",
+    "lastName": "Tanaka-Betts",
+    "position": "Founder",
+    "companyName": "SENSEN AND SAVOUR"
+  },
+  {
+    "id": 280337,
+    "firstName": "Mariusz",
+    "lastName": "Poniatowski",
+    "position": "HBS Lab Sp. z o.o.",
+    "companyName": "HBS Lab Sp. z o.o."
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/paula1castro",
+    "id": 280330,
+    "firstName": "Paula",
+    "lastName": "Castro",
+    "position": "http://SwissKrono.com",
+    "companyName": "http://SwissKrono.com"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/heikokasper",
+    "id": 280327,
+    "firstName": "Heiko",
+    "lastName": "Kasper",
+    "position": "sales",
+    "companyName": "prettysocial media GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/pranavbihari",
+    "id": 280320,
+    "firstName": "Pranav",
+    "lastName": "Bihari",
+    "position": "Co-Founder",
+    "companyName": "Froyda eGbR"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/hahnmichaela/en",
+    "id": 280313,
+    "firstName": "Michaela ",
+    "lastName": "Hahn",
+    "position": "Teamlead Marketplace & Consignment",
+    "companyName": "Outletcity AG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/karina-messerman-662a2213",
+    "id": 280312,
+    "firstName": "Karina",
+    "lastName": "Messerman",
+    "position": "Senior Project Manager",
+    "companyName": "Karina Messerman"
+  },
+  {
+    "id": 280310,
+    "firstName": "Stefan",
+    "lastName": "Voss",
+    "position": "VP Growth, EU",
+    "companyName": "Front Row Group"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/patrick-nozinsky-43b028167",
+    "id": 280304,
+    "firstName": "Patrick",
+    "lastName": "Nozinsky",
+    "position": "E-Commerce Manager",
+    "companyName": "Actiforce Europe GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/siddhant-sharma-537142a1",
+    "id": 280300,
+    "firstName": "siddhant ",
+    "lastName": "sharma",
+    "position": "Senior Activation Manager ",
+    "companyName": "ZMS"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/tahataskinsoy",
+    "id": 280297,
+    "firstName": "Taha",
+    "lastName": "Taskinsoy",
+    "position": "Founder & CEO",
+    "companyName": "Circular Service GmbH"
+  },
+  {
+    "linkedinAccount": "https://tn.linkedin.com/in/amina-barketallah",
+    "id": 280284,
+    "firstName": "Amina",
+    "lastName": "Barketallah",
+    "position": "Founder",
+    "companyName": "Amina Barketallah"
+  },
+  {
+    "id": 280283,
+    "firstName": "Lola",
+    "lastName": "Ope",
+    "position": "Director ",
+    "companyName": "The doting carers "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/kerim-alkim-10542b386",
+    "id": 280281,
+    "firstName": "Kerim",
+    "lastName": "Alkim",
+    "position": "E-Commerce/Marketplace Manager ",
+    "companyName": "Augenblicke Hören und Sehen "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/theofilos-daniilidis-34b101286",
+    "id": 280280,
+    "firstName": "Theofilos",
+    "lastName": "Daniilidis",
+    "position": "CEO",
+    "companyName": "Daniilidis-Kepetzi GbR"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jannik-rußbült-b66a80369",
+    "id": 280273,
+    "firstName": "Jannik",
+    "lastName": "Rußbült",
+    "position": "CEO",
+    "companyName": "PJA-Ecommerce"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/tushar-jivani",
+    "id": 280269,
+    "firstName": "Tusharkumar ",
+    "lastName": "Jivani",
+    "position": "Sales rep",
+    "companyName": "MS crafts"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/bugrahantokuyucu",
+    "id": 280266,
+    "firstName": "Bugrahan",
+    "lastName": "Tokuyucu",
+    "position": "Managing Director",
+    "companyName": "Entysa Software Solutions UG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/eugen-funk-10974a18",
+    "id": 280265,
+    "firstName": "Eugen",
+    "lastName": "Funk",
+    "position": "Gf",
+    "companyName": "ProjektF"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/anurag-khetan-23823a2",
+    "id": 280264,
+    "firstName": "Anurag",
+    "lastName": "Khetan",
+    "position": "Geschäftsführer",
+    "companyName": "Ascent Origin"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/kiwumulo-george-405650160",
+    "id": 280260,
+    "firstName": "KIWUMULO",
+    "lastName": "GEORGE",
+    "position": "Geneva International Centre for Justice",
+    "companyName": "university of mannheim"
+  },
+  {
+    "linkedinAccount": "https://in.linkedin.com/in/karthick-chandrasekaran-20162a123",
+    "id": 280259,
+    "firstName": "Karthick",
+    "lastName": "Chandrasekaran",
+    "position": "Cofounder",
+    "companyName": "Ecobudh"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/shaun-brookes-6031a3237",
+    "id": 280257,
+    "firstName": "Shaun",
+    "lastName": "Brookes",
+    "position": "Owner ",
+    "companyName": "Brookes LTD"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sagiy",
+    "id": 280247,
+    "firstName": "Sagi",
+    "lastName": "Yaacoby",
+    "position": "Owner",
+    "companyName": "FamilyHero"
+  },
+  {
+    "linkedinAccount": "https://il.linkedin.com/in/zevper",
+    "id": 280246,
+    "firstName": "Zev",
+    "lastName": "Perlmutter",
+    "position": "Founder ",
+    "companyName": "VentureChina "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/diegomejiaz/es",
+    "id": 280242,
+    "firstName": "Diego",
+    "lastName": "Mejia",
+    "position": "Head of consumer marketing",
+    "companyName": "Chrono24"
+  },
+  {
+    "id": 280239,
+    "firstName": "Marcin",
+    "lastName": "Wójcik",
+    "position": "Marcin Wójcik",
+    "companyName": "TGC Marcin Wójcik"
+  },
+  {
+    "linkedinAccount": "https://lt.linkedin.com/in/paulius-setkus",
+    "id": 280237,
+    "firstName": "Paulius",
+    "lastName": "Setkus",
+    "position": "CEO",
+    "companyName": "LemonHook"
+  },
+  {
+    "id": 280236,
+    "firstName": "Fullbourg",
+    "lastName": "SARL",
+    "position": "FULLBOURG",
+    "companyName": "FULLBOURG"
+  },
+  {
+    "id": 280233,
+    "firstName": "Sheri Lyne",
+    "lastName": "Cortidor",
+    "position": "MBA Candidate, ex-Agoda Homes Manager (National Business Manager)",
+    "companyName": "University of Europe | Ex-Agoda (Booking Holdings)"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/volker-schmidt-491ba712",
+    "id": 280231,
+    "firstName": "Volker",
+    "lastName": "Schmidt",
+    "position": "CEO",
+    "companyName": "Content Container"
+  },
+  {
+    "id": 280228,
+    "firstName": "Menda",
+    "lastName": "Zymeri",
+    "position": "Program Manager",
+    "companyName": "Grok Kosova"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/vanessanavarro",
+    "id": 280221,
+    "firstName": "Vanessa",
+    "lastName": "Navarro",
+    "position": "Head of ECommerce",
+    "companyName": "Starcom Germany"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/marko-mojsilovic-08714653",
+    "id": 280220,
+    "firstName": "Marko",
+    "lastName": "Mojsilovic",
+    "position": "Chief of staff",
+    "companyName": "Rebuy"
+  },
+  {
+    "id": 280214,
+    "firstName": "Rafal",
+    "lastName": "Piotrowski",
+    "position": "Ausbilder",
+    "companyName": "ALBBW"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/kaushalkanodia",
+    "id": 280213,
+    "firstName": "KAUSHAL",
+    "lastName": "KANODIA",
+    "position": "Decathlon Deutschland SE & Co. KG",
+    "companyName": "Decathlon Deutschland SE & Co. KG"
+  },
+  {
+    "id": 280212,
+    "firstName": "Wolfgang",
+    "lastName": "Toepfer",
+    "position": "Inhaber",
+    "companyName": "marketing plus sales"
+  },
+  {
+    "id": 280209,
+    "firstName": "Bernd",
+    "lastName": "Botschen",
+    "position": "turncamp",
+    "companyName": "turncamp"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/georg-seibel-846486b8",
+    "id": 280208,
+    "firstName": "Georg",
+    "lastName": "Seibel",
+    "position": "Publisher Manager - Germany",
+    "companyName": "KWANKO"
+  },
+  {
+    "id": 280201,
+    "firstName": "Rada",
+    "lastName": "Shrempf",
+    "position": "Catering- und Eventmanagement",
+    "companyName": "Bans & Bans GbR"
+  },
+  {
+    "id": 280199,
+    "firstName": "Aaron",
+    "lastName": "Jantos",
+    "position": "E-Commerce",
+    "companyName": "Kienast"
+  },
+  {
+    "id": 280198,
+    "firstName": "Pannawat",
+    "lastName": "Vitchayapai",
+    "position": "Founder",
+    "companyName": "Astrorax"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/richard-meinsen",
+    "id": 280197,
+    "firstName": "richard",
+    "lastName": "meinsen",
+    "position": "dev",
+    "companyName": "meinsen.net"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/rafroszak",
+    "id": 280195,
+    "firstName": "Rafal",
+    "lastName": "Roszak",
+    "position": "managing partner",
+    "companyName": "YouNick Mint"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/anais-douron",
+    "id": 280194,
+    "firstName": "ANAIS",
+    "lastName": "DOURON",
+    "position": "Business Developer - Corporate Partnerships and Executive Education",
+    "companyName": "ICN Berlin Business School"
+  },
+  {
+    "id": 280193,
+    "firstName": "Jana",
+    "lastName": "Günther",
+    "position": "Head of Sales & Marketing",
+    "companyName": "Centa-Star Bettwaren GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/celestefabbris",
+    "id": 280188,
+    "firstName": "celeste",
+    "lastName": "fabbris",
+    "position": "CEO",
+    "companyName": "Celeste Fabbris"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/guilherme-spinardi",
+    "id": 280186,
+    "firstName": "Guilherme",
+    "lastName": "Spinardi",
+    "position": "Senior Marketplace Manager ",
+    "companyName": "s.Oliver"
+  },
+  {
+    "id": 280181,
+    "firstName": "Dominique",
+    "lastName": "Derix",
+    "position": "Senior Account Managerin ",
+    "companyName": "Leo Germany"
+  },
+  {
+    "id": 280179,
+    "firstName": "Adrian",
+    "lastName": "Pieron",
+    "position": "Global Director e-Commerce",
+    "companyName": "Springer Nature"
+  },
+  {
+    "linkedinAccount": "https://id.linkedin.com/in/ahmad-hassan-532880218",
+    "id": 280177,
+    "firstName": "ahmad",
+    "lastName": "hassan",
+    "position": "company director",
+    "companyName": "PT. Era Teknoindo Resources"
+  },
+  {
+    "linkedinAccount": "https://in.linkedin.com/in/quoraharshentrepreneur",
+    "id": 280173,
+    "firstName": "Harsh",
+    "lastName": "Patel",
+    "position": "Aspiring entrepreneur, need help",
+    "companyName": "Quora.com/profile/Harsh-Entrepreneur"
+  },
+  {
+    "linkedinAccount": "https://vn.linkedin.com/in/duyen-nguyen-5207072b6",
+    "id": 280170,
+    "firstName": "Duyen",
+    "lastName": "Nguyen",
+    "position": "Brand Manager",
+    "companyName": "AstraZeneca"
+  },
+  {
+    "linkedinAccount": "https://be.linkedin.com/in/jos-martens",
+    "id": 280167,
+    "firstName": "Jos",
+    "lastName": "Martens",
+    "position": "CEO",
+    "companyName": "Landa Remote by Landa Industries"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/frank-petry",
+    "id": 280165,
+    "firstName": "Frank",
+    "lastName": "Petry",
+    "position": "Pecon GbR",
+    "companyName": "Pecon GbR"
+  },
+  {
+    "id": 280164,
+    "firstName": "Georg",
+    "lastName": "Brandenburg",
+    "position": "Founder",
+    "companyName": "BBG STUDIO UG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/stefanrottmann",
+    "id": 280161,
+    "firstName": "Stefan",
+    "lastName": "Rottmann",
+    "position": "SR Media",
+    "companyName": "SR Media"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/martyn-boden-26646a34",
+    "id": 280160,
+    "firstName": "Martyn",
+    "lastName": "Boden",
+    "position": "Global Senior Account Manager – Sports",
+    "companyName": "Flixmedia"
+  },
+  {
+    "id": 280157,
+    "firstName": "Adetokumbo",
+    "lastName": "Ayorinde",
+    "position": "CSM",
+    "companyName": "Meta"
+  },
+  {
+    "id": 280152,
+    "firstName": "Nicolas",
+    "lastName": "Speeck",
+    "position": "CMO",
+    "companyName": "icTrainer / Indoor Training UG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/steffen-rademacher-90908a70",
+    "id": 280151,
+    "firstName": "Steffen",
+    "lastName": "Rademacher",
+    "position": "Head of IT",
+    "companyName": "Exchange AG Deutschland"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/samiq",
+    "id": 280147,
+    "firstName": "Gilbert",
+    "lastName": "Corrales",
+    "position": "CEO",
+    "companyName": "Leaf"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/helgaalvarez",
+    "id": 280146,
+    "firstName": "Helga",
+    "lastName": "Alvarez",
+    "position": "CTO",
+    "companyName": "Leaf"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/wesleyhartley",
+    "id": 280144,
+    "firstName": "Wesley",
+    "lastName": "Hartley",
+    "position": "CCO",
+    "companyName": "Leaf"
+  },
+  {
+    "id": 280142,
+    "firstName": "Mohenned",
+    "lastName": "Dhiyaa",
+    "position": "Digital Innovation Manager",
+    "companyName": "Novo Nordisk"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/katharina-gündüz-5b699b39a",
+    "id": 280140,
+    "firstName": "Katharina",
+    "lastName": "Gündüz",
+    "position": "Marketer",
+    "companyName": "HG Ecommerce GmbH"
+  },
+  {
+    "id": 280138,
+    "firstName": "Mark ",
+    "lastName": "Stein ",
+    "position": "Marketing ",
+    "companyName": "Tartan Scarf Company "
+  },
+  {
+    "linkedinAccount": "https://es.linkedin.com/in/alex-puryk",
+    "id": 280136,
+    "firstName": "Alex",
+    "lastName": "Puryk",
+    "position": "Head of Growth ",
+    "companyName": "Eli Z Group"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jörg-hurdelbrink-323199a7",
+    "id": 280133,
+    "firstName": "Jörg",
+    "lastName": "Hurdelbrink",
+    "position": "Sales and Techican",
+    "companyName": "Henkel AG"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/frank-linke-81a445a",
+    "id": 280131,
+    "firstName": "Frank",
+    "lastName": "Linke",
+    "position": "Enterprisesolution",
+    "companyName": "Enterprisesolution"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sven-scharf-693163302",
+    "id": 280130,
+    "firstName": "Sven",
+    "lastName": "Scharf-Hettig ",
+    "position": "Head of Amazon",
+    "companyName": "Collonil"
+  },
+  {
+    "linkedinAccount": "https://ca.linkedin.com/in/harpreet-parmar-b24843b9",
+    "id": 280129,
+    "firstName": "Harpreet",
+    "lastName": "Parmar",
+    "position": "Web Developer",
+    "companyName": "Fodmaplife.com"
+  },
+  {
+    "id": 280128,
+    "firstName": "Yves",
+    "lastName": "Nyom",
+    "position": "Owner",
+    "companyName": "Blue Oak Reseller LLC "
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/lars-rathjen-3229aaa",
+    "id": 280127,
+    "firstName": "Lars",
+    "lastName": "Rathjen",
+    "position": "lara.media",
+    "companyName": "lara.media"
+  },
+  {
+    "id": 280125,
+    "firstName": "Guido",
+    "lastName": "Hoermann",
+    "position": "COO",
+    "companyName": "Rocka Sports GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sebastian-sternemann",
+    "id": 280122,
+    "firstName": "Sebastian",
+    "lastName": "Sternemann",
+    "position": "CEO",
+    "companyName": "AEO"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/adriana-kafara-04b16991",
+    "id": 280121,
+    "firstName": "Adriana",
+    "lastName": "Kafara",
+    "position": "Data Technical Product Owner ",
+    "companyName": "Peek & Cloppenburg"
+  },
+  {
+    "id": 280119,
+    "firstName": "Holger ",
+    "lastName": "Sommerfeld",
+    "position": "E-Commerce Shop Manager",
+    "companyName": "Cornelsen Verlag GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/michis0806",
+    "id": 280118,
+    "firstName": "Michael",
+    "lastName": "Schmid",
+    "position": "COO",
+    "companyName": "Fox4Pets GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/geertkruiter",
+    "id": 280117,
+    "firstName": "Geert",
+    "lastName": "Kruiter",
+    "position": "www.33equity.eu",
+    "companyName": "www.33equity.eu"
+  },
+  {
+    "id": 280115,
+    "firstName": "Lucille",
+    "lastName": "Tai",
+    "position": "E-Commerce Channel Manager",
+    "companyName": "Pro Gamersware GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/mehmet-durmaz-1196a1265",
+    "id": 280113,
+    "firstName": "Mehmet",
+    "lastName": "Durmaz",
+    "position": "E-Commerce-Direktor",
+    "companyName": "Trend Star GmbH"
+  },
+  {
+    "linkedinAccount": "https://be.linkedin.com/in/mathiasdeknudt",
+    "id": 280109,
+    "firstName": "Mathias",
+    "lastName": "Deknudt",
+    "position": "Marketplace Manager",
+    "companyName": "Cortina Group (Leomil - Safety Jogger - Patrick - SJ)"
+  },
+  {
+    "id": 280107,
+    "firstName": "Timur",
+    "lastName": "Harras",
+    "position": "Owner",
+    "companyName": "Timur Harras (Ultimatrix)"
+  },
+  {
+    "id": 280105,
+    "firstName": "Simon",
+    "lastName": "Regitz",
+    "position": "E-Commerce Manager",
+    "companyName": "kletterbude.de"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/seosemberlin",
+    "id": 280103,
+    "firstName": "david",
+    "lastName": "de la fuente",
+    "position": "CEO",
+    "companyName": "SEO und GEO Manager"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/yasar-shabbir-7b23101b",
+    "id": 280097,
+    "firstName": "Yasar",
+    "lastName": "Shabbir",
+    "position": "Office Manager",
+    "companyName": "Insta medi care solutions limited"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/filip-sakowski-356aba236",
+    "id": 280095,
+    "firstName": "Filip",
+    "lastName": "Sakowski",
+    "position": "Marketplace Manager",
+    "companyName": "blue shadow"
+  },
+  {
+    "id": 280088,
+    "firstName": "Lorenz",
+    "lastName": "Oesterreich",
+    "position": "CCO",
+    "companyName": "FOMA"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/marcel-roessner",
+    "id": 280084,
+    "firstName": "marcel",
+    "lastName": "roessner",
+    "position": "partner consulting",
+    "companyName": "zalando"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jessica-ciutan-779b88280",
+    "id": 280078,
+    "firstName": "Jessica",
+    "lastName": "Ciutan",
+    "position": "Marketing Manager",
+    "companyName": "Polyprint GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/dennis-steinbacher",
+    "id": 280076,
+    "firstName": "Dennis",
+    "lastName": "Steinbacher",
+    "position": "E-Commerce Manager",
+    "companyName": "Unik Nordic"
+  },
+  {
+    "id": 280075,
+    "firstName": "Nick",
+    "lastName": "Houghton",
+    "position": "Commercial Sales Director",
+    "companyName": "Huxloe"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/stephantromp",
+    "id": 280074,
+    "firstName": "Stephan",
+    "lastName": "Tromp",
+    "position": "Deputy Secretary General",
+    "companyName": "Handelsverband Deutschland e.V."
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/kristofer-salberg",
+    "id": 280073,
+    "firstName": "Kristofer",
+    "lastName": "Salberg",
+    "position": "Head of Marketing",
+    "companyName": "Future Furniture AG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/samarrokhi",
+    "id": 280072,
+    "firstName": "Hossein",
+    "lastName": "Samarrokhi",
+    "position": "Redcare Pharmacy",
+    "companyName": "Redcare Pharmacy"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/ahmed-b-ba150918a",
+    "id": 280069,
+    "firstName": "Ahmed",
+    "lastName": "Beyhan",
+    "position": "Ceo",
+    "companyName": "Modaline Solutions Gmbh"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/hellothomaspreuss",
+    "id": 280068,
+    "firstName": "Thomas",
+    "lastName": "Preuß",
+    "position": "Unternehmensleitung",
+    "companyName": "UMDigital GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/konrad-holtkamp",
+    "id": 280067,
+    "firstName": "Konrad",
+    "lastName": "Holtkamp",
+    "position": "CEO",
+    "companyName": "Fliz Pay GmbH"
+  },
+  {
+    "id": 280063,
+    "firstName": "Mie",
+    "lastName": "Bilberg",
+    "position": "Senior advisor",
+    "companyName": "Danish Industry"
+  },
+  {
+    "linkedinAccount": "https://fi.linkedin.com/in/lauri-frank",
+    "id": 280062,
+    "firstName": "Lauri",
+    "lastName": "Frank",
+    "position": "Senior Researcher",
+    "companyName": "JYU"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/gerd-engert-4653099",
+    "id": 280061,
+    "firstName": "Gerd",
+    "lastName": "Engert",
+    "position": "Operation/IT",
+    "companyName": "Heilpflanzenwohl GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/olgasavchenko755",
+    "id": 280060,
+    "firstName": "Olga",
+    "lastName": "Savchenko",
+    "position": "DXC Global Solutions enablement director",
+    "companyName": "DXC Technology"
+  },
+  {
+    "id": 280058,
+    "firstName": "Vittorio",
+    "lastName": "Walter",
+    "position": "Senior Global Account Manager",
+    "companyName": "Kelkoo Deutschland GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/maxwersig",
+    "id": 280057,
+    "firstName": "Max",
+    "lastName": "Wersig",
+    "position": "Head of Brand Management",
+    "companyName": "Lilienthal Lifestyle GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/julio-cesar-castillo-8b1b66382",
+    "id": 280056,
+    "firstName": "Julio",
+    "lastName": "Castillo",
+    "position": "CEO",
+    "companyName": "La Jefa"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sven-hüttel-b212811aa",
+    "id": 280053,
+    "firstName": "Sven",
+    "lastName": "Hüttel",
+    "position": "Webmaster",
+    "companyName": "Schelchen GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/mareen-weber-69265511b",
+    "id": 280050,
+    "firstName": "Mareen",
+    "lastName": "Weber",
+    "position": "CMO",
+    "companyName": "Solarterrassen & Carportwerk GmbH"
+  },
+  {
+    "id": 280049,
+    "firstName": "jeremie",
+    "lastName": "veyres",
+    "position": "director ecommerce",
+    "companyName": "Parfumdreams"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/cplamper/de",
+    "id": 280045,
+    "firstName": "Christoph",
+    "lastName": "Plamper",
+    "position": "Owner & CEO",
+    "companyName": "Plamper Consulting"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/kerstin-bittner-59800b150",
+    "id": 280040,
+    "firstName": "Kerstin",
+    "lastName": "Bittner",
+    "position": "E-Commerce Manager",
+    "companyName": "Gebr. Schröder GmbH | Original LÖWE"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/tim-weber-58ba24311",
+    "id": 280039,
+    "firstName": "Tim",
+    "lastName": "weber",
+    "position": "Karmandala Handels GmbH",
+    "companyName": "Karmandala Handels GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/nadine-herrmann-the-cashback-queen-7508a9106",
+    "id": 280038,
+    "firstName": "Nadine",
+    "lastName": "Herrmann",
+    "position": "CEO",
+    "companyName": "mycashbacks GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/mtomaszewski1",
+    "id": 280037,
+    "firstName": "Marek",
+    "lastName": "Tomaszewski",
+    "position": "MD",
+    "companyName": "E-commerce Berlin Expo"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/ali-özer-695bbb5b",
+    "id": 280035,
+    "firstName": "Arzu",
+    "lastName": "Özer",
+    "position": "Marketing ",
+    "companyName": "Silverlab Solutions GmbH "
+  },
+  {
+    "linkedinAccount": "https://ae.linkedin.com/in/imran-khan-ba808b144",
+    "id": 280032,
+    "firstName": "Imran",
+    "lastName": "Khan",
+    "position": "IT Director and Country Manager",
+    "companyName": "Enrgtech Ltd"
+  },
+  {
+    "linkedinAccount": "https://in.linkedin.com/in/sagar-mishra-5b277143",
+    "id": 280027,
+    "firstName": "Sagar",
+    "lastName": "Mishra",
+    "position": "Head of Operations ",
+    "companyName": "Indisaurus Technologies GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/rahmatullah-musawi",
+    "id": 280016,
+    "firstName": "Rahmatullah",
+    "lastName": "Musawi",
+    "position": "AI Engineer",
+    "companyName": "Schindler + Hofmann GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/alper-demir-defacto",
+    "id": 280011,
+    "firstName": "Alper",
+    "lastName": "Demir",
+    "position": "Strategy Director",
+    "companyName": "DeFacto"
+  },
+  {
+    "id": 280010,
+    "firstName": "Uğur",
+    "lastName": "Çalıkoğlu",
+    "position": "Şirket Ortağı",
+    "companyName": "Pazarium Tekstil San. ve Tic. Ltd. Şti"
+  },
+  {
+    "id": 280009,
+    "firstName": "Hussam",
+    "lastName": "Azzawi",
+    "position": "Leiter",
+    "companyName": "Natur gewinnt"
+  },
+  {
+    "id": 280008,
+    "firstName": "Noah",
+    "lastName": "Müller",
+    "position": "Founder",
+    "companyName": "ShopGuide"
+  },
+  {
+    "linkedinAccount": "https://ua.linkedin.com/in/maryna-blahopoluchna-15886a364",
+    "id": 280000,
+    "firstName": "Maryna ",
+    "lastName": "Blahopoluchna",
+    "position": "Project manager   ",
+    "companyName": "Post International"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/shanmugasundaram-raja-938b9a244",
+    "id": 279997,
+    "firstName": "Shanmugasundaram",
+    "lastName": "Raja",
+    "position": "Founder",
+    "companyName": "Synaptex"
+  },
+  {
+    "id": 279995,
+    "firstName": "Bajram",
+    "lastName": "Ferati",
+    "position": "Geschäftsführer",
+    "companyName": "Now or Never - Online Marketing"
+  },
+  {
+    "linkedinAccount": "https://lv.linkedin.com/in/dmitrijslasko",
+    "id": 279994,
+    "firstName": "Dmitrijs",
+    "lastName": "Lasko",
+    "position": "Managing Director",
+    "companyName": "United Medals"
+  },
+  {
+    "linkedinAccount": "https://tn.linkedin.com/in/mohamed-amine-mechichi-3806773a",
+    "id": 279992,
+    "firstName": "Mohammed El Amine ",
+    "lastName": "Mechichi ",
+    "position": "Manager",
+    "companyName": "Mohammed El Amine Mechichi"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/muratcanturk",
+    "id": 279982,
+    "firstName": "Murat",
+    "lastName": "Canturk",
+    "position": "Ecommerce Leader",
+    "companyName": "Aldevron"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/george-andreadis-baa6086b",
+    "id": 279979,
+    "firstName": "George",
+    "lastName": "Andreadis",
+    "position": "CEO",
+    "companyName": "Bekarei GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/danellwood",
+    "id": 279972,
+    "firstName": "Daniel",
+    "lastName": "Ellwood",
+    "position": "Creative Director",
+    "companyName": "Prevent Group GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/david-mesche-02457a21a",
+    "id": 279970,
+    "firstName": "David",
+    "lastName": "Mesche",
+    "position": "ceo",
+    "companyName": "Buchbox"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/iam-joshua-ulrich",
+    "id": 279964,
+    "firstName": "Joshua",
+    "lastName": "Ulrich",
+    "position": "Account Manager",
+    "companyName": "Leaseweb Deutschland GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/adrian-raul-somma/en",
+    "id": 279963,
+    "firstName": "Adrian Raul",
+    "lastName": "Somma",
+    "position": "Business Development Manager",
+    "companyName": "Leaseweb"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/saharshoswal",
+    "id": 279959,
+    "firstName": "Saharsh",
+    "lastName": "Oswal",
+    "position": "CEO & Cofounder",
+    "companyName": "SUSTYY"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/erwin-rapp-8b8a65202",
+    "id": 279954,
+    "firstName": "Erwin",
+    "lastName": "Rapp",
+    "position": "Head of Sales",
+    "companyName": "Mainwebsolutions"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/claudiamalek",
+    "id": 279951,
+    "firstName": "Claudia ",
+    "lastName": "Malek",
+    "position": "CEO",
+    "companyName": "MYSQIN"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/octavio-herrera",
+    "id": 279949,
+    "firstName": "Octavio",
+    "lastName": "Herrera",
+    "position": "Founder",
+    "companyName": "AddressHub"
+  },
+  {
+    "id": 279944,
+    "firstName": "Erdogan",
+    "lastName": "Kimsesiz",
+    "position": "HLkomm Telekommunikations GmbH",
+    "companyName": "HLkomm Telekommunikations GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sven-pohl-schnittstellen-concierge",
+    "id": 279939,
+    "firstName": "Sven",
+    "lastName": "Pohl",
+    "position": "CEO",
+    "companyName": "ProduktivSoftware GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/evavergles",
+    "id": 279935,
+    "firstName": "Eva",
+    "lastName": "Vergles",
+    "position": "Startup Liaison Officer",
+    "companyName": "Embassy of the Netherlands"
+  },
+  {
+    "linkedinAccount": "https://at.linkedin.com/in/susn-pfrengle",
+    "id": 279930,
+    "firstName": "Susanne",
+    "lastName": "Pfrengle",
+    "position": "MD Europe",
+    "companyName": "CrankTank LLC"
+  },
+  {
+    "id": 279926,
+    "firstName": "Pooya",
+    "lastName": "Zandieh",
+    "position": "Founder and managing director ",
+    "companyName": "LUZID Studio"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/dhruvkumar-kathrotiya",
+    "id": 279923,
+    "firstName": "Dhruvkumar",
+    "lastName": "Kathrotiya",
+    "position": "Founder",
+    "companyName": "Atoms worldwide"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/natia-ninidze-12269734",
+    "id": 279920,
+    "firstName": "Natia",
+    "lastName": "Ninidze",
+    "position": "Senior Buyer",
+    "companyName": "Def Shop GmbH "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/farhan-merza-b5b4462b1",
+    "id": 279915,
+    "firstName": "Elias ",
+    "lastName": "Mirza",
+    "position": "Geschäftsführer ",
+    "companyName": "Farhan Merza "
+  },
+  {
+    "linkedinAccount": "https://bd.linkedin.com/in/kevinbnandkishore",
+    "id": 279914,
+    "firstName": "Kevin",
+    "lastName": "Nandkishore ",
+    "position": "Director ",
+    "companyName": "Taha international "
+  },
+  {
+    "id": 279906,
+    "firstName": "Orwa",
+    "lastName": "Kerdiea",
+    "position": "Owner",
+    "companyName": "LaurGreen - Aleppo Seife"
+  },
+  {
+    "linkedinAccount": "https://ua.linkedin.com/in/shadisaad",
+    "id": 279905,
+    "firstName": "Saad",
+    "lastName": "Saad",
+    "position": "CEO",
+    "companyName": "Business43"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/dmsummerfield",
+    "id": 279902,
+    "firstName": "Daniel",
+    "lastName": "Summerfield",
+    "position": "Enterprise Manager",
+    "companyName": "Shoptimised"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/steffenvardai",
+    "id": 279889,
+    "firstName": "Steffen",
+    "lastName": "Vardai",
+    "position": "tax relationships manager",
+    "companyName": "pathway solutions"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/kate-barengolz-220712357",
+    "id": 279886,
+    "firstName": "Kate",
+    "lastName": "Barengolz",
+    "position": "CTO",
+    "companyName": "Kadima Consulting - Inh. Henry Barengolz"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/exportrussia",
+    "id": 279885,
+    "firstName": "Henry",
+    "lastName": "Barengolz",
+    "position": "Kadima Consulting - Inh. Henry Barengolz",
+    "companyName": "Kadima Consulting - Inh. Henry Barengolz"
+  },
+  {
+    "id": 279879,
+    "firstName": "Jan",
+    "lastName": "Vellbinger",
+    "position": "Marktplatz Manager",
+    "companyName": "MTS MarkenTechnikService GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/theodor-kehler-8a2887246",
+    "id": 279877,
+    "firstName": "Anton",
+    "lastName": "Kehler",
+    "position": "CEO",
+    "companyName": "FAERELLI"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/marcin-moska-28123186",
+    "id": 279873,
+    "firstName": "Marcin",
+    "lastName": "Moska",
+    "position": "coo",
+    "companyName": "crehler"
+  },
+  {
+    "id": 279872,
+    "firstName": "Viktor ",
+    "lastName": "Hartmann",
+    "position": "Coach",
+    "companyName": "Hartmann"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/urs-mueller",
+    "id": 279871,
+    "firstName": "Urs",
+    "lastName": "Müller",
+    "position": "pi-optimal UG (haftungsbeschränkt)",
+    "companyName": "pi-optimal UG (haftungsbeschränkt)"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/andreas-kuehn",
+    "id": 279856,
+    "firstName": "Andreas",
+    "lastName": "Kühn",
+    "position": "CEO",
+    "companyName": "No Coffee"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/gereon-buschmann-82261240",
+    "id": 279855,
+    "firstName": "Gereon",
+    "lastName": "Buschmann",
+    "position": "Studio Lead",
+    "companyName": "GLS eComLab"
+  },
+  {
+    "linkedinAccount": "https://ch.linkedin.com/in/shefketrobelli",
+    "id": 279850,
+    "firstName": "Shefket ",
+    "lastName": "Robelli ",
+    "position": "Founder&CEO ",
+    "companyName": "VOLTOX.AI "
+  },
+  {
+    "linkedinAccount": "https://dk.linkedin.com/in/pourya-vali-891427b8",
+    "id": 279846,
+    "firstName": "Pourya",
+    "lastName": "Maz",
+    "position": "CTO",
+    "companyName": "Valasolution"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/david-abdin-5656aa367",
+    "id": 279841,
+    "firstName": "David",
+    "lastName": "Abdin",
+    "position": "E-Commerce Systems Specialist",
+    "companyName": "INTRA-TEC GmbH"
+  },
+  {
+    "linkedinAccount": "https://dk.linkedin.com/in/andersthuepedersen",
+    "id": 279837,
+    "firstName": "Anders Thue",
+    "lastName": "Pedersen",
+    "position": "Product Owner",
+    "companyName": "Abakion a/s"
+  },
+  {
+    "id": 279825,
+    "firstName": "Sascha",
+    "lastName": "Grosskopf",
+    "position": "Marketing Director Global ",
+    "companyName": "TIMOCOM"
+  },
+  {
+    "id": 279823,
+    "firstName": "Deniz",
+    "lastName": "Ordulu",
+    "position": "Co-founder and General Manager",
+    "companyName": "Good Monkeys LLC"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/katharina-münzberg",
+    "id": 279820,
+    "firstName": "Katharina ",
+    "lastName": "Münzberg",
+    "position": "Head of Retail Media ",
+    "companyName": "HORNBACH Baumarkt AG "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/benjaminglauser",
+    "id": 279819,
+    "firstName": "Benjamin",
+    "lastName": "Glauser",
+    "position": "VP E-Business Konzern",
+    "companyName": "HORNBACH Baumarkt AG "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/bjoernwolff/en",
+    "id": 279809,
+    "firstName": "Björn",
+    "lastName": "Wolff",
+    "position": "CEO",
+    "companyName": "Rabaukenwein"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/francesco-passanante-taxi-advertising",
+    "id": 279808,
+    "firstName": "Francesco",
+    "lastName": "Passanante",
+    "position": "Senior Sales Manager",
+    "companyName": "Taxi Media"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/david-ackermann-760456131",
+    "id": 279806,
+    "firstName": "David",
+    "lastName": "Ackermann",
+    "position": "Director",
+    "companyName": "Ackermann&Company LTD"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/arina-mack-660a05269",
+    "id": 279790,
+    "firstName": "Arina",
+    "lastName": "Mack",
+    "position": "Assistant to the Management",
+    "companyName": "Corevision GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/rainer-moessner-45b71824",
+    "id": 279789,
+    "firstName": "Rainer",
+    "lastName": "Mößner",
+    "position": "owner",
+    "companyName": "Rainer Mößner Wirtschaftsprüfer"
+  },
+  {
+    "id": 279787,
+    "firstName": "Joep",
+    "lastName": "van Heteren",
+    "position": "Sales Consultant",
+    "companyName": "Synigo B.V."
+  },
+  {
+    "linkedinAccount": "https://dz.linkedin.com/in/abderraouf-kouider-fer2307maz24",
+    "id": 279784,
+    "firstName": "Abderraouf",
+    "lastName": "KOUIDER",
+    "position": "IT Administrator",
+    "companyName": "BERMI"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/rene-voigt-tk-world-ag",
+    "id": 279781,
+    "firstName": "René",
+    "lastName": "Voigt",
+    "position": "Product Sales Manager",
+    "companyName": "TK-World AG"
+  },
+  {
+    "id": 279779,
+    "firstName": "Dominykas",
+    "lastName": "Orda",
+    "position": "Founder",
+    "companyName": "Milo Leash"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/dorian-debicki-a86b4341",
+    "id": 279772,
+    "firstName": "Dorian",
+    "lastName": "Debicki",
+    "position": "Sales Lead Manufacturing ",
+    "companyName": "Liferay GmbH"
+  },
+  {
+    "id": 279764,
+    "firstName": "Ibrahim",
+    "lastName": "Madi",
+    "position": "CEO",
+    "companyName": "Amazonia"
+  },
+  {
+    "id": 279763,
+    "firstName": "Anvilla",
+    "lastName": "Li",
+    "position": "Berlin",
+    "companyName": "Freelance"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/tambranding",
+    "id": 279758,
+    "firstName": "Tamkan",
+    "lastName": "Turan",
+    "position": "Gründer",
+    "companyName": "tambranding"
+  },
+  {
+    "id": 279752,
+    "firstName": "Abdul Ahad",
+    "lastName": "Ayobi",
+    "position": "Umschüler ",
+    "companyName": "IAL"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/tobias-hollschewski-a97b961a1",
+    "id": 279750,
+    "firstName": "Tobias",
+    "lastName": "Hollschewski",
+    "position": "eCommerce",
+    "companyName": "Obeta - Oskar Böttcher GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/yousuf-qamar",
+    "id": 279749,
+    "firstName": "Yousuf",
+    "lastName": "Qamar",
+    "position": "Director",
+    "companyName": "Brenton Ltd"
+  },
+  {
+    "id": 279740,
+    "firstName": "Razvan",
+    "lastName": "Miclaus",
+    "position": "CEO",
+    "companyName": "Doza de Sănătate "
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/rainbow-xijun-sun",
+    "id": 279738,
+    "firstName": "Rainbow",
+    "lastName": "Sun",
+    "position": "Music business development ",
+    "companyName": "Music Concierge "
+  },
+  {
+    "linkedinAccount": "https://in.linkedin.com/in/kalpesh-makwana-a7b67a244",
+    "id": 279724,
+    "firstName": "Kalpesh",
+    "lastName": "Makwana",
+    "position": "Marketer",
+    "companyName": "Bedding Royal"
+  },
+  {
+    "id": 279716,
+    "firstName": "Alby",
+    "lastName": "Jame",
+    "position": "Sales and Marketing",
+    "companyName": "Moos GmbH"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/maaz-khan-a52054246",
+    "id": 279709,
+    "firstName": "Maaz",
+    "lastName": "Khan",
+    "position": "Assistant Manager ",
+    "companyName": "Ovey London"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/kamran-aziz-0ab559aa",
+    "id": 279706,
+    "firstName": "Kamran",
+    "lastName": "Aziz",
+    "position": "Program Manager ",
+    "companyName": "SimbalTech GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/garytouet",
+    "id": 279700,
+    "firstName": "Gary",
+    "lastName": "Touet",
+    "position": "Freelancer",
+    "companyName": "Freelancer"
+  },
+  {
+    "id": 279693,
+    "firstName": "Patricio",
+    "lastName": "Iglesias Morales",
+    "position": "Junior e-commerce Manager",
+    "companyName": "Zeitgeist"
+  },
+  {
+    "id": 279691,
+    "firstName": "Robert",
+    "lastName": "Przemus",
+    "position": "Account Executive",
+    "companyName": "SALESmanago"
+  },
+  {
+    "linkedinAccount": "https://ch.linkedin.com/in/tobiassteiner/fr",
+    "id": 279689,
+    "firstName": "Tobias ",
+    "lastName": "Steinert",
+    "position": "Inside Sales Representative",
+    "companyName": "SALESmanago"
+  },
+  {
+    "linkedinAccount": "https://kr.linkedin.com/in/jihyun-park-063171350",
+    "id": 279688,
+    "firstName": "JIHYUN",
+    "lastName": "PARK",
+    "position": "Account manager",
+    "companyName": "Vivarepublica"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/valerie-r-64541b158",
+    "id": 279686,
+    "firstName": "Valerie",
+    "lastName": "Riedel",
+    "position": "Prokuristin / Head of Corporate Operations",
+    "companyName": "Naturida GmbH"
+  },
+  {
+    "id": 279682,
+    "firstName": "Luisana",
+    "lastName": "Porrello",
+    "position": "Ceo",
+    "companyName": "Natushop.de"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/carolinabammert",
+    "id": 279681,
+    "firstName": "Carolina ",
+    "lastName": "Bammert",
+    "position": "Founder",
+    "companyName": "Poppy Mojo GmbH"
+  },
+  {
+    "linkedinAccount": "https://nl.linkedin.com/in/julianmigura",
+    "id": 279676,
+    "firstName": "Julian",
+    "lastName": "Migura",
+    "position": "COO",
+    "companyName": "VaultN"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/katrin-lewandowski",
+    "id": 279673,
+    "firstName": "Katrin ",
+    "lastName": "Lewandowski",
+    "position": "Senior Director of Marketing",
+    "companyName": "SALESmanago"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/hana-shamaa",
+    "id": 279667,
+    "firstName": "Hana",
+    "lastName": "Shamaa",
+    "position": "Marketing Manager",
+    "companyName": "SAIZ GmbH"
+  },
+  {
+    "linkedinAccount": "https://cz.linkedin.com/in/hana-matustikova/cs",
+    "id": 279660,
+    "firstName": "Hana",
+    "lastName": "Matustikova",
+    "position": "Digitalization Director",
+    "companyName": "FRIDA Holding a.s."
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/wiktoria-kuska-79094421a",
+    "id": 279654,
+    "firstName": "Wiktoria",
+    "lastName": "Kuska",
+    "position": "Sales Manager",
+    "companyName": "Müller - die Lila Logistik"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sven-lahann-49501224",
+    "id": 279650,
+    "firstName": "Sven",
+    "lastName": "Lahann",
+    "position": "Senior Manager",
+    "companyName": "adesso SE"
+  },
+  {
+    "id": 279644,
+    "firstName": "Imad",
+    "lastName": "Bakour",
+    "position": "Owner",
+    "companyName": "Bakour imad"
+  },
+  {
+    "id": 279639,
+    "firstName": "Shumon",
+    "lastName": "Al Mamun",
+    "position": "CEO",
+    "companyName": "Learnwisepro"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/danielleayoub",
+    "id": 279638,
+    "firstName": "Danielle",
+    "lastName": "Ayoub",
+    "position": "Head of E-Commerce",
+    "companyName": "The Nutriment Company"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/maurice-pingel",
+    "id": 279637,
+    "firstName": "Maurice ",
+    "lastName": "Pingel ",
+    "position": "Lead E Commerce & Customer Care ",
+    "companyName": "Schulte Home"
+  },
+  {
+    "id": 279636,
+    "firstName": "Benjamin",
+    "lastName": "Thaler",
+    "position": "Manager Digital Sales Channel",
+    "companyName": "Konica Minolta"
+  },
+  {
+    "id": 279635,
+    "firstName": "Andreas",
+    "lastName": "Mischok",
+    "position": "Owner",
+    "companyName": "Heizteufel"
+  },
+  {
+    "linkedinAccount": "https://it.linkedin.com/in/davide-geraci/en",
+    "id": 279634,
+    "firstName": "davide",
+    "lastName": "geraci",
+    "position": "founder",
+    "companyName": "prodgtal"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/senior-andree",
+    "id": 279633,
+    "firstName": "Andree",
+    "lastName": "Kröger",
+    "position": "Product Owner",
+    "companyName": "Arvato SE"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/thomas-uebing-5769472b",
+    "id": 279629,
+    "firstName": "Thomas",
+    "lastName": "Uebing",
+    "position": "Vice President Digital Marketing + E-Commerce",
+    "companyName": "DURABLE - Hunke & Jochheim GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/marie-sophie-lendway",
+    "id": 279625,
+    "firstName": "Marie-Sophie",
+    "lastName": "Lendway",
+    "position": "Business Development Manager",
+    "companyName": "Codept"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/konstantin-prilop-358391115",
+    "id": 279623,
+    "firstName": "Konstantin",
+    "lastName": "Prilop",
+    "position": "Business Owner Digital Sales",
+    "companyName": "Kienzle Automotive GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jenna-may-hagemann",
+    "id": 279619,
+    "firstName": "Jenna May",
+    "lastName": "Hagemann",
+    "position": "Solution Consultant",
+    "companyName": "Deutsche Post Adress GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/andreas-keil-0b1060310",
+    "id": 279597,
+    "firstName": "Andreas",
+    "lastName": "Keil",
+    "position": "Business Owner",
+    "companyName": "Volkswagen"
+  },
+  {
+    "id": 279594,
+    "firstName": "Taha-Yassine",
+    "lastName": "Khalil",
+    "position": "Ceo",
+    "companyName": "E-BOOST"
+  },
+  {
+    "id": 279592,
+    "firstName": "Nazmi",
+    "lastName": "Cengiz",
+    "position": "Owner",
+    "companyName": "Thefineorganics.de"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/anakyryliuk",
+    "id": 279589,
+    "firstName": "Anastasiia",
+    "lastName": "Kyryliuk",
+    "position": "Ecommerce Manager",
+    "companyName": "Fabletics"
+  },
+  {
+    "id": 279588,
+    "firstName": "Vlad",
+    "lastName": "Kharkivskiy",
+    "position": "CEO",
+    "companyName": "Skalum "
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/kelechi-udeozor",
+    "id": 279585,
+    "firstName": "Kelechi",
+    "lastName": "Udeozor",
+    "position": "Snr. Manager - Connected Commerce",
+    "companyName": "Church & Dwight"
+  },
+  {
+    "linkedinAccount": "https://by.linkedin.com/in/andrei-navitski",
+    "id": 279582,
+    "firstName": "Andrei",
+    "lastName": "Navitski",
+    "position": "Head of Marketing",
+    "companyName": "Exploro"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/barelyoav",
+    "id": 279578,
+    "firstName": "Yoav",
+    "lastName": "Barel",
+    "position": "Founder",
+    "companyName": "Sunrize "
+  },
+  {
+    "id": 279570,
+    "firstName": "Diana",
+    "lastName": "Dufke-Vargas",
+    "position": "OWNER",
+    "companyName": "NUTREEOIL"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/heike-zech-a8a78b18",
+    "id": 279566,
+    "firstName": "Heike",
+    "lastName": "Zech",
+    "position": "Managerin",
+    "companyName": "Torq partners Finance GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jonathan-smolin-0b5781178",
+    "id": 279555,
+    "firstName": "Jonathan",
+    "lastName": "Smolin",
+    "position": "Key Account Manager",
+    "companyName": "Deutsche Post Adress GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/andy-fester-59a320172",
+    "id": 279554,
+    "firstName": "Andy",
+    "lastName": "Fester",
+    "position": "Key Account Manager ",
+    "companyName": "Post Adress GmbH & Co. KG"
+  },
+  {
+    "linkedinAccount": "https://rs.linkedin.com/in/bdanilo",
+    "id": 279551,
+    "firstName": "Danilo",
+    "lastName": "Bujisa",
+    "position": "Director",
+    "companyName": "Montenix LTD"
+  },
+  {
+    "id": 279543,
+    "firstName": "Prasenjit",
+    "lastName": "Bar",
+    "position": "Director",
+    "companyName": "Tharvix Ecommerce Solutions (OPC) Private Limited"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/ellenkuder",
+    "id": 279541,
+    "firstName": "Ellen",
+    "lastName": "Kuder",
+    "position": "VP",
+    "companyName": "Riverty"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/torbensens",
+    "id": 279536,
+    "firstName": "Phillip",
+    "lastName": "Thoben",
+    "position": "Business Development ",
+    "companyName": "ConSymbio GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/eren-aslan/en",
+    "id": 279534,
+    "firstName": "Eren",
+    "lastName": "Aslan",
+    "position": "Head of Sales & Partnerships",
+    "companyName": "VCE GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/kai-poerksen",
+    "id": 279529,
+    "firstName": "Kai",
+    "lastName": "Pörksen",
+    "position": "E-Commerce and Digital marketing Lead",
+    "companyName": "HOTEL ZOO BERLIN Betriebs GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/hanna-dittmann",
+    "id": 279527,
+    "firstName": "Hanna",
+    "lastName": "Dittmann",
+    "position": "Technical Product Owner Integrations",
+    "companyName": "TEVEO GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/pa-dominique-harris",
+    "id": 279519,
+    "firstName": "Dominique",
+    "lastName": "Harris",
+    "position": "VP Strategy & Innovation",
+    "companyName": "Peak Ace AG"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/joseph-danquah-49087b79",
+    "id": 279517,
+    "firstName": "Joseph",
+    "lastName": "Danquah",
+    "position": "Owner",
+    "companyName": "Yadan Import and Export"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/johannes-hofmeister-1b40b1378",
+    "id": 279515,
+    "firstName": "Johannes",
+    "lastName": "Hofmeister",
+    "position": "Lehrer",
+    "companyName": "BS Wirtschaft Rostock"
+  },
+  {
+    "linkedinAccount": "https://lt.linkedin.com/in/šarūnas-gedvilas-022874100",
+    "id": 279514,
+    "firstName": "Sarunas",
+    "lastName": "Gedvilas",
+    "position": "Ceo",
+    "companyName": "MB ROAS KODAS"
+  },
+  {
+    "id": 279508,
+    "firstName": "Ravindra ",
+    "lastName": "Gosai",
+    "position": "Alumni ",
+    "companyName": "IUBH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/alex-hilz-ai-sales",
+    "id": 279500,
+    "firstName": "Alex",
+    "lastName": "Hilz",
+    "position": "Account Executive",
+    "companyName": "deeploi"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/markus-zabel-4ab07715",
+    "id": 279493,
+    "firstName": "MARKUS",
+    "lastName": "ZABEL",
+    "position": "CEO",
+    "companyName": "foamnova GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/dr-gunnar-finck-76379397",
+    "id": 279492,
+    "firstName": "Dr. Gunnar",
+    "lastName": "Finck",
+    "position": "Flyeralarm (c/o Manuela Gebauer)",
+    "companyName": "Flyeralarm (c/o Manuela Gebauer)"
+  },
+  {
+    "id": 279491,
+    "firstName": "Chris",
+    "lastName": "Stahmer",
+    "position": "CEO",
+    "companyName": "ATS Concept GmbH / AUTOLAMPENSALON"
+  },
+  {
+    "linkedinAccount": "https://es.linkedin.com/in/marco-volpi",
+    "id": 279490,
+    "firstName": "Marco",
+    "lastName": "Volpi",
+    "position": "Director Global Sales",
+    "companyName": "Scalapay"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/szymon-gryczka",
+    "id": 279489,
+    "firstName": "Szymon",
+    "lastName": "Gryczka",
+    "position": "owner",
+    "companyName": "blekki sp. zo.o."
+  },
+  {
+    "id": 279485,
+    "firstName": "Lena",
+    "lastName": "Unterberg",
+    "position": "Digital Marketing Manager",
+    "companyName": "Riverty"
+  },
+  {
+    "linkedinAccount": "https://fi.linkedin.com/in/andreiarvonen",
+    "id": 279481,
+    "firstName": "Andrei",
+    "lastName": "Arvonen",
+    "position": "Co-Founder",
+    "companyName": "Lean Consulting Finland Oy"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/emreilban",
+    "id": 279478,
+    "firstName": "Emre",
+    "lastName": "Ilban",
+    "position": "Founder",
+    "companyName": "Lumintis Management & Consulting"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/victoria-gyimesi-cdmp-467398137",
+    "id": 279469,
+    "firstName": "Viktória",
+    "lastName": "Gyimesi",
+    "position": "Snr. Website Development Manager",
+    "companyName": "MarketingLens Ltd."
+  },
+  {
+    "id": 279466,
+    "firstName": "Miguel",
+    "lastName": "Ott",
+    "position": "Head of IT",
+    "companyName": "Groundies GmbH"
+  },
+  {
+    "linkedinAccount": "https://ee.linkedin.com/in/ilja-kukushkin-13776613b",
+    "id": 279464,
+    "firstName": "Ilja",
+    "lastName": "Kukushkin",
+    "position": "Head of Sales and Business development",
+    "companyName": "Boomerang Logistic Group "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/simone-heilmann-5a20b6220",
+    "id": 279451,
+    "firstName": "Simone",
+    "lastName": "Heilmann",
+    "position": "Teamleiterin Online Marketing & Marketplaces",
+    "companyName": "OnMaCon GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/philipp-brüggemeyer-721a47309",
+    "id": 279445,
+    "firstName": "Philipp",
+    "lastName": "Philipp",
+    "position": "Head of E-Commerce",
+    "companyName": "Pegador GmbH"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/thomasmaclean",
+    "id": 279439,
+    "firstName": "Thomas",
+    "lastName": "MacLean",
+    "position": "Developer ",
+    "companyName": "MacLean Informatics "
+  },
+  {
+    "linkedinAccount": "https://in.linkedin.com/in/akashagrawal139",
+    "id": 279438,
+    "firstName": "Akash",
+    "lastName": "Agrawal",
+    "position": "Principal Architect",
+    "companyName": "Nupanch Analytics Consulting"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/leon-czermak",
+    "id": 279435,
+    "firstName": "Leon",
+    "lastName": "Czermak",
+    "position": "Project- and Campaign Manager",
+    "companyName": "MAGIX Software GmbH"
+  },
+  {
+    "id": 279434,
+    "firstName": "Mo",
+    "lastName": "Asumang",
+    "position": "Vorstand ",
+    "companyName": "MoLab e.V."
+  },
+  {
+    "id": 279430,
+    "firstName": "Maximilian",
+    "lastName": "Kums",
+    "position": "Auszubildener ",
+    "companyName": "Selecdet Yarns Gmbh "
+  },
+  {
+    "id": 279429,
+    "firstName": "Valentin",
+    "lastName": "May",
+    "position": "Azubi",
+    "companyName": "ATS-Arbeitsschutz"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/noah-schotte-939a40351",
+    "id": 279428,
+    "firstName": "Noah",
+    "lastName": "Schotte",
+    "position": "Azubi",
+    "companyName": "Commercers GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/jamila-frahm-17975535b",
+    "id": 279427,
+    "firstName": "Jamila",
+    "lastName": "Härtge",
+    "position": "Azubi Kauffrau im E-Commerce ",
+    "companyName": "AIDA Cruises"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/wilfried-beeth-7ba14628b",
+    "id": 279424,
+    "firstName": "Wilfried",
+    "lastName": "Beeth",
+    "position": "Geschäftsführer",
+    "companyName": "CoLoCo Computer- und Logistikconsultingges mbH"
+  },
+  {
+    "id": 279422,
+    "firstName": "Andreas",
+    "lastName": "Schwarz",
+    "position": "Geschäftsführer",
+    "companyName": "Franke und Schwarz"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/alperen-arslan321",
+    "id": 279421,
+    "firstName": "Alperen Tarik",
+    "lastName": "ARSLAN",
+    "position": "Director",
+    "companyName": "Arslan D.O.O."
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/adeel-ashraf-0ab06738",
+    "id": 279418,
+    "firstName": "Adeel",
+    "lastName": "Ashraf",
+    "position": "Director",
+    "companyName": "Ecommerce Fulfilment Centre Ltd "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/c--e",
+    "id": 279417,
+    "firstName": "Chris",
+    "lastName": "Ecklebe",
+    "position": "COO",
+    "companyName": "rapidfalls"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/noam-berger-77a61a250",
+    "id": 279414,
+    "firstName": "Noam",
+    "lastName": "Berger",
+    "position": "E-Commerce Manager",
+    "companyName": "AMPELMANN GmbH"
+  },
+  {
+    "linkedinAccount": "https://it.linkedin.com/in/fgraziani",
+    "id": 279413,
+    "firstName": "Francesco",
+    "lastName": "Graziani",
+    "position": "VP Sales",
+    "companyName": "Pixel Moda"
+  },
+  {
+    "id": 279407,
+    "firstName": "Alexander",
+    "lastName": "von Tschirnhaus",
+    "position": "Shareholder",
+    "companyName": "We Love Parties GmbH"
+  },
+  {
+    "linkedinAccount": "https://ch.linkedin.com/in/tim-nepomuck-b090a5161",
+    "id": 279405,
+    "firstName": "Tim",
+    "lastName": "Nepomuck",
+    "position": "Team Lead Portfolio Development ",
+    "companyName": "Digitec Galaxus GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/anjali-jain-649948a7",
+    "id": 279403,
+    "firstName": "Anjali",
+    "lastName": "Jain",
+    "position": "Commerce and Retail Media Activation Manager",
+    "companyName": "Publicis Media"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/dr-daniela-peukert-662668ba",
+    "id": 279397,
+    "firstName": "Daniela ",
+    "lastName": "Peukert",
+    "position": "Geschäftsführerin ",
+    "companyName": "Darotex GmbH "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/bernd-g-6b60966a",
+    "id": 279396,
+    "firstName": "Bernd",
+    "lastName": "Grabow",
+    "position": "Senior Relationship Manager Internationale Accounts & eCommerce",
+    "companyName": "BNP Paribas S.A. - Consors Finanz"
+  },
+  {
+    "id": 279393,
+    "firstName": "Emil",
+    "lastName": "Blickle",
+    "position": "Azubi im E-Commerce",
+    "companyName": "ATTAS GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/pratyush-saxena-4370aa6",
+    "id": 279390,
+    "firstName": "Pratyush",
+    "lastName": "Saxena",
+    "position": "Founder",
+    "companyName": "Plumbed"
+  },
+  {
+    "linkedinAccount": "https://ua.linkedin.com/in/julia-bondarenko-52393a281",
+    "id": 279368,
+    "firstName": "Julia",
+    "lastName": "Bondarenko",
+    "position": "Managing Director",
+    "companyName": "RedHyve"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/dbassi",
+    "id": 279366,
+    "firstName": "Dave",
+    "lastName": "Bassi",
+    "position": "Founder",
+    "companyName": "Kinetic"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/dirk-hagemann-8266b4155",
+    "id": 279364,
+    "firstName": "Dirk",
+    "lastName": "Hagemann",
+    "position": "Sales Manager",
+    "companyName": "MAC IT-Solutions GmbH"
+  },
+  {
+    "linkedinAccount": "https://tr.linkedin.com/in/onur-koseoglu-6159223b",
+    "id": 279362,
+    "firstName": "şevket onur",
+    "lastName": "köseoğlu",
+    "position": "Owner ",
+    "companyName": "Nar Engineering "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/stefan-mueller-att",
+    "id": 279358,
+    "firstName": "Stefan M",
+    "lastName": "Müller",
+    "position": "Gepr. Online-Marketing-Manager",
+    "companyName": "ATTAS GmbH"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/emini-jaggan-hilton",
+    "id": 279356,
+    "firstName": "Emini",
+    "lastName": "Jaggan-Hilton",
+    "position": "Head of Partnerships",
+    "companyName": "Underground Ecom"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/tanja-hellmig",
+    "id": 279353,
+    "firstName": "Tanja",
+    "lastName": "Hellmig",
+    "position": "Strategic Partner Lead Fashion / Beauty ",
+    "companyName": "Pinterest"
+  },
+  {
+    "id": 279349,
+    "firstName": "Matthias",
+    "lastName": "Siwy",
+    "position": "COO",
+    "companyName": "MLC-direct "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/marcel-blettner-1a1b56384",
+    "id": 279340,
+    "firstName": "Marcel",
+    "lastName": "Blettner",
+    "position": "CEO",
+    "companyName": "Auréalis Perfumes "
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/florian-zuleger-5a263521b",
+    "id": 279337,
+    "firstName": "Florian",
+    "lastName": "Zuleger",
+    "position": "E-Commerce Manager",
+    "companyName": "ATTAS GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/florianfoege/de",
+    "id": 279335,
+    "firstName": "Florian",
+    "lastName": "Foege",
+    "position": "Manager Wirtschaftsförderung",
+    "companyName": "Invest Region Leipzig GmbH"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/usman-mushtaq-4105203b",
+    "id": 279333,
+    "firstName": "Usman",
+    "lastName": "Mushtaq ",
+    "position": "Owner",
+    "companyName": "UM E Commerce "
+  },
+  {
+    "id": 279332,
+    "firstName": "André",
+    "lastName": "Belga Monteiro Pereira",
+    "position": "Owner",
+    "companyName": "STEEL REBEL"
+  },
+  {
+    "id": 279324,
+    "firstName": "Lukasz",
+    "lastName": "Chobot",
+    "position": "CEO",
+    "companyName": "Tapiso sp. z o.o."
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/tobiaskohler",
+    "id": 279321,
+    "firstName": "Tobias",
+    "lastName": "Kohler",
+    "position": "Senior Product Analyst",
+    "companyName": "Pure"
+  },
+  {
+    "id": 279318,
+    "firstName": "Yongcheol",
+    "lastName": "Kim",
+    "position": "Account Manager",
+    "companyName": "Viva Republica"
+  },
+  {
+    "linkedinAccount": "https://uk.linkedin.com/in/sharonmomanyi",
+    "id": 279317,
+    "firstName": "Sharon",
+    "lastName": "Momanyi",
+    "position": "Founder",
+    "companyName": "Rue London"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/laura-neuberger",
+    "id": 279310,
+    "firstName": "Laura",
+    "lastName": "Neuberger",
+    "position": "Strategic Marketing Manager DACH",
+    "companyName": "Motatos GmbH"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/elena-nikolaeva-600aa163",
+    "id": 279307,
+    "firstName": "Elena",
+    "lastName": "Nikolaeva",
+    "position": "Senior Ecommerce Manager",
+    "companyName": "LLK-INTERNATIONAL"
+  },
+  {
+    "id": 279305,
+    "firstName": "Henning",
+    "lastName": "Hollmann",
+    "position": "Geschäftsführer",
+    "companyName": "extoLH GmbH"
+  },
+  {
+    "id": 279304,
+    "firstName": "Wolfgang",
+    "lastName": "Lieder",
+    "position": "Geschäftsführer",
+    "companyName": "extoLH GmbH"
+  },
+  {
+    "linkedinAccount": "https://ua.linkedin.com/in/nazar-petrychenko-420176222",
+    "id": 279303,
+    "firstName": "Nazar",
+    "lastName": "Petrychenko",
+    "position": "Founder",
+    "companyName": "Traffic Acselerator"
+  },
+  {
+    "linkedinAccount": "https://www.linkedin.com/in/aneesah-rasheed-5b2130a",
+    "id": 279301,
+    "firstName": "Aneesah",
+    "lastName": "Rashid",
+    "position": "Director ",
+    "companyName": "Kham Group "
+  },
+  {
+    "id": 279299,
+    "firstName": "Anna",
+    "lastName": "Davidson",
+    "position": "CEO",
+    "companyName": "Ecom Profits Lab"
+  },
+  {
+    "id": 279297,
+    "firstName": "Tolga",
+    "lastName": "Karadeniz",
+    "position": "Founder",
+    "companyName": "TBT aurora"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/weihua-wang-310a1488",
+    "id": 279296,
+    "firstName": "Weihua",
+    "lastName": "Wang",
+    "position": "Founder & CEO",
+    "companyName": "myBuddy"
+  },
+  {
+    "id": 279291,
+    "firstName": "Julian",
+    "lastName": "Höllen",
+    "position": "Inhaber",
+    "companyName": "JH Marketing"
+  },
+  {
+    "linkedinAccount": "https://ua.linkedin.com/in/oleksandr-k-284708399",
+    "id": 279286,
+    "firstName": "Oleksandr",
+    "lastName": "Kiyko",
+    "position": "CEO",
+    "companyName": "Ask 24 AI Engineering"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/ammar-fare-79758324a",
+    "id": 279284,
+    "firstName": "Ammar",
+    "lastName": "fare",
+    "position": "Founder ",
+    "companyName": "Byfare.de"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/markus-widera-ba78b822a",
+    "id": 279276,
+    "firstName": "Markus ",
+    "lastName": "Widera",
+    "position": "Teamlead E-Commerce",
+    "companyName": "HEES GmbH"
+  },
+  {
+    "id": 279269,
+    "firstName": "Muhammad",
+    "lastName": "Tariq",
+    "position": "Director",
+    "companyName": "General Traders OÜ"
+  },
+  {
+    "id": 279267,
+    "firstName": "Walid",
+    "lastName": "Ibrahem",
+    "position": "Business Development Manager",
+    "companyName": "DGL INTERNATIONAL"
+  },
+  {
+    "id": 279265,
+    "firstName": "David ",
+    "lastName": "TOPHAM",
+    "position": "Technical Director",
+    "companyName": "Tagline Tees"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sandra-kahlert",
+    "id": 279263,
+    "firstName": "Sandra",
+    "lastName": "Kahlert",
+    "position": "Sr. Director E-Commerce",
+    "companyName": "Fabletics GmbH"
+  },
+  {
+    "id": 279261,
+    "firstName": "Stefan",
+    "lastName": "Hassels",
+    "position": "Geschäftsführer",
+    "companyName": "Matthias-Film gGmbH"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/marcin-ganski",
+    "id": 279251,
+    "firstName": "Marcin",
+    "lastName": "Ganski",
+    "position": "Product Owner",
+    "companyName": "Super-Pharm"
+  },
+  {
+    "linkedinAccount": "https://pl.linkedin.com/in/karolina-kuntowska-34737924a",
+    "id": 279245,
+    "firstName": "Karolina",
+    "lastName": "Kuntowska",
+    "position": "E-commerce Specialist",
+    "companyName": "Senpo"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/eva-dubakina",
+    "id": 279240,
+    "firstName": "Jeva",
+    "lastName": "Dubakina",
+    "position": "Media Activation Manager",
+    "companyName": "Zalando Marketing Services"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/mats-röwekamp-100517166",
+    "id": 279239,
+    "firstName": "Mats",
+    "lastName": "Röwekamp",
+    "position": "CEO",
+    "companyName": "Riess-Ambiente.de GmbH"
+  },
+  {
+    "linkedinAccount": "https://no.linkedin.com/in/june-marita-hagen-161383267",
+    "id": 279235,
+    "firstName": "June-Marita",
+    "lastName": "Hagen",
+    "position": "E-commerse Manager",
+    "companyName": "Varner / Carlings"
+  },
+  {
+    "linkedinAccount": "https://de.linkedin.com/in/sarah-schellhammer-89295b29/nl",
+    "id": 279232,
+    "firstName": "Sarah",
+    "lastName": "Schellhammer",
+    "position": "Projektmanager",
+    "companyName": "Homestyle4u"
+  }
+]
