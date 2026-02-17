@@ -5,7 +5,7 @@ import crypto from "crypto";
 
 
 const readUsers = () => {
-  return JSON.parse(fs.readFileSync('./users/part.json', 'utf8'))
+  return JSON.parse(fs.readFileSync('./users/index.json', 'utf8'))
 }
 
 function getRandomNumber() {
